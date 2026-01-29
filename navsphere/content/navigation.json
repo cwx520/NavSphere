@@ -489,6 +489,14 @@
           "href": "https://www.bejson.com/others/comparecode/",
           "description": "访问 www.bejson.com",
           "icon": "/assets/favicon_1769706225055.png"
+        },
+        {
+          "id": "item-1769706254190",
+          "enabled": true,
+          "title": "PDF24 Tools",
+          "href": "https://tools.pdf24.org/en/",
+          "description": "Free online PDF tools to merge, compress, create, edit and convert PDFs. Quick and Easy. Without installation. Without registration.",
+          "icon": "/assets/favicon_1769706249372.png"
         }
       ],
       "subCategories": []
