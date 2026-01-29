@@ -598,6 +598,14 @@
           "href": "https://boardmix.cn/app/home",
           "description": "",
           "icon": "/assets/favicon_1769705193271.ico"
+        },
+        {
+          "id": "item-1769705216520",
+          "enabled": true,
+          "title": "阿里云盘",
+          "href": "https://www.aliyundrive.com/sign/in?back=https%3A%2F%2Fwww.aliyundrive.com%2Fdrive%2Flegacy",
+          "description": "访问 www.aliyundrive.com",
+          "icon": "/assets/favicon_1769705212321.png"
         }
       ],
       "subCategories": []
