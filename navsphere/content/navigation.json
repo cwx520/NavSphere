@@ -525,6 +525,14 @@
           "href": "https://ai-bot.cn/",
           "description": "访问 ai-bot.cn",
           "icon": "/assets/favicon_1769702811608.png"
+        },
+        {
+          "id": "item-1769702844778",
+          "enabled": true,
+          "title": "程序员盒子",
+          "href": "https://www.coderutil.com/",
+          "description": "访问 www.coderutil.com",
+          "icon": "/assets/favicon_1769702839162.png"
         }
       ],
       "subCategories": []
