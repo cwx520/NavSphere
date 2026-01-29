@@ -565,6 +565,14 @@
           "href": "https://www.ailookme.com/#term-174",
           "description": "访问 www.ailookme.com",
           "icon": "/assets/favicon_1769702940048.png"
+        },
+        {
+          "id": "item-1769702974505",
+          "enabled": true,
+          "title": "非猪ai导航",
+          "href": "https://feizhuke.com/",
+          "description": "访问 feizhuke.com",
+          "icon": "/assets/favicon_1769702971294.png"
         }
       ],
       "subCategories": []
