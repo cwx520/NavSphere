@@ -742,6 +742,14 @@
           "href": "https://shimo.im/loginByPassword?redirect_url=https%3A%2F%2Fshimo.im%2Frecent",
           "description": "访问 shimo.im",
           "icon": "/assets/favicon_1769705556919.png"
+        },
+        {
+          "id": "item-1769705704830",
+          "enabled": true,
+          "title": "百度翻译",
+          "href": "https://fanyi.baidu.com/mtpe-individual/transText?aldtype=16047#/auto/zh",
+          "description": "访问 fanyi.baidu.com",
+          "icon": "/assets/favicon_1769705701771.png"
         }
       ],
       "subCategories": []
