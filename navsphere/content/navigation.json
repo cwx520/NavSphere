@@ -225,6 +225,14 @@
           "href": "https://www.mianshiya.com/",
           "description": "访问 www.mianshiya.com",
           "icon": "/assets/favicon_1769701822034.png"
+        },
+        {
+          "id": "item-1769701841619",
+          "enabled": true,
+          "title": "犬小哈教程",
+          "href": "https://www.quanxiaoha.com/column/",
+          "description": "犬小哈教程网站提供的实战项目教程，手把手教您学习企业级项目开发技巧。",
+          "icon": "/assets/favicon_1769701837764.ico"
         }
       ],
       "subCategories": []
