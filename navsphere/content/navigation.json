@@ -310,6 +310,14 @@
           "href": "https://element.eleme.cn/#/zh-CN/component/installation",
           "description": "访问 element.eleme.cn",
           "icon": "/assets/favicon_1769704916707.png"
+        },
+        {
+          "id": "item-1769705001978",
+          "enabled": true,
+          "title": "arthas",
+          "href": "https://arthas.aliyun.com/",
+          "description": "访问 arthas.aliyun.com",
+          "icon": "/assets/favicon_1769704987473.png"
         }
       ],
       "subCategories": []
