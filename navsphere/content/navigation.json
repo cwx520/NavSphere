@@ -484,6 +484,14 @@
           "href": "https://vscode.dev/?vscode-lang=zh-cn",
           "description": "Build with Visual Studio Code, anywhere, anytime, entirely in your browser.",
           "icon": "/assets/favicon_1769704738077.png"
+        },
+        {
+          "id": "item-1769704813955",
+          "enabled": true,
+          "title": "微信公众平台",
+          "href": "https://mp.weixin.qq.com/",
+          "description": "微信公众平台，给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。",
+          "icon": "/assets/favicon_1769704812298.ico"
         }
       ],
       "subCategories": []
