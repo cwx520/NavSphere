@@ -557,6 +557,14 @@
           "href": "https://dashboard.ngrok.com/login?state=DvOcKcUzVYhcMds4APXAsm2ZHUvr6LCsl6Ua5b8C3E3P5zU0EJIsXtOVlM5f1NbHsEiXXMO79ZufHiwHEhCa3dy11TfuIsHYFQbWNK7Ta17LrIXhsXo8nCYYppfwszo5yrzBC6QDZEsfNyL9V05w8tYBsVUpaD5OTz-C9p6zzV65",
           "description": "Welcome to ngrok! Please log in.",
           "icon": "/assets/favicon_1769705020760.png"
+        },
+        {
+          "id": "item-1769705093172",
+          "enabled": true,
+          "title": "Maven Repository",
+          "href": "https://mvnrepository.com/",
+          "description": "",
+          "icon": "/assets/favicon_1769705087831.ico"
         }
       ],
       "subCategories": []
