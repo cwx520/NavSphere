@@ -354,6 +354,14 @@
           "href": "https://doc.ruoyi.vip/",
           "description": "访问 doc.ruoyi.vip",
           "icon": "/assets/favicon_1769702225944.png"
+        },
+        {
+          "id": "item-1769702257610",
+          "enabled": true,
+          "title": "人人开源",
+          "href": "https://www.renren.io/",
+          "description": "renren-security、renren-fast是人人开源社区采用Spring、MyBatis、Shiro编写的后台脚手架框架，支持MySQL、Oracle、SQL Server、PostgreSQL数据库，支持分布式部署，能够有效降低企业开发成本，提升开发效率",
+          "icon": "/assets/favicon_1769702249491.png"
         }
       ],
       "subCategories": []
