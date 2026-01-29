@@ -209,6 +209,14 @@
           "href": "https://www.oschina.net/",
           "description": "访问 www.oschina.net",
           "icon": "/assets/favicon_1769701750484.png"
+        },
+        {
+          "id": "item-1769701805653",
+          "enabled": true,
+          "title": "开发攀登网",
+          "href": "https://www.javaclimb.com/",
+          "description": "访问 www.javaclimb.com",
+          "icon": "/assets/favicon_1769701803801.png"
         }
       ],
       "subCategories": []
