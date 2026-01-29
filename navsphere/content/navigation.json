@@ -622,6 +622,14 @@
           "href": "https://cloud.tencent.com/login?s_url=https%3A%2F%2Fcloud.tencent.com%2F%3FfromSource%3Dgwzcw.7468276.7468276.7468276%26utm_medium%3Dcpc%26utm_id%3Dgwzcw.7468276.7468276.7468276",
           "description": "腾讯云为数百万的企业和开发者提供安全、稳定的云服务器、云主机、CDN、对象存储、域名注册、云存储、云数据库等云服务，帮助用户解决游戏、视频、移动、微信、互联网+等行业的架构难题，是全球领先的云计算服务商。",
           "icon": "/assets/favicon_1769705231870.ico"
+        },
+        {
+          "id": "item-1769705296823",
+          "enabled": true,
+          "title": "宝塔面板",
+          "href": "https://www.bt.cn/new/index.html",
+          "description": "宝塔(bt.cn)，让运维简单高效。面板支持Linux与Windows系统。一键配置：LAMP/LNMP、网站、数据库、FTP、SSL，通过Web端轻松管理服务器。",
+          "icon": "/assets/favicon_1769705293404.ico"
         }
       ],
       "subCategories": []
