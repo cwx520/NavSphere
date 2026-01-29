@@ -497,6 +497,14 @@
           "href": "https://tools.pdf24.org/en/",
           "description": "Free online PDF tools to merge, compress, create, edit and convert PDFs. Quick and Easy. Without installation. Without registration.",
           "icon": "/assets/favicon_1769706249372.png"
+        },
+        {
+          "id": "item-1769706293510",
+          "enabled": true,
+          "title": "Diffchecker",
+          "href": "https://www.diffchecker.com/",
+          "description": "Compare text, files, and code (e.g. json, xml) to find differences with Diffchecker online for free! Use our desktop app for private, offline diffs.",
+          "icon": "/assets/favicon_1769706282492.png"
         }
       ],
       "subCategories": []
