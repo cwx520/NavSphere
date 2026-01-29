@@ -1509,7 +1509,16 @@
       "icon": "FolderKanban",
       "description": "XXXXX",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1769690741038",
+          "title": "Hao123",
+          "href": "https://www.hao123.com/",
+          "description": "访问 www.hao123.com",
+          "icon": "/assets/favicon_1769690755348.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
