@@ -508,6 +508,14 @@
           "href": "https://www.huaweicloud.com/",
           "description": "华为云提供稳定可靠、安全可信、可持续发展的云服务，致力于让云无处不在，让智能无所不及，共建智能世界云底座。助力企业降本增效，全球300万客户的共同选择。7x24小时专业服务支持，5天内无理由退订，免费快速备案。",
           "icon": "/assets/favicon_1769704858777.ico"
+        },
+        {
+          "id": "item-1769704897730",
+          "enabled": true,
+          "title": "微信开放平台",
+          "href": "https://open.weixin.qq.com/",
+          "description": "",
+          "icon": "/assets/favicon_1769704895609.ico"
         }
       ],
       "subCategories": []
