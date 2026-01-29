@@ -493,6 +493,14 @@
           "href": "https://nav.ilaozhu.com/",
           "description": "一个专门为独立开发者推荐实用工具，提升开发效率，启发创作灵感而打造的一站式资源、工具箱导航网站。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=nav.ilaozhu.com"
+        },
+        {
+          "id": "item-1769702733347",
+          "enabled": true,
+          "title": "huahan.cc工程师导航",
+          "href": "https://huahan.cc/",
+          "description": "huahan.cc泛微OA工程师导航 - 打造专业的OA系统技术支持与资源分享平台, 为泛微OA系统工程师和使用者提供技术支持、插件下载与知识分享站点导航, 助力你快速找到所需的信息。",
+          "icon": "/assets/favicon_1769702726494.png"
         }
       ],
       "subCategories": []
