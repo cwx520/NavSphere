@@ -630,6 +630,14 @@
           "href": "https://www.bt.cn/new/index.html",
           "description": "宝塔(bt.cn)，让运维简单高效。面板支持Linux与Windows系统。一键配置：LAMP/LNMP、网站、数据库、FTP、SSL，通过Web端轻松管理服务器。",
           "icon": "/assets/favicon_1769705293404.ico"
+        },
+        {
+          "id": "item-1769705314625",
+          "enabled": true,
+          "title": "七牛云",
+          "href": "https://sso.qiniu.com/?client_id=PIapUKqa3u6S24H868BelwrG0OFu8dS7AxVQ8oz8HznLXhgrl2BnjaO9cs9LzxK2&redirect_url=https%3A%2F%2Fportal.qiniu.com%2Fapi%2Fgaea%2Fsso%2Fsignin%3Fredirect%3D%252Fhome",
+          "description": "访问 sso.qiniu.com",
+          "icon": "/assets/favicon_1769705311549.png"
         }
       ],
       "subCategories": []
