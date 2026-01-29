@@ -410,6 +410,14 @@
           "href": "https://www.javaguns.com/",
           "description": "访问 www.javaguns.com",
           "icon": "/assets/favicon_1769702491038.png"
+        },
+        {
+          "id": "item-1769702516411",
+          "enabled": true,
+          "title": "Erupt",
+          "href": "https://www.erupt.xyz/#!/",
+          "description": "访问 www.erupt.xyz",
+          "icon": "/assets/favicon_1769702514140.png"
         }
       ],
       "subCategories": []
