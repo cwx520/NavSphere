@@ -137,6 +137,14 @@
           "href": "https://programmercarl.com/",
           "description": "访问 programmercarl.com",
           "icon": "/assets/favicon_1769701432669.png"
+        },
+        {
+          "id": "item-1769701500198",
+          "enabled": true,
+          "title": "弟弟快看",
+          "href": "https://www.ddkk.com/",
+          "description": "访问 www.ddkk.com",
+          "icon": "/assets/favicon_1769701492797.png"
         }
       ],
       "subCategories": []
