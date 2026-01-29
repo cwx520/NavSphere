@@ -159,7 +159,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1769697346843",
+          "enabled": true,
+          "title": "chatos",
+          "href": "https://iai.aichatos8.com.cn/#/home?from=lg",
+          "description": "",
+          "icon": "/assets/favicon_1769697341853.png"
+        }
+      ],
       "subCategories": []
     }
   ]
