@@ -394,6 +394,14 @@
           "href": "https://smartadmin.vip/",
           "description": "访问 smartadmin.vip",
           "icon": "/assets/favicon_1769702419896.png"
+        },
+        {
+          "id": "item-1769702470579",
+          "enabled": true,
+          "title": "BladeX",
+          "href": "https://bladex.cn/#/",
+          "description": "",
+          "icon": "/assets/favicon_1769702464598.png"
         }
       ],
       "subCategories": []
