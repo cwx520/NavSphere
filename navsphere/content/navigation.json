@@ -153,6 +153,14 @@
           "href": "http://itsoku.com/course/23",
           "description": "Java充电社(www.itsoku.com)提供了大量Java学习教程，让大家更好更轻松的学习各种Java技术。",
           "icon": "/assets/favicon_1769701539341.ico"
+        },
+        {
+          "id": "item-1769701565616",
+          "enabled": true,
+          "title": "陌溪的学习笔记",
+          "href": "https://note.moguit.cn/#/README",
+          "description": "陌溪的学习笔记，面试突击宝典",
+          "icon": "/assets/favicon_1769701560511.png"
         }
       ],
       "subCategories": []
