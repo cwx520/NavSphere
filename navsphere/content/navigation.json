@@ -352,6 +352,14 @@
           "href": "https://www.scnet.cn/ui/chatbot/#/home",
           "description": "",
           "icon": "/assets/favicon_1769702589598.png"
+        },
+        {
+          "id": "item-1769702621289",
+          "enabled": true,
+          "title": "当贝AI",
+          "href": "https://ai.dangbei.com/chat/358655118298186117",
+          "description": "当贝AI，体验DeepSeek满血版，聚合全网优质AI大模型，如DeepSeek-R1 671B、豆包、通义千问、智谱等。当贝AI知识库，深度AI解决方案，极速、高效、免费、无需注册、不限量！",
+          "icon": "/assets/favicon_1769702618895.svg"
         }
       ],
       "subCategories": []
