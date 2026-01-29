@@ -65,6 +65,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1769696285699",
+      "title": "博客网站",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
