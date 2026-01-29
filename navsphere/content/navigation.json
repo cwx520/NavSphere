@@ -525,6 +525,14 @@
           "href": "https://open.weixin.qq.com/",
           "description": "",
           "icon": "/assets/favicon_1769704895609.ico"
+        },
+        {
+          "id": "item-1769704964114",
+          "enabled": true,
+          "title": "阿里云",
+          "href": "https://www.aliyun.com/?spm=5176.42028462.J_4VYgf18xNlTAyFFbOuOQe.d_logo.3728154aYBpKwN",
+          "description": "访问 www.aliyun.com",
+          "icon": "/assets/favicon_1769704960247.png"
         }
       ],
       "subCategories": []
