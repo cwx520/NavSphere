@@ -249,6 +249,14 @@
           "href": "https://github.com/krahets/LeetCode-Book",
           "description": "《剑指 Offer》《图解算法数据结构》《Krahets 笔面试精选 88 题》Python, Java, C++ 解题代码 - krahets/LeetCode-Book",
           "icon": "/assets/favicon_1769701917930.png"
+        },
+        {
+          "id": "item-1769701962851",
+          "enabled": true,
+          "title": "苏三说Java",
+          "href": "https://github.com/dvsusan/susanSayJava",
+          "description": "作者苏三浪迹过几家大厂，掘金优秀创作者，阿里云专家博主，腾讯云年度潜力作者，CSDN万粉博主。. Contribute to dvsusan/susanSayJava development by creating an account on GitHub.",
+          "icon": "/assets/favicon_1769701948571.png"
         }
       ],
       "subCategories": []
