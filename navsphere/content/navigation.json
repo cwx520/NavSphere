@@ -344,6 +344,14 @@
           "href": "https://www.wenxiaobai.com/",
           "description": "访问 www.wenxiaobai.com",
           "icon": "/assets/favicon_1769702553962.png"
+        },
+        {
+          "id": "item-1769702602299",
+          "enabled": true,
+          "title": "超算互联网",
+          "href": "https://www.scnet.cn/ui/chatbot/#/home",
+          "description": "",
+          "icon": "/assets/favicon_1769702589598.png"
         }
       ],
       "subCategories": []
