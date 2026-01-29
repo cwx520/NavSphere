@@ -125,11 +125,11 @@
         },
         {
           "id": "item-1769701392032",
-          "enabled": true,
-          "title": "书栈网 · BookStack_程序员IT互联网开源编程书籍免费阅读，助您【码】力十足！",
+          "title": "书栈网",
           "href": "https://www.bookstack.cn/",
           "description": "书栈网",
-          "icon": "/assets/favicon_1769701375660.png"
+          "icon": "/assets/favicon_1769701375660.png",
+          "enabled": true
         },
         {
           "id": "item-1769701417654",
