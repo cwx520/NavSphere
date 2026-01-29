@@ -638,6 +638,14 @@
           "href": "https://sso.qiniu.com/?client_id=PIapUKqa3u6S24H868BelwrG0OFu8dS7AxVQ8oz8HznLXhgrl2BnjaO9cs9LzxK2&redirect_url=https%3A%2F%2Fportal.qiniu.com%2Fapi%2Fgaea%2Fsso%2Fsignin%3Fredirect%3D%252Fhome",
           "description": "访问 sso.qiniu.com",
           "icon": "/assets/favicon_1769705311549.png"
+        },
+        {
+          "id": "item-1769705339665",
+          "enabled": true,
+          "title": "Sunny-Ngrok",
+          "href": "https://www.ngrok.cc/login.html",
+          "description": "<block name=",
+          "icon": "https://www.ngrok.cc/favicon.ico"
         }
       ],
       "subCategories": []
