@@ -88,6 +88,14 @@
           "href": "https://web.shiguangxu.com/home/matter/all",
           "description": "访问 web.shiguangxu.com",
           "icon": "/assets/favicon_1769697224530.png"
+        },
+        {
+          "id": "item-1769705446128",
+          "enabled": true,
+          "title": "博客园",
+          "href": "https://i.cnblogs.com/posts/edit",
+          "description": "访问 i.cnblogs.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.cnblogs.com"
         }
       ],
       "subCategories": []
