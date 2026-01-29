@@ -476,7 +476,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1769704752273",
+          "enabled": true,
+          "title": "VS Code",
+          "href": "https://vscode.dev/?vscode-lang=zh-cn",
+          "description": "Build with Visual Studio Code, anywhere, anytime, entirely in your browser.",
+          "icon": "/assets/favicon_1769704738077.png"
+        }
+      ],
       "subCategories": []
     },
     {
