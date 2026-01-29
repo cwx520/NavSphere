@@ -136,6 +136,14 @@
           "href": "https://www.nowcoder.com/",
           "description": "求职之前，先上牛客，就业找工作一站解决。互联网IT技术/产品/运营/硬件/汽车机械制造/金融/财务管理/审计/银行/市场营销/地产/快消/管培生等等专业技能学习/备考/求职神器，在线进行企业校招实习笔试面试真题模拟考试练习，全面提升求职竞争力，找到好工作，拿到好offer。_牛客网_牛客在手,offer不愁",
           "icon": "/assets/favicon_1769705539871.ico"
+        },
+        {
+          "id": "item-1769705574067",
+          "enabled": true,
+          "title": "语雀",
+          "href": "https://www.yuque.com/login?goto=https%3A%2F%2Fwww.yuque.com%2Fdashboard%2Fbooks",
+          "description": "访问 www.yuque.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yuque.com"
         }
       ],
       "subCategories": []
