@@ -549,6 +549,14 @@
           "href": "https://www.aigc.cn/",
           "description": "访问 www.aigc.cn",
           "icon": "/assets/favicon_1769702901141.png"
+        },
+        {
+          "id": "item-1769702924656",
+          "enabled": true,
+          "title": "百大AI应用",
+          "href": "https://www.turingscat.com/ai-top-100",
+          "description": "访问 www.turingscat.com",
+          "icon": "/assets/favicon_1769702919418.png"
         }
       ],
       "subCategories": []
