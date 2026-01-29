@@ -121,6 +121,14 @@
           "href": "https://www.bookstack.cn/",
           "description": "书栈网",
           "icon": "/assets/favicon_1769701375660.png"
+        },
+        {
+          "id": "item-1769701417654",
+          "enabled": true,
+          "title": "Java突击队",
+          "href": "http://www.susan.net.cn/",
+          "description": "访问 www.susan.net.cn",
+          "icon": "/assets/favicon_1769701409675.png"
         }
       ],
       "subCategories": []
