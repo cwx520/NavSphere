@@ -441,7 +441,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1769706082894",
+          "enabled": true,
+          "title": "JSON在线解析,JSON格式化,JSON解析,JSON 校验（SO JSON）",
+          "href": "https://www.sojson.com/simple_json.html",
+          "description": "在线,JSON,JSON 校验,格式化,xml转json 工具,在线工具,json视图,可视化,程序,服务器,域名注册,正则表达式,测试,在线json格式化工具,json 格式化,json格式化工具,json字符串格式化,json 在线查看器,json在线,json 在线验证,json tools online,在线文字对比工具。",
+          "icon": "/assets/favicon_1769706075949.png"
+        }
+      ],
       "subCategories": []
     },
     {
