@@ -501,6 +501,14 @@
           "href": "https://huahan.cc/",
           "description": "huahan.cc泛微OA工程师导航 - 打造专业的OA系统技术支持与资源分享平台, 为泛微OA系统工程师和使用者提供技术支持、插件下载与知识分享站点导航, 助力你快速找到所需的信息。",
           "icon": "/assets/favicon_1769702726494.png"
+        },
+        {
+          "id": "item-1769702751713",
+          "enabled": true,
+          "title": "Tik128跨境电商",
+          "href": "https://tik128.com/",
+          "description": "访问 tik128.com",
+          "icon": "/assets/favicon_1769702744702.png"
         }
       ],
       "subCategories": []
