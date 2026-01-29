@@ -201,6 +201,14 @@
           "href": "https://www.javacn.site/",
           "description": "访问 www.javacn.site",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.javacn.site"
+        },
+        {
+          "id": "item-1769701767220",
+          "enabled": true,
+          "title": "OSC开源社区",
+          "href": "https://www.oschina.net/",
+          "description": "访问 www.oschina.net",
+          "icon": "/assets/favicon_1769701750484.png"
         }
       ],
       "subCategories": []
