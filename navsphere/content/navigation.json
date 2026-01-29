@@ -233,6 +233,14 @@
           "href": "https://www.quanxiaoha.com/column/",
           "description": "犬小哈教程网站提供的实战项目教程，手把手教您学习企业级项目开发技巧。",
           "icon": "/assets/favicon_1769701837764.ico"
+        },
+        {
+          "id": "item-1769701867940",
+          "enabled": true,
+          "title": "labuladong的算法笔记",
+          "href": "https://labuladong.online/zh/",
+          "description": "系统化的算法学习路径，配套可视化面板和刷题插件，帮你快速掌握算法核心知识",
+          "icon": "/assets/favicon_1769701859958.ico"
         }
       ],
       "subCategories": []
