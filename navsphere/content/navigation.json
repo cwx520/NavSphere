@@ -370,6 +370,14 @@
           "href": "https://www.jeecg.com/",
           "description": "JeecgBoot AI低代码平台，基于SpringBoot+Ant Design的前后端分离微服务架构,集成完善的工作流平台、强大的代码生成器、流程设计器、表单设计器、大屏设计器、报表门户设计，可以应用在任何J2EE项目开发中，尤其适合企业信息管理系统（MIS）、办公系统（OA）、企业资源计划系统（ERP）、客户关系管理系统（CRM）等，其半智能+手工Merge的低代码开发方式，可以显著提高开发效率70%以上，极大降低研发成本。",
           "icon": "/assets/favicon_1769702294586.ico"
+        },
+        {
+          "id": "item-1769702374724",
+          "enabled": true,
+          "title": "JeeSite",
+          "href": "https://www.jeesite.com/",
+          "description": "JeeSite 是 Spring Boot 目前最好的快速开发平台, Java 开源框架, 使用经典技术组合：SpringBoot、SpringCloud、MyBatis、Shiro、Beetl、Bootstrap、AdminLTE 等、前后分离版采用 Vue3、Vite、Ant Design Vue。包括：用户, 权限, BPM, IAM, Cloud",
+          "icon": "/assets/favicon_1769702371143.png"
         }
       ],
       "subCategories": []
