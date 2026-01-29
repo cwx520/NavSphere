@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1769696435835",
+      "title": "推荐网站",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1769694924120",
       "title": "常用网站",
       "icon": "FolderKanban",
@@ -114,15 +123,6 @@
     {
       "id": "1769696418096",
       "title": "ChatGPT网站",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1769696435835",
-      "title": "推荐网站",
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
