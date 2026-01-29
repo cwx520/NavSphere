@@ -541,6 +541,14 @@
           "href": "https://www.aliyun.com/?spm=5176.42028462.J_4VYgf18xNlTAyFFbOuOQe.d_logo.3728154aYBpKwN",
           "description": "访问 www.aliyun.com",
           "icon": "/assets/favicon_1769704960247.png"
+        },
+        {
+          "id": "item-1769705029584",
+          "enabled": true,
+          "title": "ngrok",
+          "href": "https://dashboard.ngrok.com/login?state=DvOcKcUzVYhcMds4APXAsm2ZHUvr6LCsl6Ua5b8C3E3P5zU0EJIsXtOVlM5f1NbHsEiXXMO79ZufHiwHEhCa3dy11TfuIsHYFQbWNK7Ta17LrIXhsXo8nCYYppfwszo5yrzBC6QDZEsfNyL9V05w8tYBsVUpaD5OTz-C9p6zzV65",
+          "description": "Welcome to ngrok! Please log in.",
+          "icon": "/assets/favicon_1769705020760.png"
         }
       ],
       "subCategories": []
