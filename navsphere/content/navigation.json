@@ -144,6 +144,14 @@
           "href": "https://www.yuque.com/login?goto=https%3A%2F%2Fwww.yuque.com%2Fdashboard%2Fbooks",
           "description": "访问 www.yuque.com",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yuque.com"
+        },
+        {
+          "id": "item-1769705586825",
+          "enabled": true,
+          "title": "GitHub",
+          "href": "https://github.com/",
+          "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+          "icon": "/assets/favicon_1769705584912.png"
         }
       ],
       "subCategories": []
