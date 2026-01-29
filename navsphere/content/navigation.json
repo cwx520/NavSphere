@@ -129,6 +129,14 @@
           "href": "http://www.susan.net.cn/",
           "description": "访问 www.susan.net.cn",
           "icon": "/assets/favicon_1769701409675.png"
+        },
+        {
+          "id": "item-1769701437822",
+          "enabled": true,
+          "title": "代码随想录",
+          "href": "https://programmercarl.com/",
+          "description": "访问 programmercarl.com",
+          "icon": "/assets/favicon_1769701432669.png"
         }
       ],
       "subCategories": []
