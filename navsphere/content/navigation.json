@@ -485,7 +485,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1769702710407",
+          "enabled": true,
+          "title": "老朱工具箱",
+          "href": "https://nav.ilaozhu.com/",
+          "description": "一个专门为独立开发者推荐实用工具，提升开发效率，启发创作灵感而打造的一站式资源、工具箱导航网站。",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=nav.ilaozhu.com"
+        }
+      ],
       "subCategories": []
     }
   ]
