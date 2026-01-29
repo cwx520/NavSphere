@@ -241,6 +241,14 @@
           "href": "https://labuladong.online/zh/",
           "description": "系统化的算法学习路径，配套可视化面板和刷题插件，帮你快速掌握算法核心知识",
           "icon": "/assets/favicon_1769701859958.ico"
+        },
+        {
+          "id": "item-1769701932117",
+          "enabled": true,
+          "title": "剑指 Offer",
+          "href": "https://github.com/krahets/LeetCode-Book",
+          "description": "《剑指 Offer》《图解算法数据结构》《Krahets 笔面试精选 88 题》Python, Java, C++ 解题代码 - krahets/LeetCode-Book",
+          "icon": "/assets/favicon_1769701917930.png"
         }
       ],
       "subCategories": []
