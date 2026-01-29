@@ -293,7 +293,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1769705170137",
+          "enabled": true,
+          "title": "图标库v5",
+          "href": "https://fontawesome.com.cn/v5",
+          "description": "访问 fontawesome.com.cn",
+          "icon": "/assets/favicon_1769705164325.png"
+        }
+      ],
       "subCategories": []
     },
     {
