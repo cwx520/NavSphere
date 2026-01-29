@@ -71,6 +71,14 @@
           "href": "https://dash.cloudflare.com/837d63ba4df92f38e7e3d54fd9ce70a5/pages/view/navsphere",
           "description": "访问 dash.cloudflare.com",
           "icon": "/assets/favicon_1769696011697.png"
+        },
+        {
+          "id": "item-1769697228263",
+          "enabled": true,
+          "title": "时光序",
+          "href": "https://web.shiguangxu.com/home/matter/all",
+          "description": "访问 web.shiguangxu.com",
+          "icon": "/assets/favicon_1769697224530.png"
         }
       ],
       "subCategories": []
