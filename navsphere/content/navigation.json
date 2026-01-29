@@ -346,6 +346,14 @@
           "href": "https://bugstack.cn/",
           "description": "访问 bugstack.cn",
           "icon": "/assets/favicon_1769705609503.png"
+        },
+        {
+          "id": "item-1769705798903",
+          "enabled": true,
+          "title": "13个Java项目应对招聘",
+          "href": "https://xiaofuge.notion.site/v2-0-13-Java-0fe5ce4333ee477da774a884cb44dc7a",
+          "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
+          "icon": "/assets/favicon_1769705787508.ico"
         }
       ],
       "subCategories": []
