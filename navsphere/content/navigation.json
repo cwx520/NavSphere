@@ -193,6 +193,14 @@
           "href": "https://www.hello-algo.com/",
           "description": "访问 www.hello-algo.com",
           "icon": "/assets/favicon_1769701706278.png"
+        },
+        {
+          "id": "item-1769701726726",
+          "enabled": true,
+          "title": "Javaᶜⁿ 面试突击",
+          "href": "https://www.javacn.site/",
+          "description": "访问 www.javacn.site",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.javacn.site"
         }
       ],
       "subCategories": []
