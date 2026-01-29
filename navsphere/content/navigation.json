@@ -557,6 +557,14 @@
           "href": "https://www.turingscat.com/ai-top-100",
           "description": "访问 www.turingscat.com",
           "icon": "/assets/favicon_1769702919418.png"
+        },
+        {
+          "id": "item-1769702943807",
+          "enabled": true,
+          "title": "AI工具箱",
+          "href": "https://www.ailookme.com/#term-174",
+          "description": "访问 www.ailookme.com",
+          "icon": "/assets/favicon_1769702940048.png"
         }
       ],
       "subCategories": []
