@@ -104,6 +104,14 @@
           "href": "https://gitcode.com/?tn=67bc3fa197a0293d6bfebd05?utm_source=devpress_gitcode",
           "description": "AtomGit | GitCode是面向全球开发者的开源社区,包括原创博客,开源代码托管,代码协作,项目管理等。与开发者社区互动,提升您的研发效率和质量。",
           "icon": "/assets/favicon_1769705463667.png"
+        },
+        {
+          "id": "item-1769705489537",
+          "enabled": true,
+          "title": "飞书",
+          "href": "https://accounts.feishu.cn/accounts/page/login?app_id=2&no_trap=1&query_scope=all&redirect_uri=https%3A%2F%2Fr0whfkbgrfy.feishu.cn%2Fdrive%2Fhome%2F%3Flogin_redirect_times%3D1",
+          "description": "",
+          "icon": "https://accounts.feishu.cn/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAACE4AAAhOAFFljFgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQnSURBVHgB7ZpbaBRnFMf/s5uYbMnUZJOm2U01K1kThBUSg4VSvKTQG1ja9E2FolLsU1Ha0pdSTJ7ah5Sq4IMK3l58ULzgHRE3iCCKJKAi3sjES6LRjdlsTLK6Zj1nZ9fbZrPzfd9GM+IPzs7sXM//fN+ZM/PNaEgSj8eLabKKbGHSJiMdZGs1TdueWqDxDznvo8lJMh/sgUHWSEKMlIBO2Mf5FAZZvZOcX0Yzy2A/uMtHNRLQTjN1sCdBFhCHjXHA5theQJ7IxvsivdhPpkpdoY5V7irkAiEBP+jl6IhG0HL/BpQIU0UaiWCrNwBVhLtQc1k1/q+oRbFDSHsa28LdWNfXBVWkr0Icwabb7TCejECWYmceOv3zlYIhncTcj09WzYUvvxCy9D+NoaX3OlRQrgPGk2E0dp1TaolO/zwKhAsyKF9G+cSqLaGSCzmpA6oiOKH7R2OQIWeFjEXs/aReKiE5FzqGByDDmDlwnvKqwQ8ptoXvYHn3JYjS5CzDz/fcON3eg4HBKG7eHUwsD/hLMd2j4/M6DwIzS9P2G1PALxtMASu/hhTND25YLnZ5V0bgOjGA/KtRaEOj4247rULHjn++xGz/CyEZ23vTUXMqI4KLXdujPgSHHmbchp11HQgnnLfK1KL8V5xnxs0BFrHpGKTg24RM+eAIxTC19Z6Q89Mqiij6X6UfK9uOLOKPLUBkGEJwUq8pr04/YdJ55+3HEOHPFQ2YTl0o7XhWdg5eAJa2Aj19EGJ1SRUWflDy4mRJ53kqAkd/8bc1Y66zfBnt7jOT++BZCJHqSrLOMxz9TAjVARbRvBP4b5/1LsVd6bd4pbTz40WfkSpkO9vMLmWlNS5cD2HP3+1SzjPjRZ+RrsSp1mDLlBsbd13E978ewq27EciQLfqM2lMJzFZgW/Qp5QjVDI8bVEUj+Gv9GRw5ZUCFbNFnlAWkSAmZNyuKw4ePIxQKQYXaWYGs0WdyPipx6nIB9Bk/osy3AIW6BzKUe3zY/e9nlrbNWQu8TlFZTcJiNAigDV3DUL+RtVUcziko9jZg9U+BRFe0woQJeH6CAqqeBXOgl8zBR9UR9PZ0IT/WjYfhQYw+NavxFJebWsuLotKZWPpFAVZ+I3B8vEFGRnV8+DEPpQTgqkxf/91c4PcmCDFpRubY+TVLIMyYLaDLPV9Lw7fsIt3mZfIyHfDqHbNYTSQcqNYV8k9/TMZhFXZ+M91KHziHCWHxfDPqqq2ddVwol0LY2UXU15csgOXLZDYsD2yxEH7Y52p7XmBsl52u8dJrz9nm7Uau80t6ZI7FcJ7wbfXrueJ1mxGurTSnE3lReP+K6W3zTggIwr50sIA22Je1WvIjD37Z7YO9MDRNm+Ggn3760wjz2wO7YMD02UzixFcfpIZml8P8pGWyEiRrIatnn3nBM86xc8I2LjziAAAAAElFTkSuQmCC"
         }
       ],
       "subCategories": []
