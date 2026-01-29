@@ -161,6 +161,14 @@
           "href": "https://note.moguit.cn/#/README",
           "description": "陌溪的学习笔记，面试突击宝典",
           "icon": "/assets/favicon_1769701560511.png"
+        },
+        {
+          "id": "item-1769701586565",
+          "enabled": true,
+          "title": "时代Java",
+          "href": "https://nowjava.com/",
+          "description": "访问 nowjava.com",
+          "icon": "/assets/favicon_1769701580862.png"
         }
       ],
       "subCategories": []
