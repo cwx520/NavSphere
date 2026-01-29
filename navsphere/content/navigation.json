@@ -573,6 +573,14 @@
           "href": "https://feizhuke.com/",
           "description": "访问 feizhuke.com",
           "icon": "/assets/favicon_1769702971294.png"
+        },
+        {
+          "id": "item-1769702995775",
+          "enabled": true,
+          "title": "TikTok运营导航网",
+          "href": "https://www.tkevo.com/#term-34",
+          "description": "访问 www.tkevo.com",
+          "icon": "/assets/favicon_1769702990966.png"
         }
       ],
       "subCategories": []
