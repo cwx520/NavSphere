@@ -38,6 +38,14 @@
           "href": "https://note.youdao.com/web/#/file/9FA3BFEE38924A019AEF0419B9170FEC/default/WEBf8988b6be9b054e827d2f895ec2106f1/",
           "description": "访问 note.youdao.com",
           "icon": "/assets/favicon_1769695859254.png"
+        },
+        {
+          "id": "item-1769695945130",
+          "enabled": true,
+          "title": "哔哩哔哩",
+          "href": "https://www.bilibili.com/",
+          "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
+          "icon": "/assets/favicon_1769695940962.ico"
         }
       ],
       "subCategories": []
