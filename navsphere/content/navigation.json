@@ -402,6 +402,14 @@
           "href": "https://bladex.cn/#/",
           "description": "",
           "icon": "/assets/favicon_1769702464598.png"
+        },
+        {
+          "id": "item-1769702493033",
+          "enabled": true,
+          "title": "Guns Tech.",
+          "href": "https://www.javaguns.com/",
+          "description": "访问 www.javaguns.com",
+          "icon": "/assets/favicon_1769702491038.png"
         }
       ],
       "subCategories": []
