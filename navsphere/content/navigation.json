@@ -217,6 +217,14 @@
           "href": "https://www.javaclimb.com/",
           "description": "访问 www.javaclimb.com",
           "icon": "/assets/favicon_1769701803801.png"
+        },
+        {
+          "id": "item-1769701823999",
+          "enabled": true,
+          "title": "面试鸭",
+          "href": "https://www.mianshiya.com/",
+          "description": "访问 www.mianshiya.com",
+          "icon": "/assets/favicon_1769701822034.png"
         }
       ],
       "subCategories": []
