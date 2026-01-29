@@ -378,6 +378,14 @@
           "href": "https://www.jeesite.com/",
           "description": "JeeSite 是 Spring Boot 目前最好的快速开发平台, Java 开源框架, 使用经典技术组合：SpringBoot、SpringCloud、MyBatis、Shiro、Beetl、Bootstrap、AdminLTE 等、前后分离版采用 Vue3、Vite、Ant Design Vue。包括：用户, 权限, BPM, IAM, Cloud",
           "icon": "/assets/favicon_1769702371143.png"
+        },
+        {
+          "id": "item-1769702403764",
+          "enabled": true,
+          "title": "eladmin",
+          "href": "https://eladmin.vip/",
+          "description": "一个简单且易上手的 Spring boot 后台管理框架",
+          "icon": "/assets/favicon_1769702400732.png"
         }
       ],
       "subCategories": []
