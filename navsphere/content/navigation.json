@@ -25,11 +25,11 @@
         },
         {
           "id": "item-1769695454474",
-          "enabled": true,
-          "title": "工作台 - Gitee.com",
+          "title": "Gitee",
           "href": "https://gitee.com/",
           "description": "访问 gitee.com",
-          "icon": "/assets/favicon_1769695451227.png"
+          "icon": "/assets/favicon_1769695451227.png",
+          "enabled": true
         }
       ],
       "subCategories": []
