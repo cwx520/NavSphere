@@ -343,6 +343,14 @@
           "href": "https://openapi.apifox.cn/",
           "description": "OpenAPI 规范（中文版）（Swagger 规范中文版）",
           "icon": "/assets/favicon_1769705113254.png"
+        },
+        {
+          "id": "item-1769705276241",
+          "enabled": true,
+          "title": "docsify",
+          "href": "https://docsify.js.org/#/zh-cn/",
+          "description": "A magical documentation generator.",
+          "icon": "/assets/favicon_1769705270634.ico"
         }
       ],
       "subCategories": []
