@@ -81,7 +81,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1769697179349",
+          "enabled": true,
+          "title": "JavaGuide",
+          "href": "https://javaguide.cn/home.html",
+          "description": "访问 javaguide.cn",
+          "icon": "/assets/favicon_1769697167902.png"
+        }
+      ],
       "subCategories": []
     },
     {
