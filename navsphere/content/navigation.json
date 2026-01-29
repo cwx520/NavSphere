@@ -384,6 +384,14 @@
           "href": "https://chat18.aichatos98.com/#/chat/1769439602827",
           "description": "",
           "icon": "/assets/favicon_1769702678374.svg"
+        },
+        {
+          "id": "item-1769704839866",
+          "enabled": true,
+          "title": "通义千问",
+          "href": "https://www.qianwen.com/chat",
+          "description": "千问是阿里通义千问大模型打造的AI对话助手，通义千问支持问答、写作、代码、翻译、录音、PPT创作、文档处理、音视频速读。",
+          "icon": "/assets/favicon_1769704831482.png"
         }
       ],
       "subCategories": []
