@@ -145,6 +145,14 @@
           "href": "https://www.ddkk.com/",
           "description": "访问 www.ddkk.com",
           "icon": "/assets/favicon_1769701492797.png"
+        },
+        {
+          "id": "item-1769701542998",
+          "enabled": true,
+          "title": "Java充电社",
+          "href": "http://itsoku.com/course/23",
+          "description": "Java充电社(www.itsoku.com)提供了大量Java学习教程，让大家更好更轻松的学习各种Java技术。",
+          "icon": "/assets/favicon_1769701539341.ico"
         }
       ],
       "subCategories": []
