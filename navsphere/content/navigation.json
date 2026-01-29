@@ -710,6 +710,14 @@
           "href": "https://github.com/alibaba/DataX",
           "description": "DataX是阿里云DataWorks数据集成的开源版本。. Contribute to alibaba/DataX development by creating an account on GitHub.",
           "icon": "/assets/favicon_1769705411115.png"
+        },
+        {
+          "id": "item-1769705559303",
+          "enabled": true,
+          "title": "石墨文档",
+          "href": "https://shimo.im/loginByPassword?redirect_url=https%3A%2F%2Fshimo.im%2Frecent",
+          "description": "访问 shimo.im",
+          "icon": "/assets/favicon_1769705556919.png"
         }
       ],
       "subCategories": []
