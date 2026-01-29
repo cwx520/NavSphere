@@ -346,7 +346,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1769702233524",
+          "enabled": true,
+          "title": "RuoYi",
+          "href": "https://doc.ruoyi.vip/",
+          "description": "访问 doc.ruoyi.vip",
+          "icon": "/assets/favicon_1769702225944.png"
+        }
+      ],
       "subCategories": []
     },
     {
