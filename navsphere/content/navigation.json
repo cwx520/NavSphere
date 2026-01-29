@@ -97,6 +97,14 @@
           "href": "https://javaguide.cn/home.html",
           "description": "访问 javaguide.cn",
           "icon": "/assets/favicon_1769697167902.png"
+        },
+        {
+          "id": "item-1769697251516",
+          "enabled": true,
+          "title": "蘑菇博客",
+          "href": "https://www.moguit.cn/",
+          "description": "访问 www.moguit.cn",
+          "icon": "/assets/favicon_1769697238421.png"
         }
       ],
       "subCategories": []
