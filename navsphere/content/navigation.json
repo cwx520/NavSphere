@@ -473,6 +473,14 @@
           "href": "http://tool.e-yn.com/json2xml",
           "description": "在线Json解析视图格式化查看器为您提供Xml与Json在线转换工具,Xml转为Json格式,Json转为Xml格式,Xml与Json在线转换等",
           "icon": "/assets/favicon_1769706175654.ico"
+        },
+        {
+          "id": "item-1769706199110",
+          "enabled": true,
+          "title": "在线工具",
+          "href": "https://tool.lu/",
+          "description": "访问 tool.lu",
+          "icon": "/assets/favicon_1769706197367.png"
         }
       ],
       "subCategories": []
