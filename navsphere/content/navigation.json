@@ -517,6 +517,14 @@
           "href": "https://www.linke123.com/",
           "description": "访问 www.linke123.com",
           "icon": "/assets/favicon_1769702767107.png"
+        },
+        {
+          "id": "item-1769702815755",
+          "enabled": true,
+          "title": "AI工具集官网",
+          "href": "https://ai-bot.cn/",
+          "description": "访问 ai-bot.cn",
+          "icon": "/assets/favicon_1769702811608.png"
         }
       ],
       "subCategories": []
