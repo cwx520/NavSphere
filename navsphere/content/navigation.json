@@ -54,6 +54,14 @@
           "href": "https://www.xiaohongshu.com/explore?m_source=pinpai",
           "description": "",
           "icon": "/assets/favicon_1769695966877.ico"
+        },
+        {
+          "id": "item-1769696022720",
+          "enabled": true,
+          "title": "Cloudflare",
+          "href": "https://dash.cloudflare.com/837d63ba4df92f38e7e3d54fd9ce70a5/pages/view/navsphere",
+          "description": "访问 dash.cloudflare.com",
+          "icon": "/assets/favicon_1769696011697.png"
         }
       ],
       "subCategories": []
