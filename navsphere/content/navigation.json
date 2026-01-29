@@ -336,6 +336,14 @@
           "href": "https://chat.deepseek.com/",
           "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
           "icon": "/assets/favicon_1769697374306.svg"
+        },
+        {
+          "id": "item-1769702558761",
+          "enabled": true,
+          "title": "问小白",
+          "href": "https://www.wenxiaobai.com/",
+          "description": "访问 www.wenxiaobai.com",
+          "icon": "/assets/favicon_1769702553962.png"
         }
       ],
       "subCategories": []
