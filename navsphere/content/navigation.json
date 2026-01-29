@@ -376,6 +376,14 @@
           "href": "https://www.kimi.com/",
           "description": "",
           "icon": "/assets/favicon_1769702655425.png"
+        },
+        {
+          "id": "item-1769702680776",
+          "enabled": true,
+          "title": "AIchatOS2",
+          "href": "https://chat18.aichatos98.com/#/chat/1769439602827",
+          "description": "",
+          "icon": "/assets/favicon_1769702678374.svg"
         }
       ],
       "subCategories": []
