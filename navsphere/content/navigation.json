@@ -386,6 +386,14 @@
           "href": "https://eladmin.vip/",
           "description": "一个简单且易上手的 Spring boot 后台管理框架",
           "icon": "/assets/favicon_1769702400732.png"
+        },
+        {
+          "id": "item-1769702421435",
+          "enabled": true,
+          "title": "SmartAdmin",
+          "href": "https://smartadmin.vip/",
+          "description": "访问 smartadmin.vip",
+          "icon": "/assets/favicon_1769702419896.png"
         }
       ],
       "subCategories": []
