@@ -541,6 +541,14 @@
           "href": "https://www.jyshare.com/",
           "description": "菜鸟工具，为开发设计人员提供在线工具，网址导航，提供在线PHP、Python、 CSS、JS 调试，中文简繁体转换，进制转换等工具。致力于打造国内专业WEB开发工具，集成开发环境，WEB开发教程。..",
           "icon": "/assets/favicon_1769702879462.ico"
+        },
+        {
+          "id": "item-1769702903009",
+          "enabled": true,
+          "title": "AIGC工具导航",
+          "href": "https://www.aigc.cn/",
+          "description": "访问 www.aigc.cn",
+          "icon": "/assets/favicon_1769702901141.png"
         }
       ],
       "subCategories": []
