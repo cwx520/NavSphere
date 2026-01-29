@@ -22,6 +22,14 @@
           "href": "https://blog.csdn.net/weixin_45035342?type=lately",
           "description": "访问 blog.csdn.net",
           "icon": "/assets/favicon_1769695017398.png"
+        },
+        {
+          "id": "item-1769695454474",
+          "enabled": true,
+          "title": "工作台 - Gitee.com",
+          "href": "https://gitee.com/",
+          "description": "访问 gitee.com",
+          "icon": "/assets/favicon_1769695451227.png"
         }
       ],
       "subCategories": []
