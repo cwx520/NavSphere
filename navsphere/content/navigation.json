@@ -573,6 +573,14 @@
           "href": "https://mvnrepository.com/",
           "description": "",
           "icon": "/assets/favicon_1769705087831.ico"
+        },
+        {
+          "id": "item-1769705147441",
+          "enabled": true,
+          "title": "ProcessOn",
+          "href": "https://www.processon.com/login",
+          "description": "ProcessOn是一个在线协作绘图平台，为用户提供强大、易用的作图工具！支持在线创作流程图、思维导图、组织结构图、网络拓扑图、BPMN、UML图、UI界面原型设计、iOS界面原型设计等。同时依托于互联网实现了人与人之间的实时协作和共享。",
+          "icon": "/assets/favicon_1769705143195.png"
         }
       ],
       "subCategories": []
