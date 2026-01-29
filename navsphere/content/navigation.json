@@ -360,6 +360,14 @@
           "href": "https://ai.dangbei.com/chat/358655118298186117",
           "description": "当贝AI，体验DeepSeek满血版，聚合全网优质AI大模型，如DeepSeek-R1 671B、豆包、通义千问、智谱等。当贝AI知识库，深度AI解决方案，极速、高效、免费、无需注册、不限量！",
           "icon": "/assets/favicon_1769702618895.svg"
+        },
+        {
+          "id": "item-1769702639689",
+          "enabled": true,
+          "title": "豆包",
+          "href": "https://www.doubao.com/chat/?channel=baidu_sem&source=db_sem_baidu_htl_pc_1_ocpc&keywordid=783317521718&ad_platform_id=baidusearch_lead&account_id=52024153&a_planid=504324458&a_unitid=9677827943&a_keywordid=783317521718&a_creative=91706055924&a_matchtype=1&a_dongtai=0&a_trig_flag=nm&a_crowdid=0&a_kw_enc_utf8=%E8%B1%86%E5%8C%85%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8B&ug_semver=v2.0.0&bd_vid=1566627911641439869",
+          "description": "访问 www.doubao.com",
+          "icon": "/assets/favicon_1769702633345.png"
         }
       ],
       "subCategories": []
