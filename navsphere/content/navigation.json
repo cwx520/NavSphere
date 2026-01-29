@@ -481,6 +481,14 @@
           "href": "https://tool.lu/",
           "description": "访问 tool.lu",
           "icon": "/assets/favicon_1769706197367.png"
+        },
+        {
+          "id": "item-1769706228423",
+          "enabled": true,
+          "title": "在线代码对比",
+          "href": "https://www.bejson.com/others/comparecode/",
+          "description": "访问 www.bejson.com",
+          "icon": "/assets/favicon_1769706225055.png"
         }
       ],
       "subCategories": []
