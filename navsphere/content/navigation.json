@@ -14,6 +14,14 @@
           "href": "https://cwx520.github.io/notes/#/README",
           "description": "Description",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=cwx520.github.io"
+        },
+        {
+          "id": "site_1769741458180_4ovlsckbh",
+          "title": "NavSphere后端",
+          "href": "https://navsphere-94m.pages.dev/admin",
+          "description": "A modern navigation platform",
+          "icon": "https://navsphere-94m.pages.dev/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
