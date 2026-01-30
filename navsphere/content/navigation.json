@@ -1237,6 +1237,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1769766002393",
+      "title": "页面收藏",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
