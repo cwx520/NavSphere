@@ -154,7 +154,16 @@
           "icon": "/assets/favicon_1769705584912.png"
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "8ab87a1d-dbbb-499c-9361-3982f2cbe48d",
+          "title": "二级分类",
+          "icon": "Shield",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1769696285699",
