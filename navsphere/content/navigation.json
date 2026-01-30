@@ -74,14 +74,6 @@
           "icon": "/assets/favicon_1769705463667.png"
         },
         {
-          "id": "item-1769705509942",
-          "enabled": true,
-          "title": "稀土掘金",
-          "href": "https://juejin.cn/",
-          "description": "掘金是面向全球中文开发者的技术内容分享与交流平台。我们通过技术文章、沸点、课程、直播等产品和服务，打造一个激发开发者创作灵感，激励开发者沉淀分享，陪伴开发者成长的综合类技术社区。",
-          "icon": "/assets/favicon_1769705507844.png"
-        },
-        {
           "id": "item-1769705526423",
           "enabled": true,
           "title": "LeetCode",
@@ -169,6 +161,14 @@
               "href": "https://www.xiaohongshu.com/explore?m_source=pinpai",
               "description": "",
               "icon": "/assets/favicon_1769695966877.ico",
+              "enabled": true
+            },
+            {
+              "id": "item-1769705509942",
+              "title": "稀土掘金",
+              "href": "https://juejin.cn/",
+              "description": "掘金是面向全球中文开发者的技术内容分享与交流平台。我们通过技术文章、沸点、课程、直播等产品和服务，打造一个激发开发者创作灵感，激励开发者沉淀分享，陪伴开发者成长的综合类技术社区。",
+              "icon": "/assets/favicon_1769705507844.png",
               "enabled": true
             }
           ]
