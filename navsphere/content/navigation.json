@@ -66,14 +66,6 @@
           "icon": "/assets/favicon_1769695966877.ico"
         },
         {
-          "id": "item-1769697228263",
-          "enabled": true,
-          "title": "时光序",
-          "href": "https://web.shiguangxu.com/home/matter/all",
-          "description": "访问 web.shiguangxu.com",
-          "icon": "/assets/favicon_1769697224530.png"
-        },
-        {
           "id": "item-1769705446128",
           "enabled": true,
           "title": "博客园",
@@ -170,7 +162,16 @@
           "icon": "Settings",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1769697228263",
+              "title": "时光序",
+              "href": "https://web.shiguangxu.com/home/matter/all",
+              "description": "访问 web.shiguangxu.com",
+              "icon": "/assets/favicon_1769697224530.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
