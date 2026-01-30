@@ -101,7 +101,16 @@
       "description": "AI网站",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "d3eeb1b1-f495-47a9-af22-674c5346bd35",
+          "title": "对话网站",
+          "icon": "FileText",
+          "description": "对话网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1769696340719",
