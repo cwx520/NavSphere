@@ -1348,7 +1348,16 @@
       "description": "项目网站",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "3f11ad77-9617-48d8-aef3-da23d681d3f6",
+          "title": "开源框架",
+          "icon": "BarChart",
+          "description": "开源框架",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
