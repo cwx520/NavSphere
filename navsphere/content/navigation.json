@@ -17,14 +17,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "item-1769695867474",
-          "enabled": true,
-          "title": "有道云笔记",
-          "href": "https://note.youdao.com/web/#/file/9FA3BFEE38924A019AEF0419B9170FEC/default/WEBf8988b6be9b054e827d2f895ec2106f1/",
-          "description": "访问 note.youdao.com",
-          "icon": "/assets/favicon_1769695859254.png"
-        },
-        {
           "id": "item-1769694959899",
           "title": "hao123",
           "href": "https://www.hao123.com/",
@@ -1388,7 +1380,16 @@
           "icon": "Brain",
           "description": "常用网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1769695867474",
+              "title": "有道云笔记",
+              "href": "https://note.youdao.com/web/#/file/9FA3BFEE38924A019AEF0419B9170FEC/default/WEBf8988b6be9b054e827d2f895ec2106f1/",
+              "description": "访问 note.youdao.com",
+              "icon": "/assets/favicon_1769695859254.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
