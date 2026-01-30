@@ -58,14 +58,6 @@
           "icon": "/assets/favicon_1769695017398.png"
         },
         {
-          "id": "item-1769695973439",
-          "enabled": true,
-          "title": "小红书",
-          "href": "https://www.xiaohongshu.com/explore?m_source=pinpai",
-          "description": "",
-          "icon": "/assets/favicon_1769695966877.ico"
-        },
-        {
           "id": "item-1769705446128",
           "enabled": true,
           "title": "博客园",
@@ -169,6 +161,14 @@
               "href": "https://web.shiguangxu.com/home/matter/all",
               "description": "访问 web.shiguangxu.com",
               "icon": "/assets/favicon_1769697224530.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1769695973439",
+              "title": "小红书",
+              "href": "https://www.xiaohongshu.com/explore?m_source=pinpai",
+              "description": "",
+              "icon": "/assets/favicon_1769695966877.ico",
               "enabled": true
             }
           ]
