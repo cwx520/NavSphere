@@ -639,6 +639,14 @@
           "description": "访问 uniapp.dcloud.net.cn",
           "icon": "/assets/favicon_1769765836773.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769765863580_znwyf5o4p",
+          "title": "Minio",
+          "href": "https://www.minio.org.cn/docs/minio/kubernetes/upstream/index.html",
+          "description": "访问 www.minio.org.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.minio.org.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
