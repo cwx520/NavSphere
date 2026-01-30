@@ -95,6 +95,24 @@
       ]
     },
     {
+      "id": "1769790991972",
+      "title": "项目网站",
+      "icon": "LayoutGrid",
+      "description": "项目网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "3f11ad77-9617-48d8-aef3-da23d681d3f6",
+          "title": "开源框架",
+          "icon": "BarChart",
+          "description": "开源框架",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "1769696340719",
       "title": "工具网站",
       "icon": "FolderKanban",
@@ -115,24 +133,6 @@
           "title": "处理工具",
           "icon": "Briefcase",
           "description": "处理工具",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
-      "id": "1769790991972",
-      "title": "项目网站",
-      "icon": "LayoutGrid",
-      "description": "项目网站",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "3f11ad77-9617-48d8-aef3-da23d681d3f6",
-          "title": "开源框架",
-          "icon": "BarChart",
-          "description": "开源框架",
           "enabled": true,
           "items": []
         }
