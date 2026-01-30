@@ -663,6 +663,14 @@
           "description": "Share quick reference and cheat sheet for developers",
           "icon": "/assets/favicon_1769765893258.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769765926222_3mr2mbkec",
+          "title": "Spring Cloud",
+          "href": "https://spring.io/projects/spring-cloud",
+          "description": "Level up your Java code and explore what Spring can do for you.",
+          "icon": "/assets/favicon_1769765922746.png",
+          "enabled": true
         }
       ],
       "subCategories": []
