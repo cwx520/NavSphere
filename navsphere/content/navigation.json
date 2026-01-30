@@ -121,15 +121,6 @@
       ]
     },
     {
-      "id": "1769696418096",
-      "title": "ChatGPT网站",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1769702071429",
       "title": "开源框架",
       "icon": "FolderKanban",
