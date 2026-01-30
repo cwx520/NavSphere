@@ -463,6 +463,14 @@
           "description": "访问 algo.itcharge.cn",
           "icon": "/assets/favicon_1769765109624.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769765148710_uyb5yemo5",
+          "title": "技术速查手册",
+          "href": "https://www.dba.cn/",
+          "description": "访问 www.dba.cn",
+          "icon": "/assets/favicon_1769765133021.png",
+          "enabled": true
         }
       ],
       "subCategories": []
