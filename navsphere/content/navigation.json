@@ -818,40 +818,6 @@
       "subCategories": []
     },
     {
-      "id": "1769696399512",
-      "title": "AI网站",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "ab285c95-9f78-4dd2-be4f-70ff16a83ee6",
-          "title": "对话网站",
-          "icon": "Flag",
-          "description": "对话网站",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "163527c1-ab34-4661-bd0d-a8dda1b4c9bb",
-          "title": "编程网站",
-          "icon": "Laptop",
-          "description": "编程网站",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "0b2367e0-32ad-4b5a-8fff-e249c986e9f2",
-          "title": "写作网站",
-          "icon": "Music",
-          "description": "写作网站",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
       "id": "1769696418096",
       "title": "ChatGPT网站",
       "icon": "FolderKanban",
