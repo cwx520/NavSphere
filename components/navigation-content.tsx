@@ -22,6 +22,7 @@ interface NavigationContentProps {
 export function NavigationContent({ navigationData, siteData }: NavigationContentProps) {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
   const [searchQuery, setSearchQuery] = useState('')
+  const [activeTabs, setActiveTabs] = useState<Record<string, string>>({})
 
   // 修复类型检查和搜索逻辑
   const searchResults = useMemo(() => {
@@ -208,18 +209,36 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   </h2>
 
                   {category.subCategories && category.subCategories.length > 0 ? (
-                    category.subCategories.map((subCategory) => (
-                      <div key={subCategory.id} id={subCategory.id} className="space-y-3">
-                        <h3 className="text-sm font-medium text-muted-foreground">
-                          {subCategory.title}
-                        </h3>
-                        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
-                          {(subCategory.items || []).map((item) => (
-                            <NavigationCard key={item.id} item={item} siteConfig={siteData} />
-                          ))}
-                        </div>
+                    <div className="space-y-3">
+                      <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-hide">
+                        {category.subCategories.map((subCategory) => (
+                          <button
+                            key={subCategory.id}
+                            id={subCategory.id}
+                            className={`px-3 py-1.5 text-sm whitespace-nowrap rounded-md transition-colors ${
+                              activeTabs[category.id] === subCategory.id
+                                ? 'bg-primary text-primary-foreground'
+                                : 'bg-muted text-muted-foreground hover:bg-muted/80'
+                            }`}
+                            onClick={() => setActiveTabs(prev => ({
+                              ...prev,
+                              [category.id]: subCategory.id
+                            }))}
+                          >
+                            {subCategory.title}
+                          </button>
+                        ))}
                       </div>
-                    ))
+                      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
+                        {category.subCategories
+                          .filter(sub => activeTabs[category.id] === sub.id || !activeTabs[category.id])
+                          .flatMap((subCategory) => (
+                            (subCategory.items || []).map((item) => (
+                              <NavigationCard key={item.id} item={item} siteConfig={siteData} />
+                            ))
+                          ))}
+                      </div>
+                    </div>
                   ) : (
                     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
                       {(category.items || []).map((item) => (
