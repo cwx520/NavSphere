@@ -1,6 +1,32 @@
 {
   "navigationItems": [
     {
+      "id": "1769790362495",
+      "title": "热门网站",
+      "icon": "Home",
+      "description": "热门网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "9cad2d40-06a3-4fec-958e-2e1bea98c0b1",
+          "title": "推荐网站",
+          "icon": "Book",
+          "description": "推荐网站",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "55056b99-bbdc-4f22-9717-4380d38deab3",
+          "title": "常用网站",
+          "icon": "Brain",
+          "description": "常用网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "1769694924120",
       "title": "常用网站",
       "icon": "FolderKanban",
@@ -128,32 +154,6 @@
       "enabled": true,
       "items": [],
       "subCategories": []
-    },
-    {
-      "id": "1769790362495",
-      "title": "热门网站",
-      "icon": "Home",
-      "description": "热门网站",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "9cad2d40-06a3-4fec-958e-2e1bea98c0b1",
-          "title": "推荐网站",
-          "icon": "Book",
-          "description": "推荐网站",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "55056b99-bbdc-4f22-9717-4380d38deab3",
-          "title": "常用网站",
-          "icon": "Brain",
-          "description": "常用网站",
-          "enabled": true,
-          "items": []
-        }
-      ]
     },
     {
       "id": "1769790991972",
