@@ -489,6 +489,14 @@
           "href": "https://www.diffchecker.com/",
           "description": "Compare text, files, and code (e.g. json, xml) to find differences with Diffchecker online for free! Use our desktop app for private, offline diffs.",
           "icon": "/assets/favicon_1769706282492.png"
+        },
+        {
+          "id": "1769737380678",
+          "title": "Newkit",
+          "href": "https://www.newkit.site/tools/html-project-runner/",
+          "description": "访问 www.newkit.site",
+          "icon": "/assets/img_1769737399219.png",
+          "enabled": true
         }
       ],
       "subCategories": []
