@@ -85,9 +85,9 @@ export default function HomePage() {
   const { navigationData, siteData } = getData()
 
   return (
-    <Container>
+    <>
       <NavigationContent navigationData={navigationData} siteData={siteData} />
       <ScrollToTop />
-    </Container>
+    </>
   )
 }
