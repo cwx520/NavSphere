@@ -121,15 +121,6 @@
       ]
     },
     {
-      "id": "1769702071429",
-      "title": "开源框架",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1769790991972",
       "title": "项目网站",
       "icon": "LayoutGrid",
@@ -146,6 +137,15 @@
           "items": []
         }
       ]
+    },
+    {
+      "id": "1769702071429",
+      "title": "开源框架",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
