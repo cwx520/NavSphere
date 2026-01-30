@@ -27,40 +27,6 @@
       ]
     },
     {
-      "id": "1769696285699",
-      "title": "博客网站",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "79090f7c-76a3-44a7-8df7-8bc177eaa2b9",
-          "title": "个人网站",
-          "icon": "Book",
-          "description": "个人网站",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "80802ffc-e95b-4f55-a5e1-caafce680f04",
-          "title": "面试题网站",
-          "icon": "BookOpen",
-          "description": "面试题网站",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "41437b48-642e-419c-a339-90db8082db20",
-          "title": "论坛网站",
-          "icon": "Network",
-          "description": "论坛网站",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
       "id": "1769696293315",
       "title": "资源网站",
       "icon": "FolderKanban",
@@ -89,6 +55,40 @@
           "title": "笔记网站",
           "icon": "Briefcase",
           "description": "笔记网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "1769696285699",
+      "title": "博客网站",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "79090f7c-76a3-44a7-8df7-8bc177eaa2b9",
+          "title": "个人网站",
+          "icon": "Book",
+          "description": "个人网站",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "80802ffc-e95b-4f55-a5e1-caafce680f04",
+          "title": "面试题网站",
+          "icon": "BookOpen",
+          "description": "面试题网站",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "41437b48-642e-419c-a339-90db8082db20",
+          "title": "论坛网站",
+          "icon": "Network",
+          "description": "论坛网站",
           "enabled": true,
           "items": []
         }
