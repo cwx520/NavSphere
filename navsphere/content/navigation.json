@@ -20,7 +20,7 @@
           "title": "NavSphere后端",
           "href": "https://navsphere-94m.pages.dev/admin",
           "description": "A modern navigation platform",
-          "icon": "https://navsphere-94m.pages.dev/favicon.ico",
+          "icon": "/assets/img_1769741843955.png",
           "enabled": true
         }
       ],
