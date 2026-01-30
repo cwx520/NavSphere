@@ -1289,6 +1289,14 @@
           "description": "推荐网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "55056b99-bbdc-4f22-9717-4380d38deab3",
+          "title": "常用网站",
+          "icon": "Brain",
+          "description": "常用网站",
+          "enabled": true,
+          "items": []
         }
       ]
     }
