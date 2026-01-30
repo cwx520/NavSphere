@@ -497,6 +497,14 @@
           "description": "访问 www.newkit.site",
           "icon": "/assets/img_1769737446048.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769739343695_g3yv1ys62",
+          "title": "在线对比",
+          "href": "https://www.json.cn/diff/",
+          "description": "在线代码对比/合并工具方便程序员查找出2段代码间的差异，并能进行合并。",
+          "icon": "/assets/favicon_1769739324270.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
