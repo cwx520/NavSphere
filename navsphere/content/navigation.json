@@ -1292,15 +1292,6 @@
       "subCategories": []
     },
     {
-      "id": "1769766002393",
-      "title": "页面收藏",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1769790362495",
       "title": "热门网站",
       "icon": "Home",
