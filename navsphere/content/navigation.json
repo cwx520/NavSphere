@@ -27,32 +27,6 @@
       ]
     },
     {
-      "id": "1769694924120",
-      "title": "常用网站",
-      "icon": "FolderKanban",
-      "description": "常用网站",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "8ab87a1d-dbbb-499c-9361-3982f2cbe48d",
-          "title": "二级分类",
-          "icon": "Shield",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "92a20c7e-bb7a-49c7-b524-30e07cd9bfd6",
-          "title": "二级分类2",
-          "icon": "Settings",
-          "description": "",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
       "id": "1769696285699",
       "title": "博客网站",
       "icon": "FolderKanban",
