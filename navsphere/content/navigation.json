@@ -346,6 +346,14 @@
           "href": "https://xiaofuge.notion.site/v2-0-13-Java-0fe5ce4333ee477da774a884cb44dc7a",
           "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
           "icon": "/assets/favicon_1769705787508.ico"
+        },
+        {
+          "id": "site_1769764891754_nmw3ui7nk",
+          "title": "Categories &mdash; 八一菜刀",
+          "href": "https://www.xiaominfo.com/categories/",
+          "description": "哈哈，你找到了我的文章基因库",
+          "icon": "/assets/favicon_1769764888517.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
