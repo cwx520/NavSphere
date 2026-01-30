@@ -881,6 +881,14 @@
           "description": "对话网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "163527c1-ab34-4661-bd0d-a8dda1b4c9bb",
+          "title": "编程网站",
+          "icon": "Laptop",
+          "description": "编程网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
