@@ -1146,6 +1146,14 @@
           "href": "https://www.tkevo.com/#term-34",
           "description": "访问 www.tkevo.com",
           "icon": "/assets/favicon_1769702990966.png"
+        },
+        {
+          "id": "site_1769765720530_gndh4ixfk",
+          "title": "oschina导航",
+          "href": "https://tool.oschina.net/",
+          "description": "访问 tool.oschina.net",
+          "icon": "/assets/favicon_1769765701191.png",
+          "enabled": true
         }
       ],
       "subCategories": []
