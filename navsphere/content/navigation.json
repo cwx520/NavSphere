@@ -519,6 +519,14 @@
           "description": "访问 baomidou.com",
           "icon": "/assets/favicon_1769765345945.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769765392314_fwtivcjgw",
+          "title": "RocketMQ手册",
+          "href": "https://rocketmq.apache.org/zh/docs/",
+          "description": "为什么 RocketMQ",
+          "icon": "/assets/favicon_1769765383956.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
