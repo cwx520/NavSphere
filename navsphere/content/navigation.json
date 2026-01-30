@@ -873,7 +873,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "ab285c95-9f78-4dd2-be4f-70ff16a83ee6",
+          "title": "对话网站",
+          "icon": "Flag",
+          "description": "对话网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1769696418096",
