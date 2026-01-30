@@ -495,6 +495,14 @@
           "description": "利用 Elastic Search AI Platform 高效获得见解和推动成果转化。通过专为协助您更快获得见解而设计的企业解决方案，深入了解您的数据并找到重要答案。立即试用 Elastic。...",
           "icon": "/assets/favicon_1769765269047.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1769765304120_g0a0k2x5c",
+          "title": "Bootstrap手册",
+          "href": "https://www.bootcss.com/",
+          "description": "访问 www.bootcss.com",
+          "icon": "/assets/favicon_1769765290728.png",
+          "enabled": true
         }
       ],
       "subCategories": []
