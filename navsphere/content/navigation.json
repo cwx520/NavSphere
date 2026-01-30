@@ -17,14 +17,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "item-1769705466754",
-          "enabled": true,
-          "title": "GitCode",
-          "href": "https://gitcode.com/?tn=67bc3fa197a0293d6bfebd05?utm_source=devpress_gitcode",
-          "description": "AtomGit | GitCode是面向全球开发者的开源社区,包括原创博客,开源代码托管,代码协作,项目管理等。与开发者社区互动,提升您的研发效率和质量。",
-          "icon": "/assets/favicon_1769705463667.png"
-        },
-        {
           "id": "item-1769705526423",
           "enabled": true,
           "title": "LeetCode",
@@ -1387,6 +1379,14 @@
               "href": "https://i.cnblogs.com/posts/edit",
               "description": "访问 i.cnblogs.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.cnblogs.com",
+              "enabled": true
+            },
+            {
+              "id": "item-1769705466754",
+              "title": "GitCode",
+              "href": "https://gitcode.com/?tn=67bc3fa197a0293d6bfebd05?utm_source=devpress_gitcode",
+              "description": "AtomGit | GitCode是面向全球开发者的开源社区,包括原创博客,开源代码托管,代码协作,项目管理等。与开发者社区互动,提升您的研发效率和质量。",
+              "icon": "/assets/favicon_1769705463667.png",
               "enabled": true
             }
           ]
