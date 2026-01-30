@@ -479,6 +479,14 @@
           "description": "访问 www.springcloud.cc",
           "icon": "/assets/favicon_1769765207409.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769765243174_cies7vopv",
+          "title": "Spring Data JPA 中文文档 参考手册",
+          "href": "https://www.springcloud.cc/spring-data-jpa.html",
+          "description": "",
+          "icon": "/assets/favicon_1769765231467.png",
+          "enabled": true
         }
       ],
       "subCategories": []
