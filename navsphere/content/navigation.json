@@ -535,6 +535,14 @@
           "description": "",
           "icon": "/assets/favicon_1769765416577.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769765447992_fxdi04fzh",
+          "title": "ActiveMQ手册",
+          "href": "https://activemq.apache.org/",
+          "description": "",
+          "icon": "/assets/favicon_1769765441135.png",
+          "enabled": true
         }
       ],
       "subCategories": []
