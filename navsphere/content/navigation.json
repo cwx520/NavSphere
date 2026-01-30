@@ -460,7 +460,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "5abce563-3bcb-4a8f-b3dd-9277b28978d4",
+          "title": "在线网站",
+          "icon": "Building",
+          "description": "在线网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1769696360288",
