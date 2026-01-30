@@ -423,6 +423,14 @@
           "href": "https://docsify.js.org/#/zh-cn/",
           "description": "A magical documentation generator.",
           "icon": "/assets/favicon_1769705270634.ico"
+        },
+        {
+          "id": "site_1769764850994_m1qnqipb7",
+          "title": "Overview 组件总览 | Element Plus",
+          "href": "https://element-plus.org/zh-CN/component/overview",
+          "description": "A Vue 3 based component library for designers and developers",
+          "icon": "/assets/favicon_1769764845439.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
