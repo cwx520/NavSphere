@@ -58,14 +58,6 @@
           "icon": "/assets/favicon_1769695017398.png"
         },
         {
-          "id": "item-1769695945130",
-          "enabled": true,
-          "title": "哔哩哔哩",
-          "href": "https://www.bilibili.com/",
-          "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
-          "icon": "/assets/favicon_1769695940962.ico"
-        },
-        {
           "id": "item-1769695973439",
           "enabled": true,
           "title": "小红书",
@@ -160,6 +152,14 @@
               "href": "https://gitee.com/",
               "description": "访问 gitee.com",
               "icon": "/assets/favicon_1769695451227.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1769695945130",
+              "title": "哔哩哔哩",
+              "href": "https://www.bilibili.com/",
+              "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
+              "icon": "/assets/favicon_1769695940962.ico",
               "enabled": true
             }
           ]
