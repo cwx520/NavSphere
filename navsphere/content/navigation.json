@@ -391,6 +391,14 @@
           "description": "面试题网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "41437b48-642e-419c-a339-90db8082db20",
+          "title": "论坛网站",
+          "icon": "Network",
+          "description": "论坛网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
