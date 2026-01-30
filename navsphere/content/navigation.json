@@ -38,6 +38,14 @@
               "href": "https://gitee.com/",
               "description": "访问 gitee.com",
               "icon": "/assets/favicon_1769792586891.png"
+            },
+            {
+              "id": "item-1769792608490",
+              "enabled": true,
+              "title": "有道云笔记",
+              "href": "https://note.youdao.com/web/#/file/9FA3BFEE38924A019AEF0419B9170FEC/default/WEBf8988b6be9b054e827d2f895ec2106f1/",
+              "description": "访问 note.youdao.com",
+              "icon": "/assets/favicon_1769792605977.png"
             }
           ]
         }
