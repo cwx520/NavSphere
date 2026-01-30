@@ -487,6 +487,14 @@
           "description": "",
           "icon": "/assets/favicon_1769765231467.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769765278502_rvjnpgaw8",
+          "title": "Elastic手册",
+          "href": "https://www.elastic.co/cn/",
+          "description": "利用 Elastic Search AI Platform 高效获得见解和推动成果转化。通过专为协助您更快获得见解而设计的企业解决方案，深入了解您的数据并找到重要答案。立即试用 Elastic。...",
+          "icon": "/assets/favicon_1769765269047.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
