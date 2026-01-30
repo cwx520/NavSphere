@@ -66,14 +66,6 @@
           "icon": "/assets/favicon_1769695966877.ico"
         },
         {
-          "id": "item-1769696022720",
-          "enabled": true,
-          "title": "Cloudflare",
-          "href": "https://dash.cloudflare.com/837d63ba4df92f38e7e3d54fd9ce70a5/pages/view/navsphere",
-          "description": "访问 dash.cloudflare.com",
-          "icon": "/assets/favicon_1769696011697.png"
-        },
-        {
           "id": "item-1769697228263",
           "enabled": true,
           "title": "时光序",
@@ -160,6 +152,14 @@
               "href": "https://www.bilibili.com/",
               "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
               "icon": "/assets/favicon_1769695940962.ico",
+              "enabled": true
+            },
+            {
+              "id": "item-1769696022720",
+              "title": "Cloudflare",
+              "href": "https://dash.cloudflare.com/837d63ba4df92f38e7e3d54fd9ce70a5/pages/view/navsphere",
+              "description": "访问 dash.cloudflare.com",
+              "icon": "/assets/favicon_1769696011697.png",
               "enabled": true
             }
           ]
