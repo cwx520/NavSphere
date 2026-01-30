@@ -567,6 +567,14 @@
           "description": "最专业的Linux命令大全，内容包含Linux命令手册、Linux命令详解、Linux命令学习、Linux命令行与shell脚本编程大全、Linux命令实例讲解，值得收藏的Linux命令速查手册。",
           "icon": "/assets/favicon_1769765524784.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1769765594137_km64h0fg0",
+          "title": "Nacos",
+          "href": "https://nacos.io/docs/latest/overview/?spm=5238cd80.1f77ca18.0.0.4d31e37ex05UNd",
+          "description": "访问 nacos.io",
+          "icon": "/assets/favicon_1769765588929.png",
+          "enabled": true
         }
       ],
       "subCategories": []
