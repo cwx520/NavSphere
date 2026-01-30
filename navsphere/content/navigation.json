@@ -1273,6 +1273,15 @@
       "enabled": true,
       "items": [],
       "subCategories": []
+    },
+    {
+      "id": "1769790362495",
+      "title": "热门网站",
+      "icon": "Home",
+      "description": "热门网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
