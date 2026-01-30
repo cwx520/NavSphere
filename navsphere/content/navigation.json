@@ -17,14 +17,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "item-1769694959899",
-          "title": "hao123",
-          "href": "https://www.hao123.com/",
-          "description": "hao123是汇集全网优质网址及资源的中文上网导航。及时收录影视、音乐、小说、游戏等分类的网址和内容，让您的网络生活更简单精彩。上网，从hao123开始。",
-          "icon": "/assets/favicon_1769694951981.png",
-          "enabled": true
-        },
-        {
           "id": "item-1769695031373",
           "enabled": true,
           "title": "CSDN博客",
@@ -1387,6 +1379,14 @@
               "href": "https://note.youdao.com/web/#/file/9FA3BFEE38924A019AEF0419B9170FEC/default/WEBf8988b6be9b054e827d2f895ec2106f1/",
               "description": "访问 note.youdao.com",
               "icon": "/assets/favicon_1769695859254.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1769694959899",
+              "title": "hao123",
+              "href": "https://www.hao123.com/",
+              "description": "hao123是汇集全网优质网址及资源的中文上网导航。及时收录影视、音乐、小说、游戏等分类的网址和内容，让您的网络生活更简单精彩。上网，从hao123开始。",
+              "icon": "/assets/favicon_1769694951981.png",
               "enabled": true
             }
           ]
