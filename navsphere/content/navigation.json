@@ -545,6 +545,14 @@
           "description": "SQL转Java实体类工具为您提供将SQL转为java实体类,mysql数据转Java实体类,oracle转Java实体类,在线SQL生成Java实体类等",
           "icon": "/assets/favicon_1769741373283.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1769765018788_sdajsu20f",
+          "title": "JS在线运行",
+          "href": "https://jsfiddle.net/",
+          "description": "JSFiddle - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle.",
+          "icon": "/assets/favicon_1769765005925.png",
+          "enabled": true
         }
       ],
       "subCategories": []
