@@ -409,7 +409,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "25728b47-2971-441a-b4a9-c7e7637aa407",
+          "title": "手册网站",
+          "icon": "Link",
+          "description": "手册网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1769696340719",
