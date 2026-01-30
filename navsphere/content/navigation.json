@@ -6,16 +6,7 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1769741458180_4ovlsckbh",
-          "title": "NavSphere后端",
-          "href": "https://navsphere-94m.pages.dev/admin",
-          "description": "A modern navigation platform",
-          "icon": "/assets/img_1769741843955.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     },
     {
@@ -1379,6 +1370,14 @@
               "href": "https://cwx520.github.io/notes/#/README",
               "description": "cmo博客",
               "icon": "/assets/img_1769741869187.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769741458180_4ovlsckbh",
+              "title": "NavSphere后端",
+              "href": "https://navsphere-94m.pages.dev/admin",
+              "description": "NavSphere后端",
+              "icon": "/assets/img_1769741843955.png",
               "enabled": true
             }
           ]
