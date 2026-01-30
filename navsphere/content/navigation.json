@@ -1281,7 +1281,16 @@
       "description": "热门网站",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "9cad2d40-06a3-4fec-958e-2e1bea98c0b1",
+          "title": "推荐网站",
+          "icon": "Book",
+          "description": "推荐网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
