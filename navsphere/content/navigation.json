@@ -17,14 +17,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "item-1769705446128",
-          "enabled": true,
-          "title": "博客园",
-          "href": "https://i.cnblogs.com/posts/edit",
-          "description": "访问 i.cnblogs.com",
-          "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.cnblogs.com"
-        },
-        {
           "id": "item-1769705466754",
           "enabled": true,
           "title": "GitCode",
@@ -1387,6 +1379,14 @@
               "href": "https://blog.csdn.net/weixin_45035342?type=lately",
               "description": "访问 blog.csdn.net",
               "icon": "/assets/favicon_1769695017398.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1769705446128",
+              "title": "博客园",
+              "href": "https://i.cnblogs.com/posts/edit",
+              "description": "访问 i.cnblogs.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=i.cnblogs.com",
               "enabled": true
             }
           ]
