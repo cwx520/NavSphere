@@ -109,6 +109,14 @@
           "description": "对话网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "c7759167-041b-46ea-ab2c-c8af4b4bbb54",
+          "title": "编程网站",
+          "icon": "Globe",
+          "description": "编程网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
