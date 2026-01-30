@@ -22,7 +22,15 @@ interface NavigationContentProps {
 export function NavigationContent({ navigationData, siteData }: NavigationContentProps) {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
   const [searchQuery, setSearchQuery] = useState('')
-  const [activeTabs, setActiveTabs] = useState<Record<string, string>>({})
+  const [activeTabs, setActiveTabs] = useState<Record<string, string>>(() => {
+    const defaultTabs: Record<string, string> = {}
+    navigationData.navigationItems.forEach(category => {
+      if (category.subCategories && category.subCategories.length > 0) {
+        defaultTabs[category.id] = category.subCategories[0].id
+      }
+    })
+    return defaultTabs
+  })
 
   // 修复类型检查和搜索逻辑
   const searchResults = useMemo(() => {
