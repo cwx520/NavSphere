@@ -623,6 +623,14 @@
           "description": "",
           "icon": "/assets/favicon_1769765790229.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1769765822132_q5g18mwta",
+          "title": "ES6 入门教程",
+          "href": "https://es6.ruanyifeng.com/#docs/let",
+          "description": "",
+          "icon": "/assets/favicon_1769765815460.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
