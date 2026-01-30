@@ -22,7 +22,16 @@
           "icon": "Brain",
           "description": "常用网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1769792565096",
+              "enabled": true,
+              "title": "hao123_上网从这里开始",
+              "href": "https://www.hao123.com/",
+              "description": "访问 www.hao123.com",
+              "icon": "/assets/favicon_1769792553069.png"
+            }
+          ]
         }
       ]
     },
