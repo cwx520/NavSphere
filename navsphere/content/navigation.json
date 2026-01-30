@@ -375,7 +375,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "79090f7c-76a3-44a7-8df7-8bc177eaa2b9",
+          "title": "个人网站",
+          "icon": "Book",
+          "description": "个人网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1769696293315",
