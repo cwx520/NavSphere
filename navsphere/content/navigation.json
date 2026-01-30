@@ -162,6 +162,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "92a20c7e-bb7a-49c7-b524-30e07cd9bfd6",
+          "title": "二级分类2",
+          "icon": "Settings",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
