@@ -137,6 +137,15 @@
           "items": []
         }
       ]
+    },
+    {
+      "id": "1769791172833",
+      "title": "AI网站",
+      "icon": "Settings",
+      "description": "AI网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
