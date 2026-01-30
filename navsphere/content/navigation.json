@@ -30,6 +30,14 @@
               "href": "https://www.hao123.com/",
               "description": "访问 www.hao123.com",
               "icon": "/assets/favicon_1769792553069.png"
+            },
+            {
+              "id": "item-1769792590628",
+              "enabled": true,
+              "title": "Gitee",
+              "href": "https://gitee.com/",
+              "description": "访问 gitee.com",
+              "icon": "/assets/favicon_1769792586891.png"
             }
           ]
         }
