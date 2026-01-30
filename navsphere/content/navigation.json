@@ -383,6 +383,14 @@
           "description": "个人网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "80802ffc-e95b-4f55-a5e1-caafce680f04",
+          "title": "面试题网站",
+          "icon": "BookOpen",
+          "description": "面试题网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
