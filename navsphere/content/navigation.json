@@ -137,15 +137,6 @@
           "items": []
         }
       ]
-    },
-    {
-      "id": "1769702071429",
-      "title": "开源框架",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
