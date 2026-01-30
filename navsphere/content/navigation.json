@@ -527,6 +527,14 @@
           "description": "为什么 RocketMQ",
           "icon": "/assets/favicon_1769765383956.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1769765426663_pqyp23fw6",
+          "title": "RabbitMQ手册",
+          "href": "https://www.rabbitmq.com/docs",
+          "description": "",
+          "icon": "/assets/favicon_1769765416577.png",
+          "enabled": true
         }
       ],
       "subCategories": []
