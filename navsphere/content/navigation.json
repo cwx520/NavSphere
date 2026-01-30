@@ -447,6 +447,14 @@
           "description": "A Vue 3 based component library for designers and developers",
           "icon": "/assets/favicon_1769764845439.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1769765090005_kxyb1j9jl",
+          "title": " LeetCode Books",
+          "href": "https://books.halfrost.com/leetcode/ChapterOne/",
+          "description": "访问 books.halfrost.com",
+          "icon": "/assets/favicon_1769765071856.png",
+          "enabled": true
         }
       ],
       "subCategories": []
