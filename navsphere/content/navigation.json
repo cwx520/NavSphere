@@ -236,14 +236,6 @@
           "icon": "/assets/favicon_1769701580862.png"
         },
         {
-          "id": "item-1769701619614",
-          "enabled": true,
-          "title": "学习笔记",
-          "href": "https://mrjokersince1997.github.io/My-Notes/#/",
-          "description": "MrJoker的学习笔记",
-          "icon": "https://mrjokersince1997.github.io/_public/favicon.ico"
-        },
-        {
           "id": "item-1769701646206",
           "enabled": true,
           "title": "Java 全栈知识体系",
