@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "item-1769702036029",
-          "title": "cmo博客",
-          "href": "https://cwx520.github.io/notes/#/README",
-          "description": "Description",
-          "icon": "/assets/img_1769741869187.png",
-          "enabled": true
-        },
-        {
           "id": "site_1769741458180_4ovlsckbh",
           "title": "NavSphere后端",
           "href": "https://navsphere-94m.pages.dev/admin",
@@ -1380,7 +1372,16 @@
           "icon": "Book",
           "description": "推荐网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1769702036029",
+              "title": "cmo博客",
+              "href": "https://cwx520.github.io/notes/#/README",
+              "description": "cmo博客",
+              "icon": "/assets/img_1769741869187.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "55056b99-bbdc-4f22-9717-4380d38deab3",
