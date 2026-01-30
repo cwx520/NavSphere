@@ -27,40 +27,6 @@
       ]
     },
     {
-      "id": "1769696293315",
-      "title": "资源网站",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "25728b47-2971-441a-b4a9-c7e7637aa407",
-          "title": "手册网站",
-          "icon": "Link",
-          "description": "手册网站",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "ec0e16d4-34e1-4a07-b697-ffd92c4e2d4c",
-          "title": "页面网站",
-          "icon": "Palette",
-          "description": "页面网站",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "c495f409-e314-44d3-92e8-4580bf1dd696",
-          "title": "笔记网站",
-          "icon": "Briefcase",
-          "description": "笔记网站",
-          "enabled": true,
-          "items": []
-        }
-      ]
-    },
-    {
       "id": "1769696285699",
       "title": "博客网站",
       "icon": "FolderKanban",
@@ -89,6 +55,40 @@
           "title": "论坛网站",
           "icon": "Network",
           "description": "论坛网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "1769696293315",
+      "title": "资源网站",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "25728b47-2971-441a-b4a9-c7e7637aa407",
+          "title": "手册网站",
+          "icon": "Link",
+          "description": "手册网站",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "ec0e16d4-34e1-4a07-b697-ffd92c4e2d4c",
+          "title": "页面网站",
+          "icon": "Palette",
+          "description": "页面网站",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "c495f409-e314-44d3-92e8-4580bf1dd696",
+          "title": "笔记网站",
+          "icon": "Briefcase",
+          "description": "笔记网站",
           "enabled": true,
           "items": []
         }
