@@ -386,11 +386,11 @@
       "items": [
         {
           "id": "item-1769704932466",
-          "enabled": true,
-          "title": "组件 | Element",
+          "title": "Element",
           "href": "https://element.eleme.cn/#/zh-CN/component/installation",
           "description": "访问 element.eleme.cn",
-          "icon": "/assets/favicon_1769704916707.png"
+          "icon": "/assets/favicon_1769704916707.png",
+          "enabled": true
         },
         {
           "id": "item-1769705001978",
