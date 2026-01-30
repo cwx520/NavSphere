@@ -1340,6 +1340,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1769790991972",
+      "title": "项目网站",
+      "icon": "LayoutGrid",
+      "description": "项目网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
