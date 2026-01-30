@@ -381,6 +381,14 @@
           "href": "https://fontawesome.com.cn/v5",
           "description": "访问 fontawesome.com.cn",
           "icon": "/assets/favicon_1769705164325.png"
+        },
+        {
+          "id": "site_1769764981067_9p1au6r2i",
+          "title": "Highlightcode",
+          "href": "https://highlightcode.parryqiu.com/",
+          "description": "访问 highlightcode.parryqiu.com",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=highlightcode.parryqiu.com",
+          "enabled": true
         }
       ],
       "subCategories": []
