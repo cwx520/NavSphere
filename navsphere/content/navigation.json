@@ -889,6 +889,14 @@
           "description": "编程网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "0b2367e0-32ad-4b5a-8fff-e249c986e9f2",
+          "title": "写作网站",
+          "icon": "Music",
+          "description": "写作网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
