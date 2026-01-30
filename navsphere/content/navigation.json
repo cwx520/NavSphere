@@ -583,6 +583,14 @@
           "description": "Vue.js - 渐进式的 JavaScript 框架",
           "icon": "/assets/favicon_1769765616332.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1769765646442_zvl5vg6ce",
+          "title": "Redis教程",
+          "href": "https://redis.com.cn/tutorial.html",
+          "description": "访问 redis.com.cn",
+          "icon": "/assets/favicon_1769765640671.png",
+          "enabled": true
         }
       ],
       "subCategories": []
