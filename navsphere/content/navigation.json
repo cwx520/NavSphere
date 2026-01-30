@@ -671,6 +671,14 @@
           "description": "Level up your Java code and explore what Spring can do for you.",
           "icon": "/assets/favicon_1769765922746.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769765953829_suvxqtfn8",
+          "title": "MyBatis-Flex",
+          "href": "https://mybatis-flex.com/zh/intro/getting-started.html",
+          "description": "一个优雅的 MyBatis 增强框架",
+          "icon": "/assets/favicon_1769765945462.png",
+          "enabled": true
         }
       ],
       "subCategories": []
