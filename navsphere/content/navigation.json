@@ -575,6 +575,14 @@
           "description": "访问 nacos.io",
           "icon": "/assets/favicon_1769765588929.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769765621818_875o4ry6b",
+          "title": "Vue.js",
+          "href": "https://cn.vuejs.org/guide/introduction.html",
+          "description": "Vue.js - 渐进式的 JavaScript 框架",
+          "icon": "/assets/favicon_1769765616332.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
