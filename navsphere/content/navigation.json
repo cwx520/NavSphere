@@ -468,6 +468,14 @@
           "description": "在线网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "e172528b-85f4-4135-b863-5e351a39edb3",
+          "title": "处理工具",
+          "icon": "Briefcase",
+          "description": "处理工具",
+          "enabled": true,
+          "items": []
         }
       ]
     },
