@@ -425,6 +425,14 @@
           "description": "页面网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "c495f409-e314-44d3-92e8-4580bf1dd696",
+          "title": "笔记网站",
+          "icon": "Briefcase",
+          "description": "笔记网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
