@@ -117,6 +117,14 @@
           "description": "编程网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "9b2b8b67-eafd-4bac-bfed-35e4d7dde309",
+          "title": "写作网站",
+          "icon": "Palette",
+          "description": "写作网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
