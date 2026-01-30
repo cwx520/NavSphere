@@ -417,6 +417,14 @@
           "description": "手册网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "ec0e16d4-34e1-4a07-b697-ffd92c4e2d4c",
+          "title": "页面网站",
+          "icon": "Palette",
+          "description": "页面网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
