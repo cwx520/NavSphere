@@ -591,6 +591,14 @@
           "description": "访问 redis.com.cn",
           "icon": "/assets/favicon_1769765640671.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769765665283_h2qp90yvx",
+          "title": "Redis 命令参考",
+          "href": "http://doc.redisfans.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=doc.redisfans.com",
+          "enabled": true
         }
       ],
       "subCategories": []
