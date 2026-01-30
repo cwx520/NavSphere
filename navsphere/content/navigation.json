@@ -455,6 +455,14 @@
           "description": "访问 books.halfrost.com",
           "icon": "/assets/favicon_1769765071856.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769765122757_mh4xca30f",
+          "title": "算法通关手册",
+          "href": "https://algo.itcharge.cn/",
+          "description": "访问 algo.itcharge.cn",
+          "icon": "/assets/favicon_1769765109624.png",
+          "enabled": true
         }
       ],
       "subCategories": []
