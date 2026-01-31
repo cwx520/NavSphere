@@ -244,6 +244,14 @@
               "description": "本网站是一个Java学习的网站，提供Java的项目、Python项目、小程序项目，面试真题，帮助小伙伴求职，同时提供毕业设计教程源码和项目源码，承接各种项目定制，帮助更多的小伙伴进行学习。",
               "icon": "/assets/favicon_1769839367752.png",
               "enabled": true
+            },
+            {
+              "id": "item-1769869889792",
+              "enabled": true,
+              "title": "Weblog",
+              "href": "http://116.62.199.48/#/",
+              "description": "访问 116.62.199.48",
+              "icon": "/assets/favicon_1769869876036.png"
             }
           ]
         },
