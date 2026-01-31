@@ -786,6 +786,14 @@
               "description": "访问 eladmin.vip",
               "icon": "/assets/favicon_1769830242350.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830267387_fnhlcuqem",
+              "title": "SmartAdmin",
+              "href": "https://smartadmin.vip/",
+              "description": "SmartAdmin 是由【1024创新实验室】使用基于SpringBoot + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4 (同时支持JavaScript和TypeScript双版本) 并以高质量代码为核心、简洁、高效、安全的快速开发平台！ 我开源一套漂亮的代码和一套整洁的代码规范，让大家在这浮躁的代码世界里感受到一股把代码写好的清流！同时又让开发者节省大量的时间，减少加班，快乐工作，热爱代码，更热爱生活。",
+              "icon": "/assets/favicon_1769830257535.png",
+              "enabled": true
             }
           ]
         },
