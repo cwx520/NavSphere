@@ -929,7 +929,7 @@
               "id": "site_1769830807582_rqdjiiln5",
               "title": "Open-Shop小程序商城",
               "href": "https://gitee.com/wewwww/open_shop_applet_mall?_from=gitee_search#https://gitee.com/link?target=http%3A%2F%2Fip%257C%25E5%259F%259F%25E5%2590%258D%2F%25E9%25A1%25B9%25E7%259B%25AE%25E5%258F%2591%25E5%25B8%2583%25E5%2590%258D%2F",
-              "description": "访问 gitee.com",
+              "description": "基于springboot 改造 open-shop小程序商城，包括：分销（支持三级）、团购（拼多多模式）、秒杀、优惠券、等功能，前后端全部开源。做全网最开源、最稳定、功能做强大的开源小程序商城。微信小程序后台地址。 qq群：1017040237。",
               "icon": "/assets/favicon_1769830801120.png",
               "enabled": true
             },
