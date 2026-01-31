@@ -635,6 +635,14 @@
               "href": "https://www.yuque.com/mrlinxi/pxvr4g/wcwd39",
               "description": "访问 www.yuque.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yuque.com"
+            },
+            {
+              "id": "item-1769869604042",
+              "enabled": true,
+              "title": "SpringCloud",
+              "href": "https://www.yuque.com/fenghuazhengmao-achrz/arcbv3",
+              "description": "访问 www.yuque.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yuque.com"
             }
           ]
         },
