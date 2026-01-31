@@ -161,6 +161,14 @@
               "href": "https://www.yuque.com/login?goto=https%3A%2F%2Fwww.yuque.com%2Fdashboard%2Fbooks",
               "description": "访问 www.yuque.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yuque.com"
+            },
+            {
+              "id": "item-1769870212552",
+              "enabled": true,
+              "title": "石墨文档",
+              "href": "https://shimo.im/loginByPassword?redirect_url=https%3A%2F%2Fshimo.im%2Frecent",
+              "description": "",
+              "icon": "/assets/favicon_1769870208188.ico"
             }
           ]
         }
