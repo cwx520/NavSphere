@@ -279,6 +279,14 @@
               "description": "访问 www.pdai.tech",
               "icon": "/assets/favicon_1769838990209.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769839137149_5lhbrl3tg",
+              "title": "悟空聊架构",
+              "href": "http://www.passjava.cn/home.html",
+              "description": "「Java学习 + 架构指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试、架构剖析，首选 PassJava",
+              "icon": "/assets/favicon_1769839124761.ico",
+              "enabled": true
             }
           ]
         }
