@@ -924,7 +924,16 @@
           "icon": "Files",
           "description": "开源项目",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769830807582_rqdjiiln5",
+              "title": "Open-Shop小程序商城",
+              "href": "https://gitee.com/wewwww/open_shop_applet_mall?_from=gitee_search#https://gitee.com/link?target=http%3A%2F%2Fip%257C%25E5%259F%259F%25E5%2590%258D%2F%25E9%25A1%25B9%25E7%259B%25AE%25E5%258F%2591%25E5%25B8%2583%25E5%2590%258D%2F",
+              "description": "访问 gitee.com",
+              "icon": "/assets/favicon_1769830801120.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
