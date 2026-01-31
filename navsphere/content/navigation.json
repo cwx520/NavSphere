@@ -246,6 +246,14 @@
               "description": "为什么 RocketMQ",
               "icon": "/assets/favicon_1769826276490.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769826304047_60wizopsb",
+              "title": "RabbitMQ",
+              "href": "https://www.rabbitmq.com/docs",
+              "description": "",
+              "icon": "/assets/favicon_1769826296666.png",
+              "enabled": true
             }
           ]
         },
