@@ -254,6 +254,14 @@
               "description": "",
               "icon": "/assets/favicon_1769826296666.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769826322487_q6oiri976",
+              "title": "ActiveMQ",
+              "href": "https://activemq.apache.org/",
+              "description": "",
+              "icon": "/assets/favicon_1769826313632.png",
+              "enabled": true
             }
           ]
         },
