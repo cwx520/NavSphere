@@ -659,6 +659,14 @@
               "href": "https://www.itheima.com/",
               "description": "访问 www.itheima.com",
               "icon": "/assets/favicon_1769869471881.png"
+            },
+            {
+              "id": "item-1769869527482",
+              "enabled": true,
+              "title": "黑马程序猿",
+              "href": "https://pan.baidu.com/s/1LxIxcHDO7SYB96SE-GZfuQ?pwd=dor4#list/path=%2F",
+              "description": "访问 pan.baidu.com",
+              "icon": "/assets/favicon_1769869508724.png"
             }
           ]
         }
