@@ -206,6 +206,14 @@
               "description": "",
               "icon": "/assets/favicon_1769826109374.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769826154798_ui7ja3ir4",
+              "title": "Bootstrap 中文网",
+              "href": "https://www.bootcss.com/",
+              "description": "访问 www.bootcss.com",
+              "icon": "/assets/favicon_1769826145662.png",
+              "enabled": true
             }
           ]
         },
