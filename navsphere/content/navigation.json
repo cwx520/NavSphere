@@ -709,6 +709,14 @@
               "description": "",
               "icon": "/assets/favicon_1769839926582.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769839963025_4r14r1rix",
+              "title": "讯飞星火",
+              "href": "https://xinghuo.xfyun.cn/",
+              "description": "讯飞星火大模型，是由科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写等多种能力。",
+              "icon": "/assets/favicon_1769839953419.ico",
+              "enabled": true
             }
           ]
         },
