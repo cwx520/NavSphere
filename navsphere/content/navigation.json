@@ -128,9 +128,9 @@
       "subCategories": [
         {
           "id": "79090f7c-76a3-44a7-8df7-8bc177eaa2b9",
-          "title": "个人网站",
+          "title": "个人博客",
           "icon": "Book",
-          "description": "个人网站",
+          "description": "个人博客",
           "enabled": true,
           "items": [
             {
