@@ -661,6 +661,14 @@
               "description": "访问 iai.aichatos8.com.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=iai.aichatos8.com.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1769839663934_2axnr7k5t",
+              "title": "AIchatOS2",
+              "href": "https://cht18.aichatosclx.com/#/chat/1769839653559",
+              "description": "",
+              "icon": "/assets/favicon_1769839657860.svg",
+              "enabled": true
             }
           ]
         },
