@@ -165,7 +165,16 @@
           "icon": "FileText",
           "description": "技术博客",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1769827469534",
+              "enabled": true,
+              "title": "芋道源码 —— 纯源码解析博客",
+              "href": "https://www.iocoder.cn/",
+              "description": "访问 www.iocoder.cn",
+              "icon": "/assets/favicon_1769827460534.png"
+            }
+          ]
         }
       ]
     },
