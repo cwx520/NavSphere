@@ -899,6 +899,14 @@
               "description": "访问 www.ydmdd.com",
               "icon": "/assets/favicon_1769830611302.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830662669_e9uywjn3h",
+              "title": "GitHub猿",
+              "href": "https://mp.weixin.qq.com/s/WlmkaNMkmrHtAUsEk1Xzuw",
+              "description": "访问 mp.weixin.qq.com",
+              "icon": "/assets/favicon_1769830639617.png",
+              "enabled": true
             }
           ]
         }
