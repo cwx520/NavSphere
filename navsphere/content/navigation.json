@@ -891,6 +891,14 @@
               "description": "访问 www.oschina.net",
               "icon": "/assets/favicon_1769830571055.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830620477_6s5d2keqr",
+              "title": "淘源码",
+              "href": "http://www.ydmdd.com/CodeIndex",
+              "description": "访问 www.ydmdd.com",
+              "icon": "/assets/favicon_1769830611302.png",
+              "enabled": true
             }
           ]
         }
