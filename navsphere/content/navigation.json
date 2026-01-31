@@ -875,6 +875,14 @@
               "description": "访问 www.oneyuanma.com",
               "icon": "/assets/favicon_1769830504191.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830550997_ed732t1u1",
+              "title": "当牛作码",
+              "href": "http://www.xiaoniucr.com/index.html",
+              "description": "访问 www.xiaoniucr.com",
+              "icon": "/assets/favicon_1769830537704.png",
+              "enabled": true
             }
           ]
         }
