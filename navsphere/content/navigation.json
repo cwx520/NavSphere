@@ -274,6 +274,14 @@
               "description": "访问 tik128.com",
               "icon": "/assets/favicon_1769824147536.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769824199354_rjabkngfg",
+              "title": "链客跨境导航",
+              "href": "https://www.linke123.com/",
+              "description": "访问 www.linke123.com",
+              "icon": "/assets/favicon_1769824178211.png",
+              "enabled": true
             }
           ]
         }
