@@ -266,6 +266,14 @@
               "description": "#about pre {             background-color: #282a36; /* 深色背景 */             color: #f8f8f2; /* 浅色文字 */             padding: 1.5em; /* 内边距 */             border-radius: 2px; /* 圆角 */             font-family: &#039;Fira Cod..",
               "icon": "/assets/favicon_1769825262475.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769825332234_08l70allg",
+              "title": "拾色器",
+              "href": "https://www.jyshare.com/front-end/6214/#e1d215",
+              "description": "在线图片取色器是一款非常简单实用取色器工具，我们可以通过上传图片，并点击图片中的图形区域即可对图片进行取色。鼠标点击图片显示区域中的图片即可在下方显示点击位置的颜色值（颜色值分为十六进制与RBGA两种方式显示）。..",
+              "icon": "/assets/favicon_1769825320512.ico",
+              "enabled": true
             }
           ]
         },
