@@ -140,7 +140,16 @@
           "icon": "BookOpen",
           "description": "面试题网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1769827321494",
+              "enabled": true,
+              "title": "JavaGuide",
+              "href": "https://javaguide.cn/home.html",
+              "description": "访问 javaguide.cn",
+              "icon": "/assets/favicon_1769827308985.png"
+            }
+          ]
         },
         {
           "id": "41437b48-642e-419c-a339-90db8082db20",
