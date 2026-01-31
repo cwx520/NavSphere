@@ -750,7 +750,16 @@
           "icon": "Globe",
           "description": "编程网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769842050103_90u7a3f2o",
+              "title": "Trae",
+              "href": "https://www.trae.cn/?utm_source=advertising&utm_medium=aibot_ug_cpa&utm_term=hw_trae_aibot",
+              "description": "访问 www.trae.cn",
+              "icon": "/assets/favicon_1769842042374.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "9b2b8b67-eafd-4bac-bfed-35e4d7dde309",
