@@ -190,6 +190,14 @@
               "description": "访问 www.dba.cn",
               "icon": "/assets/favicon_1769826041884.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769826094638_ucc5l155h",
+              "title": "Spring Cloud",
+              "href": "https://www.springcloud.cc/spring-cloud-dalston.html",
+              "description": "访问 www.springcloud.cc",
+              "icon": "/assets/favicon_1769826084069.png",
+              "enabled": true
             }
           ]
         },
