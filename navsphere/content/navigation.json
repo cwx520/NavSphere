@@ -362,6 +362,14 @@
               "description": "访问 www.turingscat.com",
               "icon": "/assets/favicon_1769824662541.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769824759589_pkxf6pclr",
+              "title": "生成式人工智能导航",
+              "href": "https://www.aigc.cn/",
+              "description": "访问 www.aigc.cn",
+              "icon": "/assets/favicon_1769824714177.png",
+              "enabled": true
             }
           ]
         }
