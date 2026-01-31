@@ -802,6 +802,14 @@
               "description": "访问 gitee.com",
               "icon": "/assets/favicon_1769830281738.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830324796_ndpmb39wk",
+              "title": "Bladex",
+              "href": "https://bladex.cn/#/",
+              "description": "访问 bladex.cn",
+              "icon": "/assets/favicon_1769830320402.png",
+              "enabled": true
             }
           ]
         },
