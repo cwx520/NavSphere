@@ -294,6 +294,14 @@
               "description": "Nacos 配置中心简介，Nacos 是什么",
               "icon": "/assets/favicon_1769826411436.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769826464799_woen2o7uq",
+              "title": "Vue.js",
+              "href": "https://cn.vuejs.org/guide/introduction.html",
+              "description": "Vue.js - 渐进式的 JavaScript 框架",
+              "icon": "/assets/favicon_1769826456860.svg",
+              "enabled": true
             }
           ]
         },
