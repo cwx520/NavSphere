@@ -286,6 +286,14 @@
               "description": "最专业的Linux命令大全，内容包含Linux命令手册、Linux命令详解、Linux命令学习、Linux命令行与shell脚本编程大全、Linux命令实例讲解，值得收藏的Linux命令速查手册。",
               "icon": "/assets/favicon_1769826379698.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769826420792_6qtfj3y0m",
+              "title": "Nacos",
+              "href": "https://nacos.io/zh-cn/docs/what-is-nacos.html",
+              "description": "Nacos 配置中心简介，Nacos 是什么",
+              "icon": "/assets/favicon_1769826411436.ico",
+              "enabled": true
             }
           ]
         },
