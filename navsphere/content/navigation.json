@@ -746,7 +746,16 @@
           "icon": "BarChart",
           "description": "开源框架",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769830175115_zt9icqi7m",
+              "title": "RuoYi",
+              "href": "https://doc.ruoyi.vip/",
+              "description": "使用若依快速构建web应用程序",
+              "icon": "/assets/favicon_1769830165333.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "78e3576c-b2be-4593-8080-878275817a4a",
