@@ -834,6 +834,14 @@
               "description": "访问 gitee.com",
               "icon": "/assets/favicon_1769830390757.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830420940_fw32yct6c",
+              "title": "zheng",
+              "href": "https://gitee.com/shuzheng/zheng",
+              "description": "访问 gitee.com",
+              "icon": "/assets/favicon_1769830413749.png",
+              "enabled": true
             }
           ]
         },
