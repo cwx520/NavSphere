@@ -79,6 +79,14 @@
               "description": "时光序，是一款轻便的个人日程管理应用，你可以用它管理日程，设定纪念日和关心家人提醒，随时捕捉生活中的灵感、总结自己。是你工作和生活，学习的智能助手。",
               "icon": "/assets/favicon_1769821641329.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769821731276_mttugwksa",
+              "title": "NavSphere后端",
+              "href": "https://navsphere-94m.pages.dev/admin",
+              "description": "A modern navigation platform",
+              "icon": "https://navsphere-94m.pages.dev/favicon.ico",
+              "enabled": true
             }
           ]
         }
