@@ -303,6 +303,14 @@
               "description": "Hello 算法",
               "icon": "/assets/favicon_1769839193656.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769839236373_6eqoqu2zk",
+              "title": "本站简介",
+              "href": "https://labuladong.online/zh/algo/home/",
+              "description": "labuladong 的算法网站简介，介绍配套学习工具，帮助读者练成框架化、模板化的思维方式解决算法题",
+              "icon": "/assets/favicon_1769839227144.ico",
+              "enabled": true
             }
           ]
         }
