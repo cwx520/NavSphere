@@ -770,6 +770,14 @@
               "description": "访问 www.jeecg.com",
               "icon": "/assets/favicon_1769830206215.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830229740_53btdt2gs",
+              "title": "Jeesite",
+              "href": "https://www.jeesite.com/",
+              "description": "访问 www.jeesite.com",
+              "icon": "/assets/favicon_1769830225241.png",
+              "enabled": true
             }
           ]
         },
