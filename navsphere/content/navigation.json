@@ -940,6 +940,14 @@
               "description": "🔥🔥🔥【zkmall商城】B2B2C多商户商城系统、采用Springboot3+Vue3+Uniapp等最新框架、2025最新B2B2C、小程序商城、APP电商、PC电商模板，前后端分离技术实现，支持Docker部署、系统支持拼团、折扣、秒杀、砍价、优惠卷、分销、套餐满减、多商户、直播、模板切换、装修、微信支付、支付宝支付、跨境支付、等商城营销功能。官网：https://mallzk.com",
               "icon": "/assets/favicon_1769830872086.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830970102_0xak2evoo",
+              "title": "生鲜商城kxmall",
+              "href": "https://gitee.com/zhengkaixing/kxmall",
+              "description": "🔥🔥kxmall-生鲜商城+APP+小程序+H5🔥🔥同时支持微信小程序、H5、安卓App、苹果App。支持集群部署，单机部署。可用于B2C商城，O2O外卖，社区超市，生鲜【带配套骑手端配送系统】。kxmall使用uniapp编码。使用Java开发,SpringBoot 2.1.x框架，MyBatis-plus持久层框架、Redis作为缓存、MySql作为数据库。前端vuejs作为开发语言。",
+              "icon": "/assets/favicon_1769830958348.png",
+              "enabled": true
             }
           ]
         }
