@@ -778,6 +778,14 @@
               "description": "访问 www.jeesite.com",
               "icon": "/assets/favicon_1769830225241.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830246755_03z1n4oer",
+              "title": "Eladmin",
+              "href": "https://eladmin.vip/",
+              "description": "访问 eladmin.vip",
+              "icon": "/assets/favicon_1769830242350.png",
+              "enabled": true
             }
           ]
         },
