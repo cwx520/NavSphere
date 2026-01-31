@@ -754,6 +754,14 @@
               "description": "使用若依快速构建web应用程序",
               "icon": "/assets/favicon_1769830165333.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769830193658_w50du5ql6",
+              "title": "人人开源",
+              "href": "https://www.renren.io/",
+              "description": "renren-security、renren-fast是人人开源社区采用Spring、MyBatis、Shiro编写的后台脚手架框架，支持MySQL、Oracle、SQL Server、PostgreSQL数据库，支持分布式部署，能够有效降低企业开发成本，提升开发效率",
+              "icon": "/assets/favicon_1769830188656.png",
+              "enabled": true
             }
           ]
         },
