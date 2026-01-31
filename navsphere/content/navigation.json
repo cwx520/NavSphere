@@ -318,6 +318,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=doc.redisfans.com",
               "enabled": true
+            },
+            {
+              "id": "site_1769826546128_d6eo2dm49",
+              "title": "Nginx",
+              "href": "https://tool.oschina.net/apidocs/apidoc?api=nginx-zh",
+              "description": "访问 tool.oschina.net",
+              "icon": "/assets/favicon_1769826534345.png",
+              "enabled": true
             }
           ]
         },
