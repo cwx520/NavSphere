@@ -214,6 +214,14 @@
               "description": "访问 www.bootcss.com",
               "icon": "/assets/favicon_1769826145662.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769826174846_a57to3kal",
+              "title": "Elasticsearch",
+              "href": "https://www.elastic.co/guide/cn/elasticsearch/guide/current/getting-started.html",
+              "description": "",
+              "icon": "/assets/favicon_1769826165240.ico",
+              "enabled": true
             }
           ]
         },
