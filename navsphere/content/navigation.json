@@ -651,6 +651,14 @@
               "href": "https://pan.baidu.com/share/init?surl=Kg7UUpO3wwALX6x28cWA7A&pwd=8op3#list/path=%2F",
               "description": "百度网盘为您提供文件的网络备份、同步和分享服务。空间大、速度快、安全稳固，支持教育网加速，支持手机端。注册使用百度网盘即可享受免费存储空间",
               "icon": "/assets/favicon_1769869361870.ico"
+            },
+            {
+              "id": "item-1769869475841",
+              "enabled": true,
+              "title": "黑马程序员官网",
+              "href": "https://www.itheima.com/",
+              "description": "访问 www.itheima.com",
+              "icon": "/assets/favicon_1769869471881.png"
             }
           ]
         }
