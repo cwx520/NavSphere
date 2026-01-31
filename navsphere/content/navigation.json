@@ -6,16 +6,7 @@
       "icon": "Home",
       "description": "热门网站",
       "enabled": true,
-      "items": [
-        {
-          "id": "item-1769792958161",
-          "enabled": true,
-          "title": "LeetCode Cookbook",
-          "href": "https://books.halfrost.com/leetcode/ChapterOne/",
-          "description": "",
-          "icon": "/assets/favicon_1769792948960.png"
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "9cad2d40-06a3-4fec-958e-2e1bea98c0b1",
