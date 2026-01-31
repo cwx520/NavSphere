@@ -810,6 +810,14 @@
               "description": "访问 bladex.cn",
               "icon": "/assets/favicon_1769830320402.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830347669_xg9il1kcv",
+              "title": "Javaguns",
+              "href": "https://www.javaguns.com/",
+              "description": "访问 www.javaguns.com",
+              "icon": "/assets/favicon_1769830341903.png",
+              "enabled": true
             }
           ]
         },
