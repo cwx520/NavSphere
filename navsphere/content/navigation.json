@@ -826,6 +826,14 @@
               "description": "访问 www.erupt.xyz",
               "icon": "/assets/favicon_1769830369628.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830397196_zatltcvcr",
+              "title": "pig",
+              "href": "https://gitee.com/log4j/pig",
+              "description": "访问 gitee.com",
+              "icon": "/assets/favicon_1769830390757.png",
+              "enabled": true
             }
           ]
         },
