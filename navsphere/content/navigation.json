@@ -850,6 +850,14 @@
               "description": "访问 gitee.com",
               "icon": "/assets/favicon_1769830434501.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769831032536_sya29me2s",
+              "title": " pageplug",
+              "href": "https://gitee.com/cloudtogo/pageplug?url=eflyos.zip",
+              "description": "PagePlug 是 Appsmith 的中国化项目。基于Appsmith做了整体性能的优化及汉化，也集合了特色表单解决方案Formily组件、图表解决方案Echarts组件、低代码小程序开发等，是面向研发使用的一个开源的、声明式的前后端一体低代码，项目逻辑主要是在前端的解释器和设计器上",
+              "icon": "/assets/favicon_1769831019197.png",
+              "enabled": true
             }
           ]
         },
