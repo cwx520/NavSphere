@@ -180,6 +180,14 @@
               "description": "访问 www.ddkk.com",
               "icon": "/assets/favicon_1769838624018.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769838906011_1pyqnny2i",
+              "title": "陌溪的学习笔记",
+              "href": "https://note.moguit.cn/#/README",
+              "description": "陌溪的学习笔记，面试突击宝典",
+              "icon": "/assets/favicon_1769838898214.png",
+              "enabled": true
             }
           ]
         },
