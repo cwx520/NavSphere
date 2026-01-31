@@ -717,6 +717,14 @@
               "description": "讯飞星火大模型，是由科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写等多种能力。",
               "icon": "/assets/favicon_1769839953419.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769840024826_mso4loadf",
+              "title": "当贝AI",
+              "href": "https://ai.dangbei.com/chat",
+              "description": "当贝AI，体验DeepSeek满血版，聚合全网优质AI大模型，如DeepSeek-R1 671B、豆包、通义千问、智谱等。当贝AI知识库，深度AI解决方案，极速、高效、免费、无需注册、不限量！",
+              "icon": "/assets/favicon_1769840012445.svg",
+              "enabled": true
             }
           ]
         },
