@@ -172,6 +172,14 @@
               "href": "https://github.com/dvsusan/susanSayJava",
               "description": "作者苏三浪迹过几家大厂，掘金优秀创作者，阿里云专家博主，腾讯云年度潜力作者，CSDN万粉博主。. Contribute to dvsusan/susanSayJava development by creating an account on GitHub.",
               "icon": "/assets/favicon_1769828967652.png"
+            },
+            {
+              "id": "site_1769838708033_41hipxnrn",
+              "title": "弟弟快看",
+              "href": "https://www.ddkk.com/",
+              "description": "访问 www.ddkk.com",
+              "icon": "/assets/favicon_1769838624018.png",
+              "enabled": true
             }
           ]
         },
