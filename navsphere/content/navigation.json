@@ -366,6 +366,14 @@
               "description": "访问 www.minio.org.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.minio.org.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1769826656016_qapa9p1o8",
+              "title": "Knife4j",
+              "href": "https://doc.xiaominfo.com/docs/quick-start",
+              "description": "快速开始Knife4j",
+              "icon": "/assets/favicon_1769826647831.ico",
+              "enabled": true
             }
           ]
         },
