@@ -322,6 +322,14 @@
               "description": "菜鸟工具，为开发设计人员提供在线工具，网址导航，提供在线PHP、Python、 CSS、JS 调试，中文简繁体转换，进制转换等工具。致力于打造国内专业WEB开发工具，集成开发环境，WEB开发教程。..",
               "icon": "/assets/favicon_1769824431062.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769824492644_os047hh2a",
+              "title": "Tiktock全生态服务平台",
+              "href": "https://www.tktoc.com/",
+              "description": "访问 www.tktoc.com",
+              "icon": "/assets/favicon_1769824464194.png",
+              "enabled": true
             }
           ]
         }
