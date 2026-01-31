@@ -685,6 +685,14 @@
               "description": "访问 www.scnet.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.scnet.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1769839873589_ohazsnoin",
+              "title": "问小白",
+              "href": "https://www.wenxiaobai.com/",
+              "description": "访问 www.wenxiaobai.com",
+              "icon": "/assets/favicon_1769839860871.png",
+              "enabled": true
             }
           ]
         },
