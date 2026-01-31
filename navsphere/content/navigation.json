@@ -278,6 +278,14 @@
               "description": "访问 www.w3school.com.cn",
               "icon": "/assets/favicon_1769826363696.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769826387847_7v6ilk6go",
+              "title": "鸟哥Linux命令大全",
+              "href": "https://man.niaoge.com/",
+              "description": "最专业的Linux命令大全，内容包含Linux命令手册、Linux命令详解、Linux命令学习、Linux命令行与shell脚本编程大全、Linux命令实例讲解，值得收藏的Linux命令速查手册。",
+              "icon": "/assets/favicon_1769826379698.ico",
+              "enabled": true
             }
           ]
         },
