@@ -137,6 +137,14 @@
               "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
               "icon": "/assets/favicon_1769870082232.png",
               "enabled": true
+            },
+            {
+              "id": "item-1769870129910",
+              "enabled": true,
+              "title": "GitCode",
+              "href": "https://gitcode.com/?tn=67bc3fa197a0293d6bfebd05?utm_source=devpress_gitcode",
+              "description": "AtomGit | GitCode是面向全球开发者的开源社区,包括原创博客,开源代码托管,代码协作,项目管理等。与开发者社区互动,提升您的研发效率和质量。",
+              "icon": "/assets/favicon_1769870119766.png"
             }
           ]
         }
