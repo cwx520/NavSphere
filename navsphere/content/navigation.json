@@ -762,6 +762,14 @@
               "description": "renren-security、renren-fast是人人开源社区采用Spring、MyBatis、Shiro编写的后台脚手架框架，支持MySQL、Oracle、SQL Server、PostgreSQL数据库，支持分布式部署，能够有效降低企业开发成本，提升开发效率",
               "icon": "/assets/favicon_1769830188656.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830212051_hx5v4ryhi",
+              "title": "Jeecg",
+              "href": "https://www.jeecg.com/",
+              "description": "访问 www.jeecg.com",
+              "icon": "/assets/favicon_1769830206215.png",
+              "enabled": true
             }
           ]
         },
