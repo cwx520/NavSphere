@@ -212,6 +212,14 @@
               "description": "犬小哈教程网站提供的实战项目教程，手把手教您学习企业级项目开发技巧。",
               "icon": "/assets/favicon_1769839250774.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769839283975_u04jaihlj",
+              "title": "Javaᶜⁿ 面试突击",
+              "href": "https://www.javacn.site/interview/basic/",
+              "description": "访问 www.javacn.site",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.javacn.site",
+              "enabled": true
             }
           ]
         },
