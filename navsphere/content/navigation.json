@@ -306,6 +306,14 @@
               "description": "访问 123.banmaerp.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=123.banmaerp.com",
               "enabled": true
+            },
+            {
+              "id": "site_1769824410110_5t9d0w80g",
+              "title": "新媒体导航",
+              "href": "https://www.zmt.wiki/",
+              "description": "访问 www.zmt.wiki",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.zmt.wiki",
+              "enabled": true
             }
           ]
         }
