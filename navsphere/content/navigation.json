@@ -243,6 +243,14 @@
           "description": "处理工具",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "f5a40fb7-7409-4695-a336-139ce08e8add",
+          "title": "导航网站",
+          "icon": "LayoutList",
+          "description": "导航网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
