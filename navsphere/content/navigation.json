@@ -783,7 +783,16 @@
           "icon": "Palette",
           "description": "写作网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769842624454_s0vt6xyyy",
+              "title": "蛙蛙写作",
+              "href": "https://wawawriter.com/app/?utm_source=aigongjuji",
+              "description": "蛙蛙写作辅助AI写文，帮助获取创意灵感，提供拆书、小说转剧本、视频生成等功能，是一款功能全面的AI智能写作工具。",
+              "icon": "/assets/favicon_1769842534570.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
