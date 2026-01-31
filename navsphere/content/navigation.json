@@ -132,7 +132,16 @@
           "icon": "Book",
           "description": "个人网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1769827592112",
+              "enabled": true,
+              "title": "蘑菇社区",
+              "href": "https://www.moguit.cn/",
+              "description": "",
+              "icon": "/assets/favicon_1769827585111.png"
+            }
+          ]
         },
         {
           "id": "80802ffc-e95b-4f55-a5e1-caafce680f04",
