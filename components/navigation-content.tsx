@@ -31,6 +31,13 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
     })
     return defaultTabs
   })
+  const [showAllItems, setShowAllItems] = useState<Record<string, boolean>>(() => {
+    const defaultState: Record<string, boolean> = {}
+    navigationData.navigationItems.forEach(category => {
+      defaultState[category.id] = false
+    })
+    return defaultState
+  })
 
   // 修复类型检查和搜索逻辑
   const searchResults = useMemo(() => {
@@ -116,28 +123,40 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
   return (
     <div className="flex flex-col sm:flex-row min-h-screen">
       <div className="hidden sm:block">
-        <Sidebar
-          navigationData={navigationData}
-          siteInfo={siteData}
-          className="sticky top-0 h-screen"
-        />
-      </div>
-
-      <div className={cn(
-        "fixed inset-0 z-50 bg-background/80 backdrop-blur-sm transition-all sm:hidden",
-        isSidebarOpen ? "opacity-100" : "opacity-0 pointer-events-none"
-      )}>
-        <div className={cn(
-          "fixed inset-y-0 right-0 sm:left-0 w-3/4 max-w-xs bg-background shadow-lg transform transition-transform duration-200 ease-in-out",
-          isSidebarOpen ? "translate-x-0" : "translate-x-full sm:-translate-x-full"
-        )}>
           <Sidebar
             navigationData={navigationData}
             siteInfo={siteData}
-            onClose={() => setIsSidebarOpen(false)}
+            className="sticky top-0 h-screen"
+            onSubCategoryClick={(categoryId, subCategoryId) => {
+              setActiveTabs(prev => ({
+                ...prev,
+                [categoryId]: subCategoryId
+              }))
+            }}
           />
         </div>
-      </div>
+
+        <div className={cn(
+          "fixed inset-0 z-50 bg-background/80 backdrop-blur-sm transition-all sm:hidden",
+          isSidebarOpen ? "opacity-100" : "opacity-0 pointer-events-none"
+        )}>
+          <div className={cn(
+            "fixed inset-y-0 right-0 sm:left-0 w-3/4 max-w-xs bg-background shadow-lg transform transition-transform duration-200 ease-in-out",
+            isSidebarOpen ? "translate-x-0" : "translate-x-full sm:-translate-x-full"
+          )}>
+            <Sidebar
+              navigationData={navigationData}
+              siteInfo={siteData}
+              onClose={() => setIsSidebarOpen(false)}
+              onSubCategoryClick={(categoryId, subCategoryId) => {
+                setActiveTabs(prev => ({
+                  ...prev,
+                  [categoryId]: subCategoryId
+                }))
+              }}
+            />
+          </div>
+        </div>
 
       <main className="flex-1">
         <div className="sticky top-0 bg-background/90 backdrop-blur-sm z-30 px-3 sm:px-6 py-2">
@@ -154,7 +173,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
             <div className="flex items-center gap-1">
               <ModeToggle />
               <Link
-                href="https://github.com/tianyaxiang/NavSphere"
+                href="https://github.com/cwx520/NavSphere"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="访问 GitHub 仓库"
@@ -212,46 +231,92 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
             {navigationData.navigationItems.map((category) => (
               <section key={category.id} id={category.id} className="scroll-m-16">
                 <div className="space-y-4">
-                  <h2 className="text-base font-medium tracking-tight">
-                    {category.title}
-                  </h2>
+                  <div className="flex justify-between items-center">
+                    <h2 className="text-base font-medium tracking-tight">
+                      {category.title}
+                    </h2>
+                    {(() => {
+                      // 计算没有子分类的分类下的项目数量
+                      if (!category.subCategories || category.subCategories.length === 0) {
+                        const itemCount = (category.items || []).length
+                        return itemCount > 20 ? (
+                          <button
+                            className="px-3 py-1.5 text-sm whitespace-nowrap rounded-md bg-muted text-muted-foreground hover:bg-muted/80 transition-colors"
+                            onClick={() => setShowAllItems(prev => ({
+                              ...prev,
+                              [category.id]: !prev[category.id]
+                            }))}
+                          >
+                            {showAllItems[category.id] ? '收起' : '展开'}
+                          </button>
+                        ) : null
+                      }
+                      return null
+                    })()}
+                  </div>
 
                   {category.subCategories && category.subCategories.length > 0 ? (
                     <div className="space-y-3">
-                      <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-hide">
-                        {category.subCategories.map((subCategory) => (
-                          <button
-                            key={subCategory.id}
-                            id={subCategory.id}
-                            className={`px-3 py-1.5 text-sm whitespace-nowrap rounded-md transition-colors ${
-                              activeTabs[category.id] === subCategory.id
-                                ? 'bg-primary text-primary-foreground'
-                                : 'bg-muted text-muted-foreground hover:bg-muted/80'
-                            }`}
-                            onClick={() => setActiveTabs(prev => ({
-                              ...prev,
-                              [category.id]: subCategory.id
-                            }))}
-                          >
-                            {subCategory.title}
-                          </button>
-                        ))}
+                      <div className="flex justify-between items-center gap-2 overflow-x-auto pb-2 scrollbar-hide">
+                        <div className="flex gap-2">
+                          {category.subCategories.map((subCategory) => (
+                            <button
+                              key={subCategory.id}
+                              id={subCategory.id}
+                              className={`px-3 py-1.5 text-sm whitespace-nowrap rounded-md transition-colors ${
+                                activeTabs[category.id] === subCategory.id
+                                  ? 'bg-primary text-primary-foreground'
+                                  : 'bg-muted text-muted-foreground hover:bg-muted/80'
+                              }`}
+                              onClick={() => setActiveTabs(prev => ({
+                                ...prev,
+                                [category.id]: subCategory.id
+                              }))}
+                            >
+                              {subCategory.title}
+                            </button>
+                          ))}
+                        </div>
+                        {(() => {
+                          // 计算有子分类的分类下的项目数量
+                          const itemCount = category.subCategories
+                            .filter(sub => activeTabs[category.id] === sub.id || !activeTabs[category.id])
+                            .flatMap((subCategory) => (subCategory.items || []))
+                            .length
+                          return itemCount > 20 ? (
+                            <button
+                              className="px-3 py-1.5 text-sm whitespace-nowrap rounded-md bg-muted text-muted-foreground hover:bg-muted/80 transition-colors"
+                              onClick={() => setShowAllItems(prev => ({
+                                ...prev,
+                                [category.id]: !prev[category.id]
+                              }))}
+                            >
+                              {showAllItems[category.id] ? '收起' : '展开'}
+                            </button>
+                          ) : null
+                        })()}
                       </div>
                       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
-                        {category.subCategories
-                          .filter(sub => activeTabs[category.id] === sub.id || !activeTabs[category.id])
-                          .flatMap((subCategory) => (
-                            (subCategory.items || []).map((item) => (
-                              <NavigationCard key={item.id} item={item} siteConfig={siteData} />
-                            ))
-                          ))}
+                        {(() => {
+                          const allItems = category.subCategories
+                            .filter(sub => activeTabs[category.id] === sub.id || !activeTabs[category.id])
+                            .flatMap((subCategory) => (subCategory.items || []))
+                          return showAllItems[category.id] ? allItems : allItems.slice(0, 20) // 假设4行显示20个项目（5列 x 4行）
+                        })().map((item) => (
+                          <NavigationCard key={item.id} item={item} siteConfig={siteData} />
+                        ))}
                       </div>
                     </div>
                   ) : (
-                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
-                      {(category.items || []).map((item) => (
-                        <NavigationCard key={item.id} item={item} siteConfig={siteData} />
-                      ))}
+                    <div className="mt-3">
+                      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3">
+                        {(() => {
+                          const allItems = category.items || []
+                          return showAllItems[category.id] ? allItems : allItems.slice(0, 20) // 假设4行显示20个项目（5列 x 4行）
+                        })().map((item) => (
+                          <NavigationCard key={item.id} item={item} siteConfig={siteData} />
+                        ))}
+                      </div>
                     </div>
                   )}
                 </div>
