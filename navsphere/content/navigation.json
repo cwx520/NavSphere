@@ -250,7 +250,16 @@
           "icon": "LayoutList",
           "description": "导航网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769823869584_u44ijcfrt",
+              "title": "泛微工程师导航",
+              "href": "https://huahan.cc/",
+              "description": "huahan.cc泛微OA工程师导航 - 打造专业的OA系统技术支持与资源分享平台, 为泛微OA系统工程师和使用者提供技术支持、插件下载与知识分享站点导航, 助力你快速找到所需的信息。",
+              "icon": "/assets/favicon_1769823850291.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
