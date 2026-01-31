@@ -842,6 +842,14 @@
               "description": "访问 gitee.com",
               "icon": "/assets/favicon_1769830413749.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830439997_zj897ce1y",
+              "title": "开源字节快速开发平台",
+              "href": "https://gitee.com/open-source-byte/source-vue",
+              "description": "访问 gitee.com",
+              "icon": "/assets/favicon_1769830434501.png",
+              "enabled": true
             }
           ]
         },
