@@ -387,6 +387,14 @@
               "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
               "icon": "/assets/favicon_1769825033181.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769825180304_frwsunaxo",
+              "title": "IT Tools",
+              "href": "https://huahan.cc/it-tools/",
+              "description": "",
+              "icon": "/assets/favicon_1769825170152.ico",
+              "enabled": true
             }
           ]
         }
