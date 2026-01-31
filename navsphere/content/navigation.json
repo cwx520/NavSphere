@@ -859,7 +859,16 @@
           "icon": "BookOpen",
           "description": "开源项目",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769830475102_49nsnhcjg",
+              "title": "一飞开源",
+              "href": "https://code.exmay.com/exmay/ugc/article",
+              "description": "访问 code.exmay.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=code.exmay.com",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
