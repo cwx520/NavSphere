@@ -242,6 +242,14 @@
               "description": "访问 vscode.dev",
               "icon": "/assets/favicon_1769825135733.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769825207768_yfj14refq",
+              "title": "diffchecker",
+              "href": "https://www.diffchecker.com/",
+              "description": "Compare text, files, and code (e.g. json, xml) to find differences with Diffchecker online for free! Use our desktop app for private, offline diffs.",
+              "icon": "/assets/favicon_1769825196080.png",
+              "enabled": true
             }
           ]
         },
