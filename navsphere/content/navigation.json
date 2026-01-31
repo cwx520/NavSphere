@@ -263,15 +263,6 @@
           "items": []
         }
       ]
-    },
-    {
-      "id": "1769823759538",
-      "title": "导航网站",
-      "icon": "LayoutGrid",
-      "description": "导航网站",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
