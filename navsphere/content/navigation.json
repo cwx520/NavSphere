@@ -213,6 +213,14 @@
               "href": "https://javaguide.cn/home.html",
               "description": "访问 javaguide.cn",
               "icon": "/assets/favicon_1769827308985.png"
+            },
+            {
+              "id": "site_1769839056209_7ojwd1i2z",
+              "title": "【牛客网】Java工程师面试宝典",
+              "href": "https://www.nowcoder.com/issue/tutorial?tutorialId=94&uuid=ea1986fcff294f6292385703e94689e8",
+              "description": "Java工程师校招求职面试宝典，覆盖了众多互联网IT名企面试真题，面经汇总合集，包含了Java工程师校招面试所有考点，JavaSE基础，JavaEE进阶，操作系统，计算机网络，数据库，算法与数据结构，项目相关，设计模式，Java web，JDBC，XML，UML，场景题，覆盖腾讯/阿里/百度/字节跳动/网易/京东/美团/滴滴/华为/小米/google/字节跳动/携程/360/搜狗/新浪/微软/去哪儿等公司。_牛客网_牛客在手,offer不愁",
+              "icon": "/assets/favicon_1769839037766.ico",
+              "enabled": true
             }
           ]
         },
