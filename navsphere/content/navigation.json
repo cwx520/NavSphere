@@ -188,6 +188,14 @@
               "description": "陌溪的学习笔记，面试突击宝典",
               "icon": "/assets/favicon_1769838898214.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769838976118_c51yy6ke8",
+              "title": "Java学习笔记",
+              "href": "https://mrjokersince1997.github.io/My-Notes/#/?id=java-se",
+              "description": "MrJoker的学习笔记",
+              "icon": "https://mrjokersince1997.github.io/_public/favicon.ico",
+              "enabled": true
             }
           ]
         },
