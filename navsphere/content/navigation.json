@@ -164,6 +164,14 @@
               "href": "https://programmercarl.com/",
               "description": "访问 programmercarl.com",
               "icon": "/assets/favicon_1769827690295.png"
+            },
+            {
+              "id": "item-1769828989219",
+              "enabled": true,
+              "title": "苏三说Java",
+              "href": "https://github.com/dvsusan/susanSayJava",
+              "description": "作者苏三浪迹过几家大厂，掘金优秀创作者，阿里云专家博主，腾讯云年度潜力作者，CSDN万粉博主。. Contribute to dvsusan/susanSayJava development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1769828967652.png"
             }
           ]
         },
