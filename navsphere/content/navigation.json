@@ -747,6 +747,14 @@
           "description": "开源框架",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "78e3576c-b2be-4593-8080-878275817a4a",
+          "title": "开源项目",
+          "icon": "BookOpen",
+          "description": "开源项目",
+          "enabled": true,
+          "items": []
         }
       ]
     }
