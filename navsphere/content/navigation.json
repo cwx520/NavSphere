@@ -96,6 +96,14 @@
               "description": "哔哩哔哩（bilibili.com)是国内知名的视频弹幕网站，这里有及时的动漫新番，活跃的ACG氛围，有创意的Up主。大家可以在这里找到许多欢乐。",
               "icon": "/assets/favicon_1769840420114.ico",
               "enabled": true
+            },
+            {
+              "id": "item-1769870256614",
+              "enabled": true,
+              "title": "小红书",
+              "href": "https://www.xiaohongshu.com/explore?m_source=pinpai",
+              "description": "",
+              "icon": "/assets/favicon_1769870247530.ico"
             }
           ]
         },
