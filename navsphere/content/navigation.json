@@ -818,6 +818,14 @@
               "description": "访问 www.javaguns.com",
               "icon": "/assets/favicon_1769830341903.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830375108_zylfsx7xp",
+              "title": "Erupt",
+              "href": "https://www.erupt.xyz/#!/",
+              "description": "访问 www.erupt.xyz",
+              "icon": "/assets/favicon_1769830369628.png",
+              "enabled": true
             }
           ]
         },
