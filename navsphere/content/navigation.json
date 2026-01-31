@@ -354,6 +354,14 @@
               "description": "访问 www.ailookme.com",
               "icon": "/assets/favicon_1769824624762.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769824683709_hh8lq2dja",
+              "title": "百大AI应用",
+              "href": "https://www.turingscat.com/ai-top-100",
+              "description": "访问 www.turingscat.com",
+              "icon": "/assets/favicon_1769824662541.png",
+              "enabled": true
             }
           ]
         }
