@@ -263,6 +263,14 @@
               "description": "访问 nowjava.com",
               "icon": "/assets/favicon_1769838923404.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769839002702_764ne8ix0",
+              "title": "Java 全栈知识体系",
+              "href": "https://www.pdai.tech/md/interview/x-interview.html",
+              "description": "访问 www.pdai.tech",
+              "icon": "/assets/favicon_1769838990209.png",
+              "enabled": true
             }
           ]
         }
