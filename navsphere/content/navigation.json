@@ -129,6 +129,14 @@
               "description": "百度翻译打造的新一代AI大模型翻译平台，为用户提供翻译和阅读外文场景的一站式智能解决方案，支持中文、英文、日语、韩语、德语、法语等203种语言，包括文档翻译、AI翻译、英文润色、双语审校、语法分析等多种能力，是智能时代的翻译新质生产力。",
               "icon": "/assets/favicon_1769840457594.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769870091286_l0qug11zl",
+              "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+              "href": "https://github.com/",
+              "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+              "icon": "/assets/favicon_1769870082232.png",
+              "enabled": true
             }
           ]
         }
