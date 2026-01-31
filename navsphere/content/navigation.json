@@ -247,6 +247,14 @@
               "description": "Java充电社(www.itsoku.com)提供了大量Java学习教程，让大家更好更轻松的学习各种Java技术。",
               "icon": "/assets/favicon_1769838751094.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769838931035_x2b4jogrd",
+              "title": "时代Java",
+              "href": "https://nowjava.com/",
+              "description": "访问 nowjava.com",
+              "icon": "/assets/favicon_1769838923404.png",
+              "enabled": true
             }
           ]
         }
