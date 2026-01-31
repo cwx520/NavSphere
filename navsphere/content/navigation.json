@@ -220,6 +220,14 @@
               "description": "访问 www.javacn.site",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.javacn.site",
               "enabled": true
+            },
+            {
+              "id": "site_1769839374260_9aszjz0gh",
+              "title": "开发攀登网",
+              "href": "https://www.javaclimb.com/",
+              "description": "本网站是一个Java学习的网站，提供Java的项目、Python项目、小程序项目，面试真题，帮助小伙伴求职，同时提供毕业设计教程源码和项目源码，承接各种项目定制，帮助更多的小伙伴进行学习。",
+              "icon": "/assets/favicon_1769839367752.png",
+              "enabled": true
             }
           ]
         },
