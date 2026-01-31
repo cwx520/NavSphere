@@ -16,9 +16,10 @@ interface SidebarProps extends React.HTMLAttributes<HTMLDivElement> {
   navigationData: NavigationData
   siteInfo: SiteConfig
   onClose?: () => void
+  onSubCategoryClick?: (categoryId: string, subCategoryId: string) => void
 }
 
-export function Sidebar({ className, navigationData, siteInfo, onClose }: SidebarProps) {
+export function Sidebar({ className, navigationData, siteInfo, onClose, onSubCategoryClick }: SidebarProps) {
   const pathname = usePathname()
 
   const scrollToSection = (id: string) => {
@@ -150,7 +151,10 @@ export function Sidebar({ className, navigationData, siteInfo, onClose }: Sideba
                       variant="ghost"
                       className="w-full justify-start pl-6 text-sm text-muted-foreground/80 hover:text-foreground cursor-pointer"
                       onClick={() => {
-                        scrollToSection(subCategory.id)
+                        // 先滚动到主分类区域
+                        scrollToSection(category.id)
+                        // 调用回调函数更新右侧页签
+                        onSubCategoryClick?.(category.id, subCategory.id)
                         onClose?.()
                       }}
                     >
