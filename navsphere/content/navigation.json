@@ -121,6 +121,14 @@
               "description": "时光序，是一款轻便的个人日程管理应用，你可以用它管理日程，设定纪念日和关心家人提醒，随时捕捉生活中的灵感、总结自己。是你工作和生活，学习的智能助手。",
               "icon": "/assets/favicon_1769821641329.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769840470233_yqedbtisr",
+              "title": "百度翻译",
+              "href": "https://fanyi.baidu.com/mtpe-individual/transText?ext_channel=pcPinzhuan#/",
+              "description": "百度翻译打造的新一代AI大模型翻译平台，为用户提供翻译和阅读外文场景的一站式智能解决方案，支持中文、英文、日语、韩语、德语、法语等203种语言，包括文档翻译、AI翻译、英文润色、双语审校、语法分析等多种能力，是智能时代的翻译新质生产力。",
+              "icon": "/assets/favicon_1769840457594.ico",
+              "enabled": true
             }
           ]
         }
