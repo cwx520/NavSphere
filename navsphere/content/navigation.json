@@ -268,6 +268,14 @@
               "href": "https://xiaofuge.notion.site/0fe5ce4333ee477da774a884cb44dc7a",
               "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
               "icon": "/assets/favicon_1769869989460.ico"
+            },
+            {
+              "id": "item-1769870041344",
+              "enabled": true,
+              "title": "博客园",
+              "href": "https://www.cnblogs.com/",
+              "description": "访问 www.cnblogs.com",
+              "icon": "/assets/favicon_1769870036756.png"
             }
           ]
         },
