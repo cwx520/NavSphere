@@ -158,6 +158,14 @@
           "description": "论坛网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b98ee5a0-48f1-46e8-92b2-37dd54535113",
+          "title": "技术博客",
+          "icon": "FileText",
+          "description": "技术博客",
+          "enabled": true,
+          "items": []
         }
       ]
     },
