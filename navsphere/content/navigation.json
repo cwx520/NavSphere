@@ -948,6 +948,14 @@
               "description": "🔥🔥kxmall-生鲜商城+APP+小程序+H5🔥🔥同时支持微信小程序、H5、安卓App、苹果App。支持集群部署，单机部署。可用于B2C商城，O2O外卖，社区超市，生鲜【带配套骑手端配送系统】。kxmall使用uniapp编码。使用Java开发,SpringBoot 2.1.x框架，MyBatis-plus持久层框架、Redis作为缓存、MySql作为数据库。前端vuejs作为开发语言。",
               "icon": "/assets/favicon_1769830958348.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769831003392_iiruyzy5m",
+              "title": "微信小程序兼职平台以及问答悬赏平台的整合项目",
+              "href": "https://gitee.com/OHUHO/part-time-platform",
+              "description": "微信小程序兼职平台以及问答悬赏平台的整合项目",
+              "icon": "/assets/favicon_1769830987024.png",
+              "enabled": true
             }
           ]
         }
