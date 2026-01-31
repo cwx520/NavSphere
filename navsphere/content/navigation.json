@@ -198,6 +198,14 @@
               "description": "访问 www.springcloud.cc",
               "icon": "/assets/favicon_1769826084069.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769826120669_pecvll6zc",
+              "title": "Spring Data JPA",
+              "href": "https://www.springcloud.cc/spring-data-jpa.html",
+              "description": "",
+              "icon": "/assets/favicon_1769826109374.png",
+              "enabled": true
             }
           ]
         },
