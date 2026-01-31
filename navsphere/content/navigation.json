@@ -917,6 +917,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "33b970a4-ac90-4357-bb52-00f1bc5eeca3",
+          "title": "开源项目",
+          "icon": "Files",
+          "description": "开源项目",
+          "enabled": true,
+          "items": []
         }
       ]
     }
