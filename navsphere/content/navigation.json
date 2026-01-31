@@ -374,6 +374,14 @@
               "description": "快速开始Knife4j",
               "icon": "/assets/favicon_1769826647831.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769826679376_hjdwsnoi3",
+              "title": "Quick Reference",
+              "href": "https://quickref.me/",
+              "description": "Share quick reference and cheat sheet for developers",
+              "icon": "/assets/favicon_1769826671761.png",
+              "enabled": true
             }
           ]
         },
