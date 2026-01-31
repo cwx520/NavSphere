@@ -204,6 +204,14 @@
               "description": "「知码学院」专属于自学者的在线学习平台,这里有编程领域最完善最「体系化的」Java学习视频、如果你是小白快加入我们一起学最全最「体系化的」java知识吧，官方交流QQ群：827553720",
               "icon": "/assets/favicon_1769839162772.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769839259831_5nh2eabsq",
+              "title": "犬小哈教程",
+              "href": "https://www.quanxiaoha.com/column/",
+              "description": "犬小哈教程网站提供的实战项目教程，手把手教您学习企业级项目开发技巧。",
+              "icon": "/assets/favicon_1769839250774.ico",
+              "enabled": true
             }
           ]
         },
