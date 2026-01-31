@@ -867,6 +867,14 @@
               "description": "访问 code.exmay.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=code.exmay.com",
               "enabled": true
+            },
+            {
+              "id": "site_1769830516044_728rfmjr3",
+              "title": "One源码",
+              "href": "https://www.oneyuanma.com/index.html",
+              "description": "访问 www.oneyuanma.com",
+              "icon": "/assets/favicon_1769830504191.png",
+              "enabled": true
             }
           ]
         }
