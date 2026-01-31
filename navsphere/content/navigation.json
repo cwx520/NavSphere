@@ -250,6 +250,14 @@
               "description": "Compare text, files, and code (e.g. json, xml) to find differences with Diffchecker online for free! Use our desktop app for private, offline diffs.",
               "icon": "/assets/favicon_1769825196080.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769825244137_vth4p4gx7",
+              "title": "JSON在线解析",
+              "href": "https://www.sojson.com/simple_json.html",
+              "description": "访问 www.sojson.com",
+              "icon": "/assets/favicon_1769825231260.png",
+              "enabled": true
             }
           ]
         },
