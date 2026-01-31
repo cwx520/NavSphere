@@ -258,6 +258,14 @@
               "description": "访问 www.sojson.com",
               "icon": "/assets/favicon_1769825231260.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769825296697_o0h3gzzft",
+              "title": "在线XML格式化",
+              "href": "https://www.jyshare.com/front-end/710/",
+              "description": "#about pre {             background-color: #282a36; /* 深色背景 */             color: #f8f8f2; /* 浅色文字 */             padding: 1.5em; /* 内边距 */             border-radius: 2px; /* 圆角 */             font-family: &#039;Fira Cod..",
+              "icon": "/assets/favicon_1769825262475.ico",
+              "enabled": true
             }
           ]
         },
