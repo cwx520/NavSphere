@@ -252,6 +252,14 @@
               "href": "http://116.62.199.48/#/",
               "description": "访问 116.62.199.48",
               "icon": "/assets/favicon_1769869876036.png"
+            },
+            {
+              "id": "item-1769869920848",
+              "enabled": true,
+              "title": "小傅哥 bugstack 虫洞栈",
+              "href": "https://bugstack.cn/",
+              "description": "访问 bugstack.cn",
+              "icon": "/assets/favicon_1769869915562.png"
             }
           ]
         },
