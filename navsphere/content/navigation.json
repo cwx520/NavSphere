@@ -46,6 +46,14 @@
               "description": "访问 www.hao123.com",
               "icon": "/assets/favicon_1769792553069.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769821685858_b0iun76dz",
+              "title": "Blog",
+              "href": "https://blog.csdn.net/weixin_45035342?spm=1000.2115.3001.5343",
+              "description": "访问 blog.csdn.net",
+              "icon": "/assets/favicon_1769821679401.png",
+              "enabled": true
             }
           ]
         },
