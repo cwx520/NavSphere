@@ -627,7 +627,16 @@
           "icon": "Palette",
           "description": "页面网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1769869578274",
+              "enabled": true,
+              "title": "SpringCloud简介",
+              "href": "https://www.yuque.com/mrlinxi/pxvr4g/wcwd39",
+              "description": "访问 www.yuque.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yuque.com"
+            }
+          ]
         },
         {
           "id": "c495f409-e314-44d3-92e8-4580bf1dd696",
