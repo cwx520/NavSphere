@@ -196,6 +196,14 @@
               "description": "MrJoker的学习笔记",
               "icon": "https://mrjokersince1997.github.io/_public/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769839177547_dz2hhb9vj",
+              "title": "君哥的学习笔记",
+              "href": "https://www.it235.com/",
+              "description": "「知码学院」专属于自学者的在线学习平台,这里有编程领域最完善最「体系化的」Java学习视频、如果你是小白快加入我们一起学最全最「体系化的」java知识吧，官方交流QQ群：827553720",
+              "icon": "/assets/favicon_1769839162772.ico",
+              "enabled": true
             }
           ]
         },
