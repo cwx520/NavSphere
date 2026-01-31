@@ -677,6 +677,14 @@
               "description": "访问 manus.im",
               "icon": "/assets/favicon_1769839693243.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769839735305_er2rmorzf",
+              "title": "超算互联网",
+              "href": "https://www.scnet.cn/ui/chatbot/",
+              "description": "访问 www.scnet.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.scnet.cn",
+              "enabled": true
             }
           ]
         },
