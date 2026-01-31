@@ -298,6 +298,14 @@
               "description": "访问 www.coderutil.com",
               "icon": "/assets/favicon_1769824282321.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769824362459_r7ouetzs1",
+              "title": "斑马ERP",
+              "href": "https://123.banmaerp.com/",
+              "description": "访问 123.banmaerp.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=123.banmaerp.com",
+              "enabled": true
             }
           ]
         }
