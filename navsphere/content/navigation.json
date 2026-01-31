@@ -104,6 +104,14 @@
               "href": "https://www.xiaohongshu.com/explore?m_source=pinpai",
               "description": "",
               "icon": "/assets/favicon_1769870247530.ico"
+            },
+            {
+              "id": "item-1769870275031",
+              "enabled": true,
+              "title": "牛客网",
+              "href": "https://www.nowcoder.com/",
+              "description": "访问 www.nowcoder.com",
+              "icon": "/assets/favicon_1769870269882.png"
             }
           ]
         },
