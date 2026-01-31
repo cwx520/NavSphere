@@ -198,7 +198,16 @@
           "icon": "Network",
           "description": "论坛网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769838500723_7hoftojwd",
+              "title": "Spring4all",
+              "href": "https://spring4all.com/",
+              "description": "访问 spring4all.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=spring4all.com",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "b98ee5a0-48f1-46e8-92b2-37dd54535113",
