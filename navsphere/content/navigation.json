@@ -645,6 +645,14 @@
               "description": "月之暗面 (Moonshot AI) 旗下 Kimi K2.5 模型发布！引领开源视觉编程，同步开启 Agent 集群预览版。从像素级网页复刻到专家级办公交付，助你高效搞定复杂任务。立即访问 Kimi 官网体验。",
               "icon": "/assets/favicon_1769839581204.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769839611564_zldzug406",
+              "title": "DeepSeek",
+              "href": "https://chat.deepseek.com/",
+              "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+              "icon": "/assets/favicon_1769839605942.svg",
+              "enabled": true
             }
           ]
         },
