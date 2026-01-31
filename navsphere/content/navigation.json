@@ -282,14 +282,6 @@
               "description": "访问 www.bejson.com",
               "icon": "/assets/favicon_1769825352788.png",
               "enabled": true
-            },
-            {
-              "id": "site_1769825377634_ohv3md0u8",
-              "title": "代码在线对比",
-              "href": "https://www.bejson.com/others/comparecode/",
-              "description": "访问 www.bejson.com",
-              "icon": "/assets/favicon_1769825352788.png",
-              "enabled": true
             }
           ]
         },
