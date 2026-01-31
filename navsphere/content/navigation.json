@@ -636,6 +636,14 @@
           "description": "笔记网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "601db925-6c73-403e-9f06-d43076e6b0b8",
+          "title": "学习资料",
+          "icon": "LayoutList",
+          "description": "学习资料",
+          "enabled": true,
+          "items": []
         }
       ]
     },
