@@ -350,6 +350,14 @@
               "description": "",
               "icon": "/assets/favicon_1769826598933.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769826622152_eh96dvrok",
+              "title": "Uniapp",
+              "href": "https://uniapp.dcloud.net.cn/",
+              "description": "访问 uniapp.dcloud.net.cn",
+              "icon": "/assets/favicon_1769826616061.png",
+              "enabled": true
             }
           ]
         },
