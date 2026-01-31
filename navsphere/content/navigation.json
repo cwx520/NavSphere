@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1769822944886",
+      "title": "个人收藏",
+      "icon": "Home",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1769790362495",
       "title": "热门网站",
       "icon": "Home",
@@ -245,15 +254,6 @@
           "items": []
         }
       ]
-    },
-    {
-      "id": "1769822944886",
-      "title": "个人收藏",
-      "icon": "Home",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
