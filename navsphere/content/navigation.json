@@ -883,6 +883,14 @@
               "description": "访问 www.xiaoniucr.com",
               "icon": "/assets/favicon_1769830537704.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830584261_n6z4leh2p",
+              "title": "开源中国",
+              "href": "https://www.oschina.net/",
+              "description": "访问 www.oschina.net",
+              "icon": "/assets/favicon_1769830571055.png",
+              "enabled": true
             }
           ]
         }
