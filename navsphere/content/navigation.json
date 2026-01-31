@@ -282,6 +282,14 @@
               "description": "访问 www.linke123.com",
               "icon": "/assets/favicon_1769824178211.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769824253608_hkz3t9ex3",
+              "title": "AI工具集",
+              "href": "https://ai-bot.cn/",
+              "description": "访问 ai-bot.cn",
+              "icon": "/assets/favicon_1769824241879.png",
+              "enabled": true
             }
           ]
         }
