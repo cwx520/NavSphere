@@ -338,6 +338,14 @@
               "description": "访问 www.tkevo.com",
               "icon": "/assets/favicon_1769824558076.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769824596837_9geebdwv9",
+              "title": "飞猪AI导航",
+              "href": "https://feizhuke.com/",
+              "description": "访问 feizhuke.com",
+              "icon": "/assets/favicon_1769824586269.png",
+              "enabled": true
             }
           ]
         }
