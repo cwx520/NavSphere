@@ -907,6 +907,14 @@
               "description": "访问 mp.weixin.qq.com",
               "icon": "/assets/favicon_1769830639617.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769830686533_zkp5nxmtr",
+              "title": "Java项目分享",
+              "href": "https://mp.weixin.qq.com/s/6nfd_lWpVNpUXdZFepCJug",
+              "description": "访问 mp.weixin.qq.com",
+              "icon": "/assets/favicon_1769830675449.png",
+              "enabled": true
             }
           ]
         }
