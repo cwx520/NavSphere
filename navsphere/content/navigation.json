@@ -817,7 +817,16 @@
           "icon": "Briefcase",
           "description": "处理工具",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769840375470_tq27h7cc2",
+              "title": "慕课RP",
+              "href": "https://www.mockplus.cn/example/rp",
+              "description": "访问 www.mockplus.cn",
+              "icon": "/assets/favicon_1769840349056.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "f5a40fb7-7409-4695-a336-139ce08e8add",
