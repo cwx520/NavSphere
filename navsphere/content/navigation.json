@@ -193,6 +193,14 @@
               "href": "https://juejin.cn/",
               "description": "掘金是面向全球中文开发者的技术内容分享与交流平台。我们通过技术文章、沸点、课程、直播等产品和服务，打造一个激发开发者创作灵感，激励开发者沉淀分享，陪伴开发者成长的综合类技术社区。",
               "icon": "/assets/favicon_1769870233045.png"
+            },
+            {
+              "id": "item-1769870296248",
+              "enabled": true,
+              "title": "力扣",
+              "href": "https://leetcode.cn/problemset/",
+              "description": "访问 leetcode.cn",
+              "icon": "/assets/favicon_1769870287309.png"
             }
           ]
         }
