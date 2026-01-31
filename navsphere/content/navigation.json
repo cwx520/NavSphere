@@ -290,6 +290,14 @@
               "description": "访问 ai-bot.cn",
               "icon": "/assets/favicon_1769824241879.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769824294883_dz2979ggn",
+              "title": "程序员盒子",
+              "href": "https://www.coderutil.com/",
+              "description": "访问 www.coderutil.com",
+              "icon": "/assets/favicon_1769824282321.png",
+              "enabled": true
             }
           ]
         }
