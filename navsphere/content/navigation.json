@@ -855,9 +855,9 @@
         },
         {
           "id": "78e3576c-b2be-4593-8080-878275817a4a",
-          "title": "开源项目",
+          "title": "开源平台",
           "icon": "BookOpen",
-          "description": "开源项目",
+          "description": "开源平台",
           "enabled": true,
           "items": [
             {
