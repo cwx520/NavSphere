@@ -148,6 +148,14 @@
               "href": "https://www.didispace.com/",
               "description": "访问 www.didispace.com",
               "icon": "/assets/favicon_1769827612312.png"
+            },
+            {
+              "id": "item-1769827670726",
+              "enabled": true,
+              "title": "Java突击队",
+              "href": "http://www.susan.net.cn/",
+              "description": "访问 www.susan.net.cn",
+              "icon": "/assets/favicon_1769827665657.png"
             }
           ]
         },
