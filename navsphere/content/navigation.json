@@ -295,6 +295,14 @@
               "description": "「Java学习 + 架构指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试、架构剖析，首选 PassJava",
               "icon": "/assets/favicon_1769839124761.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769839203885_dboyqxkog",
+              "title": "Hello-algo",
+              "href": "https://www.hello-algo.com/chapter_hello_algo/",
+              "description": "Hello 算法",
+              "icon": "/assets/favicon_1769839193656.png",
+              "enabled": true
             }
           ]
         }
