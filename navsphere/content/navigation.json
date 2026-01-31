@@ -382,6 +382,14 @@
               "description": "Share quick reference and cheat sheet for developers",
               "icon": "/assets/favicon_1769826671761.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769826722569_p3knmnfk0",
+              "title": "Mybatis-flex",
+              "href": "https://mybatis-flex.com/zh/intro/getting-started.html",
+              "description": "访问 mybatis-flex.com",
+              "icon": "/assets/favicon_1769826717792.png",
+              "enabled": true
             }
           ]
         },
