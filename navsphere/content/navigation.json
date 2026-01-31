@@ -351,6 +351,14 @@
               "description": "labuladong 的算法网站简介，介绍配套学习工具，帮助读者练成框架化、模板化的思维方式解决算法题",
               "icon": "/assets/favicon_1769839227144.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769839444191_im4h5sfqp",
+              "title": "剑指 Offer",
+              "href": "https://github.com/krahets/LeetCode-Book",
+              "description": "《剑指 Offer》《图解算法数据结构》《Krahets 笔面试精选 88 题》Python, Java, C++ 解题代码 - krahets/LeetCode-Book",
+              "icon": "/assets/favicon_1769839430218.png",
+              "enabled": true
             }
           ]
         }
