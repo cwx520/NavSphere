@@ -326,6 +326,14 @@
               "description": "访问 tool.oschina.net",
               "icon": "/assets/favicon_1769826534345.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769826569441_4u4zvzaxg",
+              "title": "Kubernetes",
+              "href": "https://kubernetes.io/zh-cn/docs/home/",
+              "description": "Kubernetes 是一个开源的容器编排引擎，用来对容器化应用进行自动部署、扩缩和管理。此开源项目由云原生计算基金会（CNCF）托管。",
+              "icon": "/assets/favicon_1769826560783.png",
+              "enabled": true
             }
           ]
         },
