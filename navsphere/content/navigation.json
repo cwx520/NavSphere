@@ -140,6 +140,14 @@
               "href": "https://www.moguit.cn/",
               "description": "",
               "icon": "/assets/favicon_1769827585111.png"
+            },
+            {
+              "id": "item-1769827618255",
+              "enabled": true,
+              "title": "程序猿DD",
+              "href": "https://www.didispace.com/",
+              "description": "访问 www.didispace.com",
+              "icon": "/assets/favicon_1769827612312.png"
             }
           ]
         },
