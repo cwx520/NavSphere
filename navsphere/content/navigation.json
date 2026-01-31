@@ -266,6 +266,14 @@
               "description": "访问 nav.ilaozhu.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=nav.ilaozhu.com",
               "enabled": true
+            },
+            {
+              "id": "site_1769824157674_efctmio0d",
+              "title": "Tik128跨境电商",
+              "href": "https://tik128.com/",
+              "description": "访问 tik128.com",
+              "icon": "/assets/favicon_1769824147536.png",
+              "enabled": true
             }
           ]
         }
