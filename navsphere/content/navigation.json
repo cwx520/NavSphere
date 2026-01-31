@@ -346,6 +346,14 @@
               "description": "访问 feizhuke.com",
               "icon": "/assets/favicon_1769824586269.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769824640061_hhp312xoj",
+              "title": "AI工具箱",
+              "href": "https://www.ailookme.com/",
+              "description": "访问 www.ailookme.com",
+              "icon": "/assets/favicon_1769824624762.png",
+              "enabled": true
             }
           ]
         }
