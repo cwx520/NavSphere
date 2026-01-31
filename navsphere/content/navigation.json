@@ -370,6 +370,14 @@
               "description": "访问 www.aigc.cn",
               "icon": "/assets/favicon_1769824714177.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769825042113_8yt9nnem2",
+              "title": "NavSphere导航",
+              "href": "https://nav.newkit.site/",
+              "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
+              "icon": "/assets/favicon_1769825033181.png",
+              "enabled": true
             }
           ]
         }
