@@ -669,6 +669,14 @@
               "description": "",
               "icon": "/assets/favicon_1769839657860.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1769839701078_23rq3dayz",
+              "title": "Manus",
+              "href": "https://manus.im/unavailable",
+              "description": "访问 manus.im",
+              "icon": "/assets/favicon_1769839693243.png",
+              "enabled": true
             }
           ]
         },
