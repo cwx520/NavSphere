@@ -778,6 +778,14 @@
               "description": "访问 arthas.aliyun.com",
               "icon": "/assets/favicon_1769918358208.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769929479259_ooq5lt4ps",
+              "title": "Element UI",
+              "href": "https://element.eleme.cn/#/zh-CN/component/installation",
+              "description": "访问 element.eleme.cn",
+              "icon": "/assets/favicon_1769929468148.png",
+              "enabled": true
             }
           ]
         },
