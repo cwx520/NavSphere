@@ -1100,6 +1100,14 @@
               "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
               "icon": "/assets/favicon_1769930661205.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769930784702_hnm8vxr33",
+              "title": "查询网",
+              "href": "https://www.ip138.com/",
+              "description": "公网ip地址归属地查询",
+              "icon": "/assets/favicon_1769930767485.png",
+              "enabled": true
             }
           ]
         },
