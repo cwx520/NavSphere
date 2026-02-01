@@ -991,6 +991,14 @@
               "description": "访问 chat.openai.com",
               "icon": "/assets/favicon_1769931664841.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769931698365_70txy1sc0",
+              "title": "Midjourney",
+              "href": "https://www.midjourney.com/",
+              "description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+              "icon": "/assets/favicon_1769931689669.png",
+              "enabled": true
             }
           ]
         },
