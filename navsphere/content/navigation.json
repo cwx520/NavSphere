@@ -1715,6 +1715,14 @@
               "description": "微信小程序兼职平台以及问答悬赏平台的整合项目",
               "icon": "/assets/favicon_1769830987024.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769932118131_stbuzy6y5",
+              "title": "微信小程序兼职平台以及问答悬赏平台",
+              "href": "https://gitee.com/OHUHO/part-time-platform",
+              "description": "访问 gitee.com",
+              "icon": "/assets/favicon_1769932099449.png",
+              "enabled": true
             }
           ]
         }
