@@ -1487,6 +1487,14 @@
               "description": "Fontawesome中文版webfont,是一款基于css框架的网页字体图标库，它完全免费",
               "icon": "/assets/favicon_1769917874695.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769917924778_d6r57n2vo",
+              "title": "boardmix",
+              "href": "https://boardmix.cn/app/home",
+              "description": "",
+              "icon": "/assets/favicon_1769917917392.ico",
+              "enabled": true
             }
           ]
         }
