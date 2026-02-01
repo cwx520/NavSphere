@@ -1503,7 +1503,16 @@
           "icon": "FileText",
           "description": "工具集合",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769961598301_n8a95uszb",
+              "title": "油猴",
+              "href": "https://sleazyfork.org/zh-CN",
+              "description": "",
+              "icon": "/assets/favicon_1769961587428.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
