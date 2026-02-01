@@ -1197,6 +1197,14 @@
               "description": "网页传无需数据线，只需要连接网络即可通过浏览器管理自己的安卓(android)手机数据和iphone手机数据，可以备份、还原、下载、上传安卓（android）数据和iphone手机数据。",
               "icon": "/assets/favicon_1769930997744.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769931059277_rqjggrmns",
+              "title": "123apps",
+              "href": "https://123apps.com/cn/",
+              "description": "",
+              "icon": "/assets/favicon_1769931050747.svg",
+              "enabled": true
             }
           ]
         },
