@@ -770,6 +770,14 @@
               "description": "利用 Elastic Search AI Platform 高效获得见解和推动成果转化。通过专为协助您更快获得见解而设计的企业解决方案，深入了解您的数据并找到重要答案。立即试用 Elastic。...",
               "icon": "/assets/favicon_1769918262856.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769918362696_i8cunxc37",
+              "title": "Arthas",
+              "href": "https://arthas.aliyun.com/",
+              "description": "访问 arthas.aliyun.com",
+              "icon": "/assets/favicon_1769918358208.png",
+              "enabled": true
             }
           ]
         },
