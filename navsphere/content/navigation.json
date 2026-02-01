@@ -730,6 +730,14 @@
               "href": "https://openapi.apifox.cn/",
               "description": "访问 openapi.apifox.cn",
               "icon": "/assets/favicon_1769917699797.png"
+            },
+            {
+              "id": "site_1769918007676_carrtbaxk",
+              "title": "docsify",
+              "href": "https://docsify.js.org/#/",
+              "description": "A magical documentation generator.",
+              "icon": "/assets/favicon_1769917998809.ico",
+              "enabled": true
             }
           ]
         },
