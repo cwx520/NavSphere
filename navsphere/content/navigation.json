@@ -1527,6 +1527,14 @@
               "description": "异常教程（www.exception.site）提供各类编程技术系列教程,让您能够学习并提高自己的编程技术.",
               "icon": "/assets/favicon_1769961680958.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769961750765_z5yz9ies8",
+              "title": "Idea激活码",
+              "href": "https://www.ajihuo.com/idea/5937.html",
+              "description": "访问 www.ajihuo.com",
+              "icon": "/assets/favicon_1769961732359.png",
+              "enabled": true
             }
           ]
         }
