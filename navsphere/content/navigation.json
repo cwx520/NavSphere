@@ -1839,7 +1839,16 @@
           "icon": "FileText",
           "description": "娱乐网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769932194697_kyx4uuh8v",
+              "title": "YouTube",
+              "href": "https://www.youtube.com/",
+              "description": "在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。",
+              "icon": "/assets/favicon_1769932187904.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "366cace6-a0a1-4f92-b995-edc1c6c334fe",
