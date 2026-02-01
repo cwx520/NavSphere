@@ -1799,6 +1799,14 @@
               "description": "\n即时翻译文本&amp;完整的文档文件。为个人和团队提供准确的翻译。每天有数百万人使用DeepL进行翻译。",
               "icon": "/assets/favicon_1769930447973.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769931266965_fgyoc0gdd",
+              "title": "Canva",
+              "href": "https://www.canva.cn/templates/",
+              "description": "访问 www.canva.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.canva.cn",
+              "enabled": true
             }
           ]
         }
