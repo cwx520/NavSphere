@@ -500,6 +500,105 @@
       ]
     },
     {
+      "id": "1769960652670",
+      "title": "副业网站",
+      "icon": "LayoutGrid",
+      "description": "副业网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "577dd649-0476-40df-ab05-c0391a99e6cf",
+          "title": "需求开发",
+          "icon": "Laptop",
+          "description": "接单网站",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1769960833224_sqyk96uje",
+              "title": "程序员招聘",
+              "href": "https://www.proginn.com/",
+              "description": "访问 www.proginn.com",
+              "icon": "/assets/favicon_1769960816404.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769960859151_heimmica1",
+              "title": "猪八戒网",
+              "href": "https://www.zbj.com/",
+              "description": "找品质企业服务，就上猪八戒网，提供品牌设计、营销策划、网站建设、知识产权、工商财税、数字资产交易等800+种品质服务；18年专业企业服务经验，300+线下服务网络，企业服务放心购，明码实价，不成功退款。",
+              "icon": "/assets/favicon_1769960851031.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769960908103_a6tt7azj6",
+              "title": "猿急送",
+              "href": "https://www.yuanjisong.com/",
+              "description": "访问 www.yuanjisong.com",
+              "icon": "/assets/favicon_1769960883162.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769960978990_gocx0k4ko",
+              "title": "人人开发",
+              "href": "http://rrkf.com/",
+              "description": "人人开发基于可视化快速开发平台 - 捷得（Joget）/捷得云（Joget Cloud）（PaaS），集众多开发者资源，为企业提供企业管理软件服务。应用市场提供应用产品、插件的在线试用和销售，服务市场以威客众包模式提供管理软件定制开发服务，各类企业级应用开发服务，例如：协同OA产品，ERP，CRM，人事管理，项目管理，资产管理，设备管理等",
+              "icon": "/assets/favicon_1769960966469.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769961157782_hsacdk4ik",
+              "title": "智城外包网",
+              "href": "https://www.taskcity.com/login",
+              "description": "",
+              "icon": "/assets/favicon_1769961147760.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769961184263_og16p4wna",
+              "title": "实现网",
+              "href": "https://shixian.com/",
+              "description": "实现网为企业提供BAT等名企背景的、靠谱的开发设计兼职人才和自由职业者，满足企业项目外包、驻场开发、远程兼职、技术咨询等短期人力需求。已服务2000多家企业，包括好未来、方正、人人贷、秒拍等知名企业。",
+              "icon": "/assets/favicon_1769961173739.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769961214638_fflnabk27",
+              "title": "开发邦",
+              "href": "https://www.kaifabang.com/",
+              "description": "访问 www.kaifabang.com",
+              "icon": "/assets/favicon_1769961198357.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769961254630_ilz2knfm0",
+              "title": "电鸭社区",
+              "href": "https://eleduck.com/",
+              "description": "访问 eleduck.com",
+              "icon": "/assets/favicon_1769961230989.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "78133c5b-19bd-4ec2-9496-e19cb9191069",
+          "title": "自媒体网站",
+          "icon": "Palette",
+          "description": "自媒体网站",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "b13f169e-ab8a-4754-b25e-27467ae45f2d",
+          "title": "电商运营",
+          "icon": "LayoutList",
+          "description": "电商运营",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "1769696285699",
       "title": "博客网站",
       "icon": "LayoutGrid",
@@ -2137,105 +2236,6 @@
         }
       ],
       "subCategories": []
-    },
-    {
-      "id": "1769960652670",
-      "title": "副业网站",
-      "icon": "LayoutGrid",
-      "description": "副业网站",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "577dd649-0476-40df-ab05-c0391a99e6cf",
-          "title": "需求开发",
-          "icon": "Laptop",
-          "description": "接单网站",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1769960833224_sqyk96uje",
-              "title": "程序员招聘",
-              "href": "https://www.proginn.com/",
-              "description": "访问 www.proginn.com",
-              "icon": "/assets/favicon_1769960816404.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769960859151_heimmica1",
-              "title": "猪八戒网",
-              "href": "https://www.zbj.com/",
-              "description": "找品质企业服务，就上猪八戒网，提供品牌设计、营销策划、网站建设、知识产权、工商财税、数字资产交易等800+种品质服务；18年专业企业服务经验，300+线下服务网络，企业服务放心购，明码实价，不成功退款。",
-              "icon": "/assets/favicon_1769960851031.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769960908103_a6tt7azj6",
-              "title": "猿急送",
-              "href": "https://www.yuanjisong.com/",
-              "description": "访问 www.yuanjisong.com",
-              "icon": "/assets/favicon_1769960883162.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769960978990_gocx0k4ko",
-              "title": "人人开发",
-              "href": "http://rrkf.com/",
-              "description": "人人开发基于可视化快速开发平台 - 捷得（Joget）/捷得云（Joget Cloud）（PaaS），集众多开发者资源，为企业提供企业管理软件服务。应用市场提供应用产品、插件的在线试用和销售，服务市场以威客众包模式提供管理软件定制开发服务，各类企业级应用开发服务，例如：协同OA产品，ERP，CRM，人事管理，项目管理，资产管理，设备管理等",
-              "icon": "/assets/favicon_1769960966469.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769961157782_hsacdk4ik",
-              "title": "智城外包网",
-              "href": "https://www.taskcity.com/login",
-              "description": "",
-              "icon": "/assets/favicon_1769961147760.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769961184263_og16p4wna",
-              "title": "实现网",
-              "href": "https://shixian.com/",
-              "description": "实现网为企业提供BAT等名企背景的、靠谱的开发设计兼职人才和自由职业者，满足企业项目外包、驻场开发、远程兼职、技术咨询等短期人力需求。已服务2000多家企业，包括好未来、方正、人人贷、秒拍等知名企业。",
-              "icon": "/assets/favicon_1769961173739.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769961214638_fflnabk27",
-              "title": "开发邦",
-              "href": "https://www.kaifabang.com/",
-              "description": "访问 www.kaifabang.com",
-              "icon": "/assets/favicon_1769961198357.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769961254630_ilz2knfm0",
-              "title": "电鸭社区",
-              "href": "https://eleduck.com/",
-              "description": "访问 eleduck.com",
-              "icon": "/assets/favicon_1769961230989.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "78133c5b-19bd-4ec2-9496-e19cb9191069",
-          "title": "自媒体网站",
-          "icon": "Palette",
-          "description": "自媒体网站",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "b13f169e-ab8a-4754-b25e-27467ae45f2d",
-          "title": "电商运营",
-          "icon": "LayoutList",
-          "description": "电商运营",
-          "enabled": true,
-          "items": []
-        }
-      ]
     }
   ]
 }
