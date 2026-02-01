@@ -1333,6 +1333,14 @@
               "description": "访问 mp.weixin.qq.com",
               "icon": "/assets/favicon_1769931187203.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769932174858_k241p8ir2",
+              "title": "jetbra破解站",
+              "href": "https://3.jetbra.in/",
+              "description": "访问 3.jetbra.in",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=3.jetbra.in",
+              "enabled": true
             }
           ]
         },
