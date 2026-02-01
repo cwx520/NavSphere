@@ -1033,6 +1033,14 @@
               "description": "自媒AI工具，1分钟搞定AI创作，提供标题生成、文章生成、文章改写、简介生成、评论生成、优质文案、AI问答、短视频文案生成等多种AI工具",
               "icon": "/assets/favicon_1769931223601.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769931424819_7xcw5odz5",
+              "title": "Chat-ppt",
+              "href": "https://www.chat-ppt.com/",
+              "description": "访问 www.chat-ppt.com",
+              "icon": "/assets/favicon_1769931416640.png",
+              "enabled": true
             }
           ]
         }
