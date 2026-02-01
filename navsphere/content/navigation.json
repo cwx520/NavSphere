@@ -2077,7 +2077,16 @@
           "icon": "Laptop",
           "description": "接单网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769960833224_sqyk96uje",
+              "title": "程序员招聘",
+              "href": "https://www.proginn.com/",
+              "description": "访问 www.proginn.com",
+              "icon": "/assets/favicon_1769960816404.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "78133c5b-19bd-4ec2-9496-e19cb9191069",
