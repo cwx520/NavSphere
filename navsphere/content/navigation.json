@@ -2184,6 +2184,14 @@
           "description": "BOSS直聘是权威领先的招聘网，开启人才网招聘求职新时代，招聘求职找工作，BOSS直聘，直接谈！",
           "icon": "/assets/favicon_1769961459580.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1769961512189_idduwaxnu",
+          "title": "鱼泡直聘",
+          "href": "https://www.haitou.cc/",
+          "description": "访问 www.haitou.cc",
+          "icon": "/assets/favicon_1769961482269.png",
+          "enabled": true
         }
       ],
       "subCategories": []
