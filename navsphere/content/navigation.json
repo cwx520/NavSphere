@@ -722,6 +722,14 @@
               "description": "访问 mybatis-flex.com",
               "icon": "/assets/favicon_1769826717792.png",
               "enabled": true
+            },
+            {
+              "id": "item-1769917711005",
+              "enabled": true,
+              "title": "OpenAPI",
+              "href": "https://openapi.apifox.cn/",
+              "description": "访问 openapi.apifox.cn",
+              "icon": "/assets/favicon_1769917699797.png"
             }
           ]
         },
