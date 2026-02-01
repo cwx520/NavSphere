@@ -1575,6 +1575,14 @@
               "description": "访问 www.aliyundrive.com",
               "icon": "/assets/favicon_1769917935765.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769918232625_hgzlxan43",
+              "title": "百度网盘",
+              "href": "https://pan.baidu.com",
+              "description": "",
+              "icon": "/assets/favicon_1769918223839.png",
+              "enabled": true
             }
           ]
         }
