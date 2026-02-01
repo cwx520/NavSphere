@@ -1221,6 +1221,14 @@
               "description": "Rule based proxy utility client for iPhone/iPad.",
               "icon": "/assets/favicon_1769931152625.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769931201765_1euamzso7",
+              "title": "软件安装站",
+              "href": "https://mp.weixin.qq.com/s/P8ZQ2JRCSzuHU_2OdV7z1A",
+              "description": "访问 mp.weixin.qq.com",
+              "icon": "/assets/favicon_1769931187203.png",
+              "enabled": true
             }
           ]
         },
