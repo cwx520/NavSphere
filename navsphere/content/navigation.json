@@ -525,6 +525,40 @@
       ]
     },
     {
+      "id": "1769961405622",
+      "title": "招聘网站",
+      "icon": "LayoutGrid",
+      "description": "招聘网站",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1769961444285_q0ectnzr6",
+          "title": "前程无忧",
+          "href": "https://www.51job.com/",
+          "description": "访问 www.51job.com",
+          "icon": "/assets/favicon_1769961423427.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1769961466429_kqki0otu8",
+          "title": "BOSS直聘",
+          "href": "https://www.zhipin.com/?ka=header-home-logo",
+          "description": "BOSS直聘是权威领先的招聘网，开启人才网招聘求职新时代，招聘求职找工作，BOSS直聘，直接谈！",
+          "icon": "/assets/favicon_1769961459580.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1769961512189_idduwaxnu",
+          "title": "鱼泡直聘",
+          "href": "https://www.haitou.cc/",
+          "description": "访问 www.haitou.cc",
+          "icon": "/assets/favicon_1769961482269.png",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1769696293315",
       "title": "资源网站",
       "icon": "LayoutList",
@@ -2202,40 +2236,6 @@
           "items": []
         }
       ]
-    },
-    {
-      "id": "1769961405622",
-      "title": "招聘网站",
-      "icon": "LayoutGrid",
-      "description": "招聘网站",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1769961444285_q0ectnzr6",
-          "title": "前程无忧",
-          "href": "https://www.51job.com/",
-          "description": "访问 www.51job.com",
-          "icon": "/assets/favicon_1769961423427.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1769961466429_kqki0otu8",
-          "title": "BOSS直聘",
-          "href": "https://www.zhipin.com/?ka=header-home-logo",
-          "description": "BOSS直聘是权威领先的招聘网，开启人才网招聘求职新时代，招聘求职找工作，BOSS直聘，直接谈！",
-          "icon": "/assets/favicon_1769961459580.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1769961512189_idduwaxnu",
-          "title": "鱼泡直聘",
-          "href": "https://www.haitou.cc/",
-          "description": "访问 www.haitou.cc",
-          "icon": "/assets/favicon_1769961482269.png",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
