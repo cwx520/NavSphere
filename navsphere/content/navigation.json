@@ -2109,6 +2109,14 @@
               "description": "人人开发基于可视化快速开发平台 - 捷得（Joget）/捷得云（Joget Cloud）（PaaS），集众多开发者资源，为企业提供企业管理软件服务。应用市场提供应用产品、插件的在线试用和销售，服务市场以威客众包模式提供管理软件定制开发服务，各类企业级应用开发服务，例如：协同OA产品，ERP，CRM，人事管理，项目管理，资产管理，设备管理等",
               "icon": "/assets/favicon_1769960966469.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769961157782_hsacdk4ik",
+              "title": "智城外包网",
+              "href": "https://www.taskcity.com/login",
+              "description": "",
+              "icon": "/assets/favicon_1769961147760.ico",
+              "enabled": true
             }
           ]
         },
