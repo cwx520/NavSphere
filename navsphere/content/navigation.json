@@ -1519,6 +1519,14 @@
               "description": "Welcome to JetBrains Marketplace",
               "icon": "/assets/favicon_1769961613922.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769961687981_8eapsm4ft",
+              "title": "异常教程",
+              "href": "https://www.exception.site/",
+              "description": "异常教程（www.exception.site）提供各类编程技术系列教程,让您能够学习并提高自己的编程技术.",
+              "icon": "/assets/favicon_1769961680958.ico",
+              "enabled": true
             }
           ]
         }
