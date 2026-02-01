@@ -1863,6 +1863,14 @@
               "description": "访问 ttsmaker.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=ttsmaker.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1769932815271_a4a5ouca3",
+              "title": "在线文字转语音",
+              "href": "https://audiotoolset.com/cn/text-to-speech?eqid=bae94996001ce6bb00000004647c0c56",
+              "description": "免费提供男女语音文本的高质量在线语音代理。可以免费将文本转换并下载到mp3音频文件中，而无需注册。",
+              "icon": "/assets/favicon_1769932807334.png",
+              "enabled": true
             }
           ]
         },
