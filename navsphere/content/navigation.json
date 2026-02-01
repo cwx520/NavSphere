@@ -754,6 +754,14 @@
               "description": "",
               "icon": "/assets/favicon_1769918149703.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769918180569_3wdldpplk",
+              "title": "DataX",
+              "href": "https://github.com/alibaba/DataX",
+              "description": "DataX是阿里云DataWorks数据集成的开源版本。. Contribute to alibaba/DataX development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1769918171163.png",
+              "enabled": true
             }
           ]
         },
