@@ -2133,6 +2133,14 @@
               "description": "访问 www.kaifabang.com",
               "icon": "/assets/favicon_1769961198357.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769961254630_ilz2knfm0",
+              "title": "电鸭社区",
+              "href": "https://eleduck.com/",
+              "description": "访问 eleduck.com",
+              "icon": "/assets/favicon_1769961230989.png",
+              "enabled": true
             }
           ]
         },
