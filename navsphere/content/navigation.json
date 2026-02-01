@@ -1646,6 +1646,14 @@
               "description": "华为云最新优惠促销活动汇聚了云服务器,云数据库,云存储等优势产品,推出打折促销,推荐送等多种福利活动,还有更多精彩的线下大会及技术沙龙等着你来参与-华为云",
               "icon": "/assets/favicon_1769918444900.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769930941854_areteei5d",
+              "title": "Apifox",
+              "href": "https://app.apifox.com/user/login",
+              "description": "",
+              "icon": "/assets/favicon_1769930933175.png",
+              "enabled": true
             }
           ]
         },
