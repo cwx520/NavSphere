@@ -2161,6 +2161,15 @@
           "items": []
         }
       ]
+    },
+    {
+      "id": "1769961405622",
+      "title": "招聘网站",
+      "icon": "LayoutGrid",
+      "description": "招聘网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
