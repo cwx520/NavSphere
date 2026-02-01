@@ -1439,7 +1439,16 @@
       "description": "官方网站",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "213b2ae3-e929-400f-8944-4124f8303226",
+          "title": "开发网站",
+          "icon": "LayoutGrid",
+          "description": "开发网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
