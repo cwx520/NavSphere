@@ -2117,6 +2117,14 @@
               "description": "",
               "icon": "/assets/favicon_1769961147760.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769961184263_og16p4wna",
+              "title": "实现网",
+              "href": "https://shixian.com/",
+              "description": "实现网为企业提供BAT等名企背景的、靠谱的开发设计兼职人才和自由职业者，满足企业项目外包、驻场开发、远程兼职、技术咨询等短期人力需求。已服务2000多家企业，包括好未来、方正、人人贷、秒拍等知名企业。",
+              "icon": "/assets/favicon_1769961173739.ico",
+              "enabled": true
             }
           ]
         },
