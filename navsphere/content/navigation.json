@@ -201,6 +201,14 @@
               "href": "https://leetcode.cn/problemset/",
               "description": "访问 leetcode.cn",
               "icon": "/assets/favicon_1769870287309.png"
+            },
+            {
+              "id": "site_1769931782596_1ske5iuo8",
+              "title": "随手记",
+              "href": "https://www.sui.com/",
+              "description": "访问 www.sui.com",
+              "icon": "/assets/favicon_1769931764807.png",
+              "enabled": true
             }
           ]
         }
