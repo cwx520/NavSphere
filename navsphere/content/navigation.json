@@ -1698,6 +1698,14 @@
           "description": "",
           "icon": "/assets/favicon_1769930425193.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1769930497951_vmv1mq5o4",
+          "title": "Paperpass论文查重",
+          "href": "https://www.paperpass.com/upload",
+          "description": "访问 www.paperpass.com",
+          "icon": "/assets/favicon_1769930486935.png",
+          "enabled": true
         }
       ],
       "subCategories": []
