@@ -983,6 +983,14 @@
               "description": "当贝AI，体验DeepSeek满血版，聚合全网优质AI大模型，如DeepSeek-R1 671B、豆包、通义千问、智谱等。当贝AI知识库，深度AI解决方案，极速、高效、免费、无需注册、不限量！",
               "icon": "/assets/favicon_1769840012445.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1769931674203_sm179l23j",
+              "title": "ChatGPT",
+              "href": "https://chat.openai.com/",
+              "description": "访问 chat.openai.com",
+              "icon": "/assets/favicon_1769931664841.png",
+              "enabled": true
             }
           ]
         },
