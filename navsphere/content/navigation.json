@@ -1205,6 +1205,14 @@
               "description": "",
               "icon": "/assets/favicon_1769931050747.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1769931131789_ciwtlmgmp",
+              "title": "最美证件照",
+              "href": "https://www.logosc.cn/design/tools/passport-photo",
+              "description": "在线轻松制作证件照，智能生成多种证件照尺寸及背景模板（护照，签证，社保卡）。一键更换红，蓝，白三种背景底色，快速生成一寸或二寸证件照",
+              "icon": "/assets/favicon_1769931121781.svg",
+              "enabled": true
             }
           ]
         },
