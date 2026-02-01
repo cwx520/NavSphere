@@ -1016,6 +1016,14 @@
               "description": "Cursor 旨在让您的工作效率达到非凡水平,是使用 AI 编写代码的最佳方式。",
               "icon": "/assets/favicon_1769842093646.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769931645363_5bhkt69kp",
+              "title": "Manus",
+              "href": "https://manus.im/",
+              "description": "访问 manus.im",
+              "icon": "/assets/favicon_1769931639331.png",
+              "enabled": true
             }
           ]
         },
