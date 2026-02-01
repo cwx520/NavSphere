@@ -756,6 +756,412 @@
       ]
     },
     {
+      "id": "1769696340719",
+      "title": "工具网站",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "5abce563-3bcb-4a8f-b3dd-9277b28978d4",
+          "title": "在线网站",
+          "icon": "Building",
+          "description": "在线网站",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1769825149576_c9hzhpqgi",
+              "title": "VS Code",
+              "href": "https://vscode.dev/?vscode-lang=zh-cn",
+              "description": "访问 vscode.dev",
+              "icon": "/assets/favicon_1769825135733.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769825207768_yfj14refq",
+              "title": "diffchecker",
+              "href": "https://www.diffchecker.com/",
+              "description": "Compare text, files, and code (e.g. json, xml) to find differences with Diffchecker online for free! Use our desktop app for private, offline diffs.",
+              "icon": "/assets/favicon_1769825196080.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769825244137_vth4p4gx7",
+              "title": "JSON在线解析",
+              "href": "https://www.sojson.com/simple_json.html",
+              "description": "访问 www.sojson.com",
+              "icon": "/assets/favicon_1769825231260.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769825296697_o0h3gzzft",
+              "title": "在线XML格式化",
+              "href": "https://www.jyshare.com/front-end/710/",
+              "description": "#about pre {             background-color: #282a36; /* 深色背景 */             color: #f8f8f2; /* 浅色文字 */             padding: 1.5em; /* 内边距 */             border-radius: 2px; /* 圆角 */             font-family: &#039;Fira Cod..",
+              "icon": "/assets/favicon_1769825262475.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769825332234_08l70allg",
+              "title": "拾色器",
+              "href": "https://www.jyshare.com/front-end/6214/#e1d215",
+              "description": "在线图片取色器是一款非常简单实用取色器工具，我们可以通过上传图片，并点击图片中的图形区域即可对图片进行取色。鼠标点击图片显示区域中的图片即可在下方显示点击位置的颜色值（颜色值分为十六进制与RBGA两种方式显示）。..",
+              "icon": "/assets/favicon_1769825320512.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769825364563_ybvulmvz5",
+              "title": "代码在线对比",
+              "href": "https://www.bejson.com/others/comparecode/",
+              "description": "访问 www.bejson.com",
+              "icon": "/assets/favicon_1769825352788.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769930644742_uv1krm6sl",
+              "title": "PDF24 Tools",
+              "href": "https://tools.pdf24.org/en/",
+              "description": "Free online PDF tools to merge, compress, create, edit and convert PDFs. Quick and Easy. Without installation. Without registration.",
+              "icon": "/assets/favicon_1769930633396.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769930669567_g74q45fqg",
+              "title": "iLovePDF",
+              "href": "https://www.ilovepdf.com/zh-cn",
+              "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
+              "icon": "/assets/favicon_1769930661205.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769930784702_hnm8vxr33",
+              "title": "查询网",
+              "href": "https://www.ip138.com/",
+              "description": "公网ip地址归属地查询",
+              "icon": "/assets/favicon_1769930767485.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769930831461_96ieaey18",
+              "title": "BEJSON",
+              "href": "https://www.bejson.com/",
+              "description": "访问 www.bejson.com",
+              "icon": "/assets/favicon_1769930809388.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769930856701_uslgg28e8",
+              "title": "沐杉实用工具",
+              "href": "http://tool.e-yn.com/",
+              "description": "沐杉实用工具为您提供json格式化,json代码压缩,json校验解析,json数组解析,json转xml,xml转json,json解析,json在线解析,json在线解析及格式化,unix时间戳转换,CSS美化压缩,json美化,json格式化输出,json数组,json实体类,json视图,程序加密解密等",
+              "icon": "/assets/favicon_1769930848122.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769930974436_ie0nnnbj9",
+              "title": "在线工具",
+              "href": "https://tool.lu/",
+              "description": "在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码,照片压缩,pdf合并",
+              "icon": "/assets/favicon_1769930964921.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931029392_xntiz3j2m",
+              "title": "时间时钟",
+              "href": "http://www.24timemap.com/",
+              "description": "访问 www.24timemap.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.24timemap.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931451318_12tnhbw40",
+              "title": "docsmall",
+              "href": "https://docsmall.com/",
+              "description": "docsmall 提供免费的在线图片、GIF、PDF处理，包括图片压缩、裁剪、改尺寸，PDF合并、分割、压缩、页面调整等功能。",
+              "icon": "/assets/favicon_1769931441352.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "e172528b-85f4-4135-b863-5e351a39edb3",
+          "title": "处理工具",
+          "icon": "Briefcase",
+          "description": "处理工具",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1769840375470_tq27h7cc2",
+              "title": "慕课RP",
+              "href": "https://www.mockplus.cn/example/rp",
+              "description": "访问 www.mockplus.cn",
+              "icon": "/assets/favicon_1769840349056.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1769870331638",
+              "enabled": true,
+              "title": "vivo办公套件",
+              "href": "https://pc.vivo.com/",
+              "description": "vivo 办公套件是集合 OriginOS  生产力应用的多端协作办公工具，支持 Windows、Mac 和网页版，轻松实现手机、平板与电脑间跨屏互动、键鼠协同、远程控制与文件传输管理，同时将原子笔记、日历、相册等多个应用聚合其中，为你提供更高效便捷的办公体验。",
+              "icon": "/assets/favicon_1769870321838.png"
+            },
+            {
+              "id": "site_1769930576274_9jjf7minx",
+              "title": "编码生成器",
+              "href": "https://www.t-x-m.com/SequenceMumberGenerator/RandomNumber.asp",
+              "description": "编码生成器",
+              "icon": "/assets/favicon_1769930555642.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769930613750_0s9t21owv",
+              "title": "在线抠图软件",
+              "href": "https://www.remove.bg/zh",
+              "description": "remove.bg在线抠图软件轻松实现一键抠图，只需上传图片，无需其他操作，即可100%自动去除图片背景。",
+              "icon": "/assets/favicon_1769930604140.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931003557_fvy7l25b1",
+              "title": "互传网页版",
+              "href": "http://as.vivo.com/",
+              "description": "网页传无需数据线，只需要连接网络即可通过浏览器管理自己的安卓(android)手机数据和iphone手机数据，可以备份、还原、下载、上传安卓（android）数据和iphone手机数据。",
+              "icon": "/assets/favicon_1769930997744.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931059277_rqjggrmns",
+              "title": "123apps",
+              "href": "https://123apps.com/cn/",
+              "description": "",
+              "icon": "/assets/favicon_1769931050747.svg",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931131789_ciwtlmgmp",
+              "title": "最美证件照",
+              "href": "https://www.logosc.cn/design/tools/passport-photo",
+              "description": "在线轻松制作证件照，智能生成多种证件照尺寸及背景模板（护照，签证，社保卡）。一键更换红，蓝，白三种背景底色，快速生成一寸或二寸证件照",
+              "icon": "/assets/favicon_1769931121781.svg",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931171038_t6atioyiq",
+              "title": "Shadowrocket官网",
+              "href": "http://www.shadowrocket.live/index.html",
+              "description": "Rule based proxy utility client for iPhone/iPad.",
+              "icon": "/assets/favicon_1769931152625.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931201765_1euamzso7",
+              "title": "软件安装站",
+              "href": "https://mp.weixin.qq.com/s/P8ZQ2JRCSzuHU_2OdV7z1A",
+              "description": "访问 mp.weixin.qq.com",
+              "icon": "/assets/favicon_1769931187203.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769932174858_k241p8ir2",
+              "title": "jetbra破解站",
+              "href": "https://3.jetbra.in/",
+              "description": "访问 3.jetbra.in",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=3.jetbra.in",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "f5a40fb7-7409-4695-a336-139ce08e8add",
+          "title": "导航网站",
+          "icon": "LayoutList",
+          "description": "导航网站",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1769823869584_u44ijcfrt",
+              "title": "泛微工程师导航",
+              "href": "https://huahan.cc/",
+              "description": "huahan.cc泛微OA工程师导航 - 打造专业的OA系统技术支持与资源分享平台, 为泛微OA系统工程师和使用者提供技术支持、插件下载与知识分享站点导航, 助力你快速找到所需的信息。",
+              "icon": "/assets/favicon_1769823850291.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824009081_jlt71y8uo",
+              "title": "老朱导航栏",
+              "href": "https://nav.ilaozhu.com/",
+              "description": "访问 nav.ilaozhu.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=nav.ilaozhu.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824157674_efctmio0d",
+              "title": "Tik128跨境电商",
+              "href": "https://tik128.com/",
+              "description": "访问 tik128.com",
+              "icon": "/assets/favicon_1769824147536.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824199354_rjabkngfg",
+              "title": "链客跨境导航",
+              "href": "https://www.linke123.com/",
+              "description": "访问 www.linke123.com",
+              "icon": "/assets/favicon_1769824178211.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824253608_hkz3t9ex3",
+              "title": "AI工具集",
+              "href": "https://ai-bot.cn/",
+              "description": "访问 ai-bot.cn",
+              "icon": "/assets/favicon_1769824241879.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824294883_dz2979ggn",
+              "title": "程序员盒子",
+              "href": "https://www.coderutil.com/",
+              "description": "访问 www.coderutil.com",
+              "icon": "/assets/favicon_1769824282321.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824362459_r7ouetzs1",
+              "title": "斑马ERP",
+              "href": "https://123.banmaerp.com/",
+              "description": "访问 123.banmaerp.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=123.banmaerp.com",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824410110_5t9d0w80g",
+              "title": "新媒体导航",
+              "href": "https://www.zmt.wiki/",
+              "description": "访问 www.zmt.wiki",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.zmt.wiki",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824438724_ibv9z8rkv",
+              "title": "菜鸟工具 ",
+              "href": "https://www.jyshare.com/",
+              "description": "菜鸟工具，为开发设计人员提供在线工具，网址导航，提供在线PHP、Python、 CSS、JS 调试，中文简繁体转换，进制转换等工具。致力于打造国内专业WEB开发工具，集成开发环境，WEB开发教程。..",
+              "icon": "/assets/favicon_1769824431062.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824492644_os047hh2a",
+              "title": "Tiktok全生态服务平台",
+              "href": "https://www.tktoc.com/",
+              "description": "访问 www.tktoc.com",
+              "icon": "/assets/favicon_1769824464194.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824571429_cry6m0207",
+              "title": "跨境导航",
+              "href": "https://www.tkevo.com/#term-34",
+              "description": "访问 www.tkevo.com",
+              "icon": "/assets/favicon_1769824558076.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824596837_9geebdwv9",
+              "title": "飞猪AI导航",
+              "href": "https://feizhuke.com/",
+              "description": "访问 feizhuke.com",
+              "icon": "/assets/favicon_1769824586269.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824640061_hhp312xoj",
+              "title": "AI工具箱",
+              "href": "https://www.ailookme.com/",
+              "description": "访问 www.ailookme.com",
+              "icon": "/assets/favicon_1769824624762.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824683709_hh8lq2dja",
+              "title": "百大AI应用",
+              "href": "https://www.turingscat.com/ai-top-100",
+              "description": "访问 www.turingscat.com",
+              "icon": "/assets/favicon_1769824662541.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769824759589_pkxf6pclr",
+              "title": "生成式人工智能导航",
+              "href": "https://www.aigc.cn/",
+              "description": "访问 www.aigc.cn",
+              "icon": "/assets/favicon_1769824714177.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769825042113_8yt9nnem2",
+              "title": "NavSphere导航",
+              "href": "https://nav.newkit.site/",
+              "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
+              "icon": "/assets/favicon_1769825033181.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769825180304_frwsunaxo",
+              "title": "IT Tools",
+              "href": "https://huahan.cc/it-tools/",
+              "description": "",
+              "icon": "/assets/favicon_1769825170152.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "2a14e842-2618-4418-a5c0-6f18dab729a3",
+          "title": "工具集合",
+          "icon": "FileText",
+          "description": "工具集合",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1769961598301_n8a95uszb",
+              "title": "油猴",
+              "href": "https://sleazyfork.org/zh-CN",
+              "description": "",
+              "icon": "/assets/favicon_1769961587428.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769961636717_15heoanz8",
+              "title": "JetBrains插件",
+              "href": "https://plugins.jetbrains.com/",
+              "description": "Welcome to JetBrains Marketplace",
+              "icon": "/assets/favicon_1769961613922.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769961687981_8eapsm4ft",
+              "title": "异常教程",
+              "href": "https://www.exception.site/",
+              "description": "异常教程（www.exception.site）提供各类编程技术系列教程,让您能够学习并提高自己的编程技术.",
+              "icon": "/assets/favicon_1769961680958.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769961750765_z5yz9ies8",
+              "title": "Idea激活码",
+              "href": "https://www.ajihuo.com/idea/5937.html",
+              "description": "访问 www.ajihuo.com",
+              "icon": "/assets/favicon_1769961732359.png",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1769696293315",
       "title": "资源网站",
       "icon": "LayoutList",
@@ -1163,412 +1569,6 @@
               "href": "https://pan.baidu.com/s/1LxIxcHDO7SYB96SE-GZfuQ?pwd=dor4#list/path=%2F",
               "description": "访问 pan.baidu.com",
               "icon": "/assets/favicon_1769869508724.png"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1769696340719",
-      "title": "工具网站",
-      "icon": "FolderOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "5abce563-3bcb-4a8f-b3dd-9277b28978d4",
-          "title": "在线网站",
-          "icon": "Building",
-          "description": "在线网站",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1769825149576_c9hzhpqgi",
-              "title": "VS Code",
-              "href": "https://vscode.dev/?vscode-lang=zh-cn",
-              "description": "访问 vscode.dev",
-              "icon": "/assets/favicon_1769825135733.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769825207768_yfj14refq",
-              "title": "diffchecker",
-              "href": "https://www.diffchecker.com/",
-              "description": "Compare text, files, and code (e.g. json, xml) to find differences with Diffchecker online for free! Use our desktop app for private, offline diffs.",
-              "icon": "/assets/favicon_1769825196080.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769825244137_vth4p4gx7",
-              "title": "JSON在线解析",
-              "href": "https://www.sojson.com/simple_json.html",
-              "description": "访问 www.sojson.com",
-              "icon": "/assets/favicon_1769825231260.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769825296697_o0h3gzzft",
-              "title": "在线XML格式化",
-              "href": "https://www.jyshare.com/front-end/710/",
-              "description": "#about pre {             background-color: #282a36; /* 深色背景 */             color: #f8f8f2; /* 浅色文字 */             padding: 1.5em; /* 内边距 */             border-radius: 2px; /* 圆角 */             font-family: &#039;Fira Cod..",
-              "icon": "/assets/favicon_1769825262475.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769825332234_08l70allg",
-              "title": "拾色器",
-              "href": "https://www.jyshare.com/front-end/6214/#e1d215",
-              "description": "在线图片取色器是一款非常简单实用取色器工具，我们可以通过上传图片，并点击图片中的图形区域即可对图片进行取色。鼠标点击图片显示区域中的图片即可在下方显示点击位置的颜色值（颜色值分为十六进制与RBGA两种方式显示）。..",
-              "icon": "/assets/favicon_1769825320512.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769825364563_ybvulmvz5",
-              "title": "代码在线对比",
-              "href": "https://www.bejson.com/others/comparecode/",
-              "description": "访问 www.bejson.com",
-              "icon": "/assets/favicon_1769825352788.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769930644742_uv1krm6sl",
-              "title": "PDF24 Tools",
-              "href": "https://tools.pdf24.org/en/",
-              "description": "Free online PDF tools to merge, compress, create, edit and convert PDFs. Quick and Easy. Without installation. Without registration.",
-              "icon": "/assets/favicon_1769930633396.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769930669567_g74q45fqg",
-              "title": "iLovePDF",
-              "href": "https://www.ilovepdf.com/zh-cn",
-              "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
-              "icon": "/assets/favicon_1769930661205.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769930784702_hnm8vxr33",
-              "title": "查询网",
-              "href": "https://www.ip138.com/",
-              "description": "公网ip地址归属地查询",
-              "icon": "/assets/favicon_1769930767485.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769930831461_96ieaey18",
-              "title": "BEJSON",
-              "href": "https://www.bejson.com/",
-              "description": "访问 www.bejson.com",
-              "icon": "/assets/favicon_1769930809388.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769930856701_uslgg28e8",
-              "title": "沐杉实用工具",
-              "href": "http://tool.e-yn.com/",
-              "description": "沐杉实用工具为您提供json格式化,json代码压缩,json校验解析,json数组解析,json转xml,xml转json,json解析,json在线解析,json在线解析及格式化,unix时间戳转换,CSS美化压缩,json美化,json格式化输出,json数组,json实体类,json视图,程序加密解密等",
-              "icon": "/assets/favicon_1769930848122.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769930974436_ie0nnnbj9",
-              "title": "在线工具",
-              "href": "https://tool.lu/",
-              "description": "在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码,照片压缩,pdf合并",
-              "icon": "/assets/favicon_1769930964921.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931029392_xntiz3j2m",
-              "title": "时间时钟",
-              "href": "http://www.24timemap.com/",
-              "description": "访问 www.24timemap.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.24timemap.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931451318_12tnhbw40",
-              "title": "docsmall",
-              "href": "https://docsmall.com/",
-              "description": "docsmall 提供免费的在线图片、GIF、PDF处理，包括图片压缩、裁剪、改尺寸，PDF合并、分割、压缩、页面调整等功能。",
-              "icon": "/assets/favicon_1769931441352.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "e172528b-85f4-4135-b863-5e351a39edb3",
-          "title": "处理工具",
-          "icon": "Briefcase",
-          "description": "处理工具",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1769840375470_tq27h7cc2",
-              "title": "慕课RP",
-              "href": "https://www.mockplus.cn/example/rp",
-              "description": "访问 www.mockplus.cn",
-              "icon": "/assets/favicon_1769840349056.png",
-              "enabled": true
-            },
-            {
-              "id": "item-1769870331638",
-              "enabled": true,
-              "title": "vivo办公套件",
-              "href": "https://pc.vivo.com/",
-              "description": "vivo 办公套件是集合 OriginOS  生产力应用的多端协作办公工具，支持 Windows、Mac 和网页版，轻松实现手机、平板与电脑间跨屏互动、键鼠协同、远程控制与文件传输管理，同时将原子笔记、日历、相册等多个应用聚合其中，为你提供更高效便捷的办公体验。",
-              "icon": "/assets/favicon_1769870321838.png"
-            },
-            {
-              "id": "site_1769930576274_9jjf7minx",
-              "title": "编码生成器",
-              "href": "https://www.t-x-m.com/SequenceMumberGenerator/RandomNumber.asp",
-              "description": "编码生成器",
-              "icon": "/assets/favicon_1769930555642.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769930613750_0s9t21owv",
-              "title": "在线抠图软件",
-              "href": "https://www.remove.bg/zh",
-              "description": "remove.bg在线抠图软件轻松实现一键抠图，只需上传图片，无需其他操作，即可100%自动去除图片背景。",
-              "icon": "/assets/favicon_1769930604140.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931003557_fvy7l25b1",
-              "title": "互传网页版",
-              "href": "http://as.vivo.com/",
-              "description": "网页传无需数据线，只需要连接网络即可通过浏览器管理自己的安卓(android)手机数据和iphone手机数据，可以备份、还原、下载、上传安卓（android）数据和iphone手机数据。",
-              "icon": "/assets/favicon_1769930997744.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931059277_rqjggrmns",
-              "title": "123apps",
-              "href": "https://123apps.com/cn/",
-              "description": "",
-              "icon": "/assets/favicon_1769931050747.svg",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931131789_ciwtlmgmp",
-              "title": "最美证件照",
-              "href": "https://www.logosc.cn/design/tools/passport-photo",
-              "description": "在线轻松制作证件照，智能生成多种证件照尺寸及背景模板（护照，签证，社保卡）。一键更换红，蓝，白三种背景底色，快速生成一寸或二寸证件照",
-              "icon": "/assets/favicon_1769931121781.svg",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931171038_t6atioyiq",
-              "title": "Shadowrocket官网",
-              "href": "http://www.shadowrocket.live/index.html",
-              "description": "Rule based proxy utility client for iPhone/iPad.",
-              "icon": "/assets/favicon_1769931152625.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931201765_1euamzso7",
-              "title": "软件安装站",
-              "href": "https://mp.weixin.qq.com/s/P8ZQ2JRCSzuHU_2OdV7z1A",
-              "description": "访问 mp.weixin.qq.com",
-              "icon": "/assets/favicon_1769931187203.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769932174858_k241p8ir2",
-              "title": "jetbra破解站",
-              "href": "https://3.jetbra.in/",
-              "description": "访问 3.jetbra.in",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=3.jetbra.in",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "f5a40fb7-7409-4695-a336-139ce08e8add",
-          "title": "导航网站",
-          "icon": "LayoutList",
-          "description": "导航网站",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1769823869584_u44ijcfrt",
-              "title": "泛微工程师导航",
-              "href": "https://huahan.cc/",
-              "description": "huahan.cc泛微OA工程师导航 - 打造专业的OA系统技术支持与资源分享平台, 为泛微OA系统工程师和使用者提供技术支持、插件下载与知识分享站点导航, 助力你快速找到所需的信息。",
-              "icon": "/assets/favicon_1769823850291.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824009081_jlt71y8uo",
-              "title": "老朱导航栏",
-              "href": "https://nav.ilaozhu.com/",
-              "description": "访问 nav.ilaozhu.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=nav.ilaozhu.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824157674_efctmio0d",
-              "title": "Tik128跨境电商",
-              "href": "https://tik128.com/",
-              "description": "访问 tik128.com",
-              "icon": "/assets/favicon_1769824147536.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824199354_rjabkngfg",
-              "title": "链客跨境导航",
-              "href": "https://www.linke123.com/",
-              "description": "访问 www.linke123.com",
-              "icon": "/assets/favicon_1769824178211.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824253608_hkz3t9ex3",
-              "title": "AI工具集",
-              "href": "https://ai-bot.cn/",
-              "description": "访问 ai-bot.cn",
-              "icon": "/assets/favicon_1769824241879.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824294883_dz2979ggn",
-              "title": "程序员盒子",
-              "href": "https://www.coderutil.com/",
-              "description": "访问 www.coderutil.com",
-              "icon": "/assets/favicon_1769824282321.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824362459_r7ouetzs1",
-              "title": "斑马ERP",
-              "href": "https://123.banmaerp.com/",
-              "description": "访问 123.banmaerp.com",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=123.banmaerp.com",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824410110_5t9d0w80g",
-              "title": "新媒体导航",
-              "href": "https://www.zmt.wiki/",
-              "description": "访问 www.zmt.wiki",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.zmt.wiki",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824438724_ibv9z8rkv",
-              "title": "菜鸟工具 ",
-              "href": "https://www.jyshare.com/",
-              "description": "菜鸟工具，为开发设计人员提供在线工具，网址导航，提供在线PHP、Python、 CSS、JS 调试，中文简繁体转换，进制转换等工具。致力于打造国内专业WEB开发工具，集成开发环境，WEB开发教程。..",
-              "icon": "/assets/favicon_1769824431062.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824492644_os047hh2a",
-              "title": "Tiktok全生态服务平台",
-              "href": "https://www.tktoc.com/",
-              "description": "访问 www.tktoc.com",
-              "icon": "/assets/favicon_1769824464194.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824571429_cry6m0207",
-              "title": "跨境导航",
-              "href": "https://www.tkevo.com/#term-34",
-              "description": "访问 www.tkevo.com",
-              "icon": "/assets/favicon_1769824558076.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824596837_9geebdwv9",
-              "title": "飞猪AI导航",
-              "href": "https://feizhuke.com/",
-              "description": "访问 feizhuke.com",
-              "icon": "/assets/favicon_1769824586269.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824640061_hhp312xoj",
-              "title": "AI工具箱",
-              "href": "https://www.ailookme.com/",
-              "description": "访问 www.ailookme.com",
-              "icon": "/assets/favicon_1769824624762.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824683709_hh8lq2dja",
-              "title": "百大AI应用",
-              "href": "https://www.turingscat.com/ai-top-100",
-              "description": "访问 www.turingscat.com",
-              "icon": "/assets/favicon_1769824662541.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769824759589_pkxf6pclr",
-              "title": "生成式人工智能导航",
-              "href": "https://www.aigc.cn/",
-              "description": "访问 www.aigc.cn",
-              "icon": "/assets/favicon_1769824714177.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769825042113_8yt9nnem2",
-              "title": "NavSphere导航",
-              "href": "https://nav.newkit.site/",
-              "description": "收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。",
-              "icon": "/assets/favicon_1769825033181.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769825180304_frwsunaxo",
-              "title": "IT Tools",
-              "href": "https://huahan.cc/it-tools/",
-              "description": "",
-              "icon": "/assets/favicon_1769825170152.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "2a14e842-2618-4418-a5c0-6f18dab729a3",
-          "title": "工具集合",
-          "icon": "FileText",
-          "description": "工具集合",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1769961598301_n8a95uszb",
-              "title": "油猴",
-              "href": "https://sleazyfork.org/zh-CN",
-              "description": "",
-              "icon": "/assets/favicon_1769961587428.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769961636717_15heoanz8",
-              "title": "JetBrains插件",
-              "href": "https://plugins.jetbrains.com/",
-              "description": "Welcome to JetBrains Marketplace",
-              "icon": "/assets/favicon_1769961613922.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769961687981_8eapsm4ft",
-              "title": "异常教程",
-              "href": "https://www.exception.site/",
-              "description": "异常教程（www.exception.site）提供各类编程技术系列教程,让您能够学习并提高自己的编程技术.",
-              "icon": "/assets/favicon_1769961680958.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769961750765_z5yz9ies8",
-              "title": "Idea激活码",
-              "href": "https://www.ajihuo.com/idea/5937.html",
-              "description": "访问 www.ajihuo.com",
-              "icon": "/assets/favicon_1769961732359.png",
-              "enabled": true
             }
           ]
         }
