@@ -1534,6 +1534,14 @@
               "description": "贝锐花生壳软件提供内网穿透、端口映射服务，为全球1800多万用户提供DDNS动态域名解析服务,支持外网访问内网服务器,为用户提供免费动态域名申请,软件下载,域名解析,解析教程等服务。",
               "icon": "/assets/favicon_1769918198560.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769918344658_txzrhhznc",
+              "title": "Ngrok",
+              "href": "https://dashboard.ngrok.com/login?state=prOzf1iV82oR_we6VL0vnZPR0iutQjOWq0d516myvL316a3YV9EqScOMfsoPti0HPg5t9_JT6CLj-9gICxRDCel0SQEArZfupgXY6TT4E8ZtyxjMsbXHYnA8xCMC5oRjEGjGDXMKT0jhjP-fGcwncGkh5i85wzq4Gr2dTIEmWM7M",
+              "description": "Welcome to ngrok! Please log in.",
+              "icon": "/assets/favicon_1769918328425.png",
+              "enabled": true
             }
           ]
         },
