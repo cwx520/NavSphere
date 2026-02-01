@@ -1511,6 +1511,14 @@
               "description": "",
               "icon": "/assets/favicon_1769961587428.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769961636717_15heoanz8",
+              "title": "JetBrains插件",
+              "href": "https://plugins.jetbrains.com/",
+              "description": "Welcome to JetBrains Marketplace",
+              "icon": "/assets/favicon_1769961613922.ico",
+              "enabled": true
             }
           ]
         }
