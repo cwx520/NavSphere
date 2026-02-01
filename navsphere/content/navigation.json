@@ -1495,6 +1495,14 @@
               "description": "",
               "icon": "/assets/favicon_1769917917392.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769917941474_frg6u5gwc",
+              "title": "Aliyundrive",
+              "href": "https://www.aliyundrive.com/drive/legacy",
+              "description": "访问 www.aliyundrive.com",
+              "icon": "/assets/favicon_1769917935765.png",
+              "enabled": true
             }
           ]
         }
