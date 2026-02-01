@@ -341,7 +341,16 @@
           "icon": "LayoutList",
           "description": "毕业网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769930204625_3cy0nsbow",
+              "title": "Checkpass论文查重系统",
+              "href": "https://www.dox110.com/cc/checkpass/index.html",
+              "description": "",
+              "icon": "/assets/favicon_1769930195545.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
@@ -2194,14 +2203,6 @@
       "description": "毕业论文",
       "enabled": true,
       "items": [
-        {
-          "id": "site_1769930204625_3cy0nsbow",
-          "title": "Checkpass论文查重系统",
-          "href": "https://www.dox110.com/cc/checkpass/index.html",
-          "description": "",
-          "icon": "/assets/favicon_1769930195545.png",
-          "enabled": true
-        },
         {
           "id": "site_1769930384313_ubfs5a5q2",
           "title": "中文书籍库",
