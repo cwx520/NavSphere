@@ -1108,6 +1108,14 @@
               "description": "公网ip地址归属地查询",
               "icon": "/assets/favicon_1769930767485.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769930831461_96ieaey18",
+              "title": "BEJSON",
+              "href": "https://www.bejson.com/",
+              "description": "访问 www.bejson.com",
+              "icon": "/assets/favicon_1769930809388.png",
+              "enabled": true
             }
           ]
         },
