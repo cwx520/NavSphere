@@ -819,6 +819,14 @@
               "description": "第一PPT",
               "icon": "/assets/favicon_1769930683875.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769930909167_3ouwpcu79",
+              "title": "阿里巴巴矢量图标库",
+              "href": "https://www.iconfont.cn/?spm=a313x.home_2025.i3.d4d0a486a.38173a81mcdfIo",
+              "description": "访问 www.iconfont.cn",
+              "icon": "/assets/favicon_1769930880498.png",
+              "enabled": true
             }
           ]
         },
