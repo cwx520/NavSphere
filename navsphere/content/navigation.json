@@ -1807,6 +1807,14 @@
               "description": "访问 www.canva.cn",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.canva.cn",
               "enabled": true
+            },
+            {
+              "id": "site_1769931402691_lak5zabqn",
+              "title": "在线搞定设计",
+              "href": "https://www.gaoding.com/introduction",
+              "description": "0基础轻松搞定设计，稿定设计提供丰富的海报、图片、PPT、H5设计模板，一站式全场景正版商用素材供应，满足个人及团队的设计制作需求。",
+              "icon": "/assets/favicon_1769931386621.ico",
+              "enabled": true
             }
           ]
         }
