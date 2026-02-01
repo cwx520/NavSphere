@@ -1518,6 +1518,14 @@
               "description": "",
               "icon": "/assets/favicon_1769918080460.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769918209921_ypulzy3ho",
+              "title": "贝锐花生壳内网穿透",
+              "href": "https://hsk.oray.com/",
+              "description": "贝锐花生壳软件提供内网穿透、端口映射服务，为全球1800多万用户提供DDNS动态域名解析服务,支持外网访问内网服务器,为用户提供免费动态域名申请,软件下载,域名解析,解析教程等服务。",
+              "icon": "/assets/favicon_1769918198560.ico",
+              "enabled": true
             }
           ]
         },
