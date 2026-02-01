@@ -1470,6 +1470,14 @@
               "description": "腾讯云为数百万的企业和开发者提供安全、稳定的云服务器、云主机、CDN、对象存储、域名注册、云存储、云数据库等云服务，帮助用户解决游戏、视频、移动、微信、互联网+等行业的架构难题，是全球领先的云计算服务商。",
               "icon": "/assets/favicon_1769917952988.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769918046546_zmzsi04xc",
+              "title": "七牛云",
+              "href": "https://sso.qiniu.com/",
+              "description": "",
+              "icon": "/assets/favicon_1769918039141.ico",
+              "enabled": true
             }
           ]
         },
