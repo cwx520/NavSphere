@@ -1446,7 +1446,16 @@
           "icon": "LayoutGrid",
           "description": "开发网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1769917806883_uc2yy2ucv",
+              "title": "微信公众平台",
+              "href": "https://mp.weixin.qq.com/",
+              "description": "微信公众平台，给个人、企业和组织提供业务服务与用户管理能力的全新服务平台。",
+              "icon": "/assets/favicon_1769917799932.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "1186925d-9a60-4015-9ce0-7ac487ca3a14",
