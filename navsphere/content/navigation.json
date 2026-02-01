@@ -810,6 +810,14 @@
               "description": "访问 element.eleme.cn",
               "icon": "/assets/favicon_1769929468148.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769931964557_648tu5mp6",
+              "title": "Vue.js",
+              "href": "https://cn.vuejs.org/",
+              "description": "Vue.js - 渐进式的 JavaScript 框架",
+              "icon": "/assets/favicon_1769931955714.svg",
+              "enabled": true
             }
           ]
         },
