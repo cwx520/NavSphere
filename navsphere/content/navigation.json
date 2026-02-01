@@ -1992,6 +1992,14 @@
               "description": "vivo,VIVO,vivo账号,账号,登录vivo账号立享查找手机、同步数据等vivo会员特权",
               "icon": "/assets/favicon_1769931987954.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769960560320_7uwkg8rij",
+              "title": "Sealos-dev",
+              "href": "https://sealos.run/?s=%E9%A6%96%E9%A1%B5",
+              "description": "访问 sealos.run",
+              "icon": "/assets/favicon_1769960537827.png",
+              "enabled": true
             }
           ]
         }
