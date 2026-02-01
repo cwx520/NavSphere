@@ -1486,6 +1486,14 @@
               "description": "<block name=",
               "icon": "https://www.ngrok.cc/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769918094075_yq2b2dn6p",
+              "title": "Maven Repository",
+              "href": "https://mvnrepository.com/",
+              "description": "",
+              "icon": "/assets/favicon_1769918080460.ico",
+              "enabled": true
             }
           ]
         },
