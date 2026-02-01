@@ -811,6 +811,14 @@
               "href": "https://www.yuque.com/fenghuazhengmao-achrz/arcbv3",
               "description": "访问 www.yuque.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.yuque.com"
+            },
+            {
+              "id": "site_1769930717368_vmfbxc778",
+              "title": "第一PPT",
+              "href": "https://www.1ppt.com/xiazai/",
+              "description": "第一PPT",
+              "icon": "/assets/favicon_1769930683875.png",
+              "enabled": true
             }
           ]
         },
