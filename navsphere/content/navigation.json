@@ -1025,6 +1025,14 @@
               "description": "蛙蛙写作辅助AI写文，帮助获取创意灵感，提供拆书、小说转剧本、视频生成等功能，是一款功能全面的AI智能写作工具。",
               "icon": "/assets/favicon_1769842534570.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769931239357_ds6vml5hy",
+              "title": "自媒AI工具",
+              "href": "https://m.zimeiai.com/appList",
+              "description": "自媒AI工具，1分钟搞定AI创作，提供标题生成、文章生成、文章改写、简介生成、评论生成、优质文案、AI问答、短视频文案生成等多种AI工具",
+              "icon": "/assets/favicon_1769931223601.png",
+              "enabled": true
             }
           ]
         }
