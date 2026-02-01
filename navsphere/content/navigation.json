@@ -2151,6 +2151,14 @@
           "description": "自媒体网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b13f169e-ab8a-4754-b25e-27467ae45f2d",
+          "title": "电商运营",
+          "icon": "LayoutList",
+          "description": "电商运营",
+          "enabled": true,
+          "items": []
         }
       ]
     }
