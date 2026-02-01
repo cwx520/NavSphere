@@ -1895,6 +1895,14 @@
               "description": "飞鸽是一款免费、跨平台的、轻量级的内网穿透服务，客户端仅3.5M大小，且无需安装，解压即用。支持http(s)域名代理、tcp、udp端口转发功能。可用于远程连接、远程办公开发、游戏联机等等",
               "icon": "/assets/favicon_1769931469786.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769931892523_jfsihtfn3",
+              "title": "V2ray",
+              "href": "https://v2rayu.org/",
+              "description": "2026最新V2rayU使用教程，V2rayU配置教程，最新V2rayU下载，服务器链接教程，V2rayU客户端使用技巧及配置技巧，V2rayU从入门到精通。",
+              "icon": "/assets/favicon_1769931881990.png",
+              "enabled": true
             }
           ]
         }
