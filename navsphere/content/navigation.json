@@ -1101,6 +1101,14 @@
               "href": "https://pc.vivo.com/",
               "description": "vivo 办公套件是集合 OriginOS  生产力应用的多端协作办公工具，支持 Windows、Mac 和网页版，轻松实现手机、平板与电脑间跨屏互动、键鼠协同、远程控制与文件传输管理，同时将原子笔记、日历、相册等多个应用聚合其中，为你提供更高效便捷的办公体验。",
               "icon": "/assets/favicon_1769870321838.png"
+            },
+            {
+              "id": "site_1769930576274_9jjf7minx",
+              "title": "编码生成器",
+              "href": "https://www.t-x-m.com/SequenceMumberGenerator/RandomNumber.asp",
+              "description": "编码生成器",
+              "icon": "/assets/favicon_1769930555642.png",
+              "enabled": true
             }
           ]
         },
