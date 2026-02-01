@@ -1164,6 +1164,14 @@
               "description": "访问 www.24timemap.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.24timemap.com",
               "enabled": true
+            },
+            {
+              "id": "site_1769931451318_12tnhbw40",
+              "title": "docsmall",
+              "href": "https://docsmall.com/",
+              "description": "docsmall 提供免费的在线图片、GIF、PDF处理，包括图片压缩、裁剪、改尺寸，PDF合并、分割、压缩、页面调整等功能。",
+              "icon": "/assets/favicon_1769931441352.png",
+              "enabled": true
             }
           ]
         },
