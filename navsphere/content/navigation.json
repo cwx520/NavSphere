@@ -365,6 +365,14 @@
               "description": "",
               "icon": "/assets/favicon_1769930400755.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769930434568_m3me3t6us",
+              "title": "小发猫伪原创",
+              "href": "https://www.xiaofamao.com/",
+              "description": "",
+              "icon": "/assets/favicon_1769930425193.ico",
+              "enabled": true
             }
           ]
         }
@@ -2219,14 +2227,6 @@
       "description": "毕业论文",
       "enabled": true,
       "items": [
-        {
-          "id": "site_1769930434568_m3me3t6us",
-          "title": "小发猫伪原创",
-          "href": "https://www.xiaofamao.com/",
-          "description": "",
-          "icon": "/assets/favicon_1769930425193.ico",
-          "enabled": true
-        },
         {
           "id": "site_1769930497951_vmv1mq5o4",
           "title": "Paperpass论文查重",
