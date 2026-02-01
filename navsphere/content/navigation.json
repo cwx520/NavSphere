@@ -1919,6 +1919,14 @@
               "description": "2026最新V2rayU使用教程，V2rayU配置教程，最新V2rayU下载，服务器链接教程，V2rayU客户端使用技巧及配置技巧，V2rayU从入门到精通。",
               "icon": "/assets/favicon_1769931881990.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769932002427_tq1wyhusr",
+              "title": "VIVO查找手机",
+              "href": "https://passport.vivo.com.cn/#/login?client_id=218&redirect_uri=https://find.vivo.com.cn/findphone/bound",
+              "description": "vivo,VIVO,vivo账号,账号,登录vivo账号立享查找手机、同步数据等vivo会员特权",
+              "icon": "/assets/favicon_1769931987954.ico",
+              "enabled": true
             }
           ]
         }
