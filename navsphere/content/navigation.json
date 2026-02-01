@@ -1496,6 +1496,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "2a14e842-2618-4418-a5c0-6f18dab729a3",
+          "title": "工具集合",
+          "icon": "FileText",
+          "description": "工具集合",
+          "enabled": true,
+          "items": []
         }
       ]
     },
