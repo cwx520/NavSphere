@@ -112,6 +112,14 @@
               "href": "https://www.nowcoder.com/",
               "description": "访问 www.nowcoder.com",
               "icon": "/assets/favicon_1769870269882.png"
+            },
+            {
+              "id": "site_1769931929739_vdiz8ybs3",
+              "title": "小红书创作服务平台",
+              "href": "https://creator.xiaohongshu.com/new/home?source=official",
+              "description": "小红书创作服务平台为小红书创作者和机构提供视频上传、数据分析、粉丝管理、创作指导等多项运营服务，助力用户解锁更多创作者专属功能，体验高效创作！",
+              "icon": "/assets/favicon_1769931924403.ico",
+              "enabled": true
             }
           ]
         },
