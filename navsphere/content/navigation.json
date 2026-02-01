@@ -1635,6 +1635,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1769930138932",
+      "title": "毕业论文",
+      "icon": "FolderKanban",
+      "description": "毕业论文",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
