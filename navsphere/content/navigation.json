@@ -1550,6 +1550,14 @@
               "description": "Welcome to ngrok! Please log in.",
               "icon": "/assets/favicon_1769918328425.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769918404888_uk1j0li3l",
+              "title": "阿里云",
+              "href": "https://www.aliyun.com/",
+              "description": "访问 www.aliyun.com",
+              "icon": "/assets/favicon_1769918397463.png",
+              "enabled": true
             }
           ]
         },
