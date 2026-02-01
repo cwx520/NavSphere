@@ -2085,6 +2085,14 @@
               "description": "访问 www.proginn.com",
               "icon": "/assets/favicon_1769960816404.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769960859151_heimmica1",
+              "title": "猪八戒网",
+              "href": "https://www.zbj.com/",
+              "description": "找品质企业服务，就上猪八戒网，提供品牌设计、营销策划、网站建设、知识产权、工商财税、数字资产交易等800+种品质服务；18年专业企业服务经验，300+线下服务网络，企业服务放心购，明码实价，不成功退款。",
+              "icon": "/assets/favicon_1769960851031.ico",
+              "enabled": true
             }
           ]
         },
