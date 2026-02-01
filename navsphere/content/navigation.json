@@ -1084,6 +1084,14 @@
               "description": "Free online PDF tools to merge, compress, create, edit and convert PDFs. Quick and Easy. Without installation. Without registration.",
               "icon": "/assets/favicon_1769930633396.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769930669567_g74q45fqg",
+              "title": "iLovePDF",
+              "href": "https://www.ilovepdf.com/zh-cn",
+              "description": "iLovePDF网站提供PDF文件在线转换服务。它完全免费，而且使用方便。无论是合并PDF文件、拆分PDF文件、压缩PDF文件、Office文件转换为PDF文件，还是PDF转换为JPG图片等，iLovePDF都能满足您的需求！",
+              "icon": "/assets/favicon_1769930661205.png",
+              "enabled": true
             }
           ]
         },
