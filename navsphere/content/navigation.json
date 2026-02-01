@@ -334,6 +334,14 @@
           "description": "电商运营",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "091d069b-77ef-4170-9da7-6bbcfa855343",
+          "title": "毕业网站",
+          "icon": "LayoutList",
+          "description": "毕业网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
