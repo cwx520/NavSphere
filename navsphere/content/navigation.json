@@ -381,6 +381,14 @@
               "description": "访问 www.paperpass.com",
               "icon": "/assets/favicon_1769930486935.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769931323005_lpyycha9f",
+              "title": "创客贴",
+              "href": "https://www.chuangkit.com/",
+              "description": "访问 www.chuangkit.com",
+              "icon": "/assets/favicon_1769931300473.png",
+              "enabled": true
             }
           ]
         }
@@ -2234,16 +2242,7 @@
       "icon": "FolderKanban",
       "description": "毕业论文",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1769931323005_lpyycha9f",
-          "title": "创客贴",
-          "href": "https://www.chuangkit.com/",
-          "description": "访问 www.chuangkit.com",
-          "icon": "/assets/favicon_1769931300473.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": []
     }
   ]
