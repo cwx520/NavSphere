@@ -1076,6 +1076,14 @@
               "description": "访问 www.bejson.com",
               "icon": "/assets/favicon_1769825352788.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769930644742_uv1krm6sl",
+              "title": "PDF24 Tools",
+              "href": "https://tools.pdf24.org/en/",
+              "description": "Free online PDF tools to merge, compress, create, edit and convert PDFs. Quick and Easy. Without installation. Without registration.",
+              "icon": "/assets/favicon_1769930633396.png",
+              "enabled": true
             }
           ]
         },
