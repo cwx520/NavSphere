@@ -1478,6 +1478,14 @@
               "description": "",
               "icon": "/assets/favicon_1769918039141.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769918068395_0nwp30l6q",
+              "title": "Sunny-Ngrok",
+              "href": "https://www.ngrok.cc/login.html",
+              "description": "<block name=",
+              "icon": "https://www.ngrok.cc/favicon.ico",
+              "enabled": true
             }
           ]
         },
