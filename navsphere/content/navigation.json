@@ -559,6 +559,203 @@
       "subCategories": []
     },
     {
+      "id": "1769791172833",
+      "title": "AI网站",
+      "icon": "Settings",
+      "description": "AI网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "d3eeb1b1-f495-47a9-af22-674c5346bd35",
+          "title": "对话网站",
+          "icon": "FileText",
+          "description": "对话网站",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1769839592532_isnfuwqm6",
+              "title": "Kimi AI",
+              "href": "https://www.kimi.com/",
+              "description": "月之暗面 (Moonshot AI) 旗下 Kimi K2.5 模型发布！引领开源视觉编程，同步开启 Agent 集群预览版。从像素级网页复刻到专家级办公交付，助你高效搞定复杂任务。立即访问 Kimi 官网体验。",
+              "icon": "/assets/favicon_1769839581204.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769839611564_zldzug406",
+              "title": "DeepSeek",
+              "href": "https://chat.deepseek.com/",
+              "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+              "icon": "/assets/favicon_1769839605942.svg",
+              "enabled": true
+            },
+            {
+              "id": "site_1769839633428_eyti7so3p",
+              "title": "aichatos8",
+              "href": "https://iai.aichatos8.com.cn/",
+              "description": "访问 iai.aichatos8.com.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=iai.aichatos8.com.cn",
+              "enabled": true
+            },
+            {
+              "id": "site_1769839663934_2axnr7k5t",
+              "title": "AIchatOS2",
+              "href": "https://cht18.aichatosclx.com/#/chat/1769839653559",
+              "description": "",
+              "icon": "/assets/favicon_1769839657860.svg",
+              "enabled": true
+            },
+            {
+              "id": "site_1769839701078_23rq3dayz",
+              "title": "Manus",
+              "href": "https://manus.im/unavailable",
+              "description": "访问 manus.im",
+              "icon": "/assets/favicon_1769839693243.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769839735305_er2rmorzf",
+              "title": "超算互联网",
+              "href": "https://www.scnet.cn/ui/chatbot/",
+              "description": "访问 www.scnet.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.scnet.cn",
+              "enabled": true
+            },
+            {
+              "id": "site_1769839873589_ohazsnoin",
+              "title": "问小白",
+              "href": "https://www.wenxiaobai.com/",
+              "description": "访问 www.wenxiaobai.com",
+              "icon": "/assets/favicon_1769839860871.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769839908966_douq8vabs",
+              "title": "讯飞智文",
+              "href": "https://zhiwen.xfyun.cn/home",
+              "description": "讯飞智文，由科大讯飞推出的一键生成ppt/word产品。根据一句话、长文本、音视频等指令智能生成文档，同时支持在线编辑、美化、排版、导出、一键动效、自动生成演讲稿等功能，让AI全流程服务到底。",
+              "icon": "/assets/favicon_1769839897104.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769839932920_9pmohw98w",
+              "title": "橙篇AI",
+              "href": "https://cp.baidu.com/",
+              "description": "",
+              "icon": "/assets/favicon_1769839926582.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769839963025_4r14r1rix",
+              "title": "讯飞星火",
+              "href": "https://xinghuo.xfyun.cn/",
+              "description": "讯飞星火大模型，是由科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写等多种能力。",
+              "icon": "/assets/favicon_1769839953419.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769840024826_mso4loadf",
+              "title": "当贝AI",
+              "href": "https://ai.dangbei.com/chat",
+              "description": "当贝AI，体验DeepSeek满血版，聚合全网优质AI大模型，如DeepSeek-R1 671B、豆包、通义千问、智谱等。当贝AI知识库，深度AI解决方案，极速、高效、免费、无需注册、不限量！",
+              "icon": "/assets/favicon_1769840012445.svg",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931674203_sm179l23j",
+              "title": "ChatGPT",
+              "href": "https://chat.openai.com/",
+              "description": "访问 chat.openai.com",
+              "icon": "/assets/favicon_1769931664841.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931698365_70txy1sc0",
+              "title": "Midjourney",
+              "href": "https://www.midjourney.com/",
+              "description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
+              "icon": "/assets/favicon_1769931689669.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "c7759167-041b-46ea-ab2c-c8af4b4bbb54",
+          "title": "编程网站",
+          "icon": "Globe",
+          "description": "编程网站",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1769842050103_90u7a3f2o",
+              "title": "Trae",
+              "href": "https://www.trae.cn/?utm_source=advertising&utm_medium=aibot_ug_cpa&utm_term=hw_trae_aibot",
+              "description": "访问 www.trae.cn",
+              "icon": "/assets/favicon_1769842042374.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769842079640_507s1lfso",
+              "title": "Claude Code",
+              "href": "https://claude.com/product/claude-code",
+              "description": "Claude Code is an agentic AI coding tool that understands your entire codebase. Edit files, run commands, debug issues, and ship faster—directly from your terminal, IDE, Slack or on the web.",
+              "icon": "/assets/favicon_1769842071817.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769842099899_tc3f3uhdl",
+              "title": "Cursor",
+              "href": "https://cursor.com/cn?utm_source=ai-bot.cn",
+              "description": "Cursor 旨在让您的工作效率达到非凡水平,是使用 AI 编写代码的最佳方式。",
+              "icon": "/assets/favicon_1769842093646.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931645363_5bhkt69kp",
+              "title": "Manus",
+              "href": "https://manus.im/",
+              "description": "访问 manus.im",
+              "icon": "/assets/favicon_1769931639331.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "9b2b8b67-eafd-4bac-bfed-35e4d7dde309",
+          "title": "写作网站",
+          "icon": "Palette",
+          "description": "写作网站",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1769842624454_s0vt6xyyy",
+              "title": "蛙蛙写作",
+              "href": "https://wawawriter.com/app/?utm_source=aigongjuji",
+              "description": "蛙蛙写作辅助AI写文，帮助获取创意灵感，提供拆书、小说转剧本、视频生成等功能，是一款功能全面的AI智能写作工具。",
+              "icon": "/assets/favicon_1769842534570.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931239357_ds6vml5hy",
+              "title": "自媒AI工具",
+              "href": "https://m.zimeiai.com/appList",
+              "description": "自媒AI工具，1分钟搞定AI创作，提供标题生成、文章生成、文章改写、简介生成、评论生成、优质文案、AI问答、短视频文案生成等多种AI工具",
+              "icon": "/assets/favicon_1769931223601.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1769931424819_7xcw5odz5",
+              "title": "Chat-ppt",
+              "href": "https://www.chat-ppt.com/",
+              "description": "访问 www.chat-ppt.com",
+              "icon": "/assets/favicon_1769931416640.png",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1769696293315",
       "title": "资源网站",
       "icon": "LayoutList",
@@ -966,203 +1163,6 @@
               "href": "https://pan.baidu.com/s/1LxIxcHDO7SYB96SE-GZfuQ?pwd=dor4#list/path=%2F",
               "description": "访问 pan.baidu.com",
               "icon": "/assets/favicon_1769869508724.png"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1769791172833",
-      "title": "AI网站",
-      "icon": "Settings",
-      "description": "AI网站",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "d3eeb1b1-f495-47a9-af22-674c5346bd35",
-          "title": "对话网站",
-          "icon": "FileText",
-          "description": "对话网站",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1769839592532_isnfuwqm6",
-              "title": "Kimi AI",
-              "href": "https://www.kimi.com/",
-              "description": "月之暗面 (Moonshot AI) 旗下 Kimi K2.5 模型发布！引领开源视觉编程，同步开启 Agent 集群预览版。从像素级网页复刻到专家级办公交付，助你高效搞定复杂任务。立即访问 Kimi 官网体验。",
-              "icon": "/assets/favicon_1769839581204.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769839611564_zldzug406",
-              "title": "DeepSeek",
-              "href": "https://chat.deepseek.com/",
-              "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-              "icon": "/assets/favicon_1769839605942.svg",
-              "enabled": true
-            },
-            {
-              "id": "site_1769839633428_eyti7so3p",
-              "title": "aichatos8",
-              "href": "https://iai.aichatos8.com.cn/",
-              "description": "访问 iai.aichatos8.com.cn",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=iai.aichatos8.com.cn",
-              "enabled": true
-            },
-            {
-              "id": "site_1769839663934_2axnr7k5t",
-              "title": "AIchatOS2",
-              "href": "https://cht18.aichatosclx.com/#/chat/1769839653559",
-              "description": "",
-              "icon": "/assets/favicon_1769839657860.svg",
-              "enabled": true
-            },
-            {
-              "id": "site_1769839701078_23rq3dayz",
-              "title": "Manus",
-              "href": "https://manus.im/unavailable",
-              "description": "访问 manus.im",
-              "icon": "/assets/favicon_1769839693243.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769839735305_er2rmorzf",
-              "title": "超算互联网",
-              "href": "https://www.scnet.cn/ui/chatbot/",
-              "description": "访问 www.scnet.cn",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.scnet.cn",
-              "enabled": true
-            },
-            {
-              "id": "site_1769839873589_ohazsnoin",
-              "title": "问小白",
-              "href": "https://www.wenxiaobai.com/",
-              "description": "访问 www.wenxiaobai.com",
-              "icon": "/assets/favicon_1769839860871.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769839908966_douq8vabs",
-              "title": "讯飞智文",
-              "href": "https://zhiwen.xfyun.cn/home",
-              "description": "讯飞智文，由科大讯飞推出的一键生成ppt/word产品。根据一句话、长文本、音视频等指令智能生成文档，同时支持在线编辑、美化、排版、导出、一键动效、自动生成演讲稿等功能，让AI全流程服务到底。",
-              "icon": "/assets/favicon_1769839897104.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769839932920_9pmohw98w",
-              "title": "橙篇AI",
-              "href": "https://cp.baidu.com/",
-              "description": "",
-              "icon": "/assets/favicon_1769839926582.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769839963025_4r14r1rix",
-              "title": "讯飞星火",
-              "href": "https://xinghuo.xfyun.cn/",
-              "description": "讯飞星火大模型，是由科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写等多种能力。",
-              "icon": "/assets/favicon_1769839953419.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769840024826_mso4loadf",
-              "title": "当贝AI",
-              "href": "https://ai.dangbei.com/chat",
-              "description": "当贝AI，体验DeepSeek满血版，聚合全网优质AI大模型，如DeepSeek-R1 671B、豆包、通义千问、智谱等。当贝AI知识库，深度AI解决方案，极速、高效、免费、无需注册、不限量！",
-              "icon": "/assets/favicon_1769840012445.svg",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931674203_sm179l23j",
-              "title": "ChatGPT",
-              "href": "https://chat.openai.com/",
-              "description": "访问 chat.openai.com",
-              "icon": "/assets/favicon_1769931664841.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931698365_70txy1sc0",
-              "title": "Midjourney",
-              "href": "https://www.midjourney.com/",
-              "description": "An independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.",
-              "icon": "/assets/favicon_1769931689669.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "c7759167-041b-46ea-ab2c-c8af4b4bbb54",
-          "title": "编程网站",
-          "icon": "Globe",
-          "description": "编程网站",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1769842050103_90u7a3f2o",
-              "title": "Trae",
-              "href": "https://www.trae.cn/?utm_source=advertising&utm_medium=aibot_ug_cpa&utm_term=hw_trae_aibot",
-              "description": "访问 www.trae.cn",
-              "icon": "/assets/favicon_1769842042374.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769842079640_507s1lfso",
-              "title": "Claude Code",
-              "href": "https://claude.com/product/claude-code",
-              "description": "Claude Code is an agentic AI coding tool that understands your entire codebase. Edit files, run commands, debug issues, and ship faster—directly from your terminal, IDE, Slack or on the web.",
-              "icon": "/assets/favicon_1769842071817.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769842099899_tc3f3uhdl",
-              "title": "Cursor",
-              "href": "https://cursor.com/cn?utm_source=ai-bot.cn",
-              "description": "Cursor 旨在让您的工作效率达到非凡水平,是使用 AI 编写代码的最佳方式。",
-              "icon": "/assets/favicon_1769842093646.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931645363_5bhkt69kp",
-              "title": "Manus",
-              "href": "https://manus.im/",
-              "description": "访问 manus.im",
-              "icon": "/assets/favicon_1769931639331.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "9b2b8b67-eafd-4bac-bfed-35e4d7dde309",
-          "title": "写作网站",
-          "icon": "Palette",
-          "description": "写作网站",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1769842624454_s0vt6xyyy",
-              "title": "蛙蛙写作",
-              "href": "https://wawawriter.com/app/?utm_source=aigongjuji",
-              "description": "蛙蛙写作辅助AI写文，帮助获取创意灵感，提供拆书、小说转剧本、视频生成等功能，是一款功能全面的AI智能写作工具。",
-              "icon": "/assets/favicon_1769842534570.ico",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931239357_ds6vml5hy",
-              "title": "自媒AI工具",
-              "href": "https://m.zimeiai.com/appList",
-              "description": "自媒AI工具，1分钟搞定AI创作，提供标题生成、文章生成、文章改写、简介生成、评论生成、优质文案、AI问答、短视频文案生成等多种AI工具",
-              "icon": "/assets/favicon_1769931223601.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769931424819_7xcw5odz5",
-              "title": "Chat-ppt",
-              "href": "https://www.chat-ppt.com/",
-              "description": "访问 www.chat-ppt.com",
-              "icon": "/assets/favicon_1769931416640.png",
-              "enabled": true
             }
           ]
         }
