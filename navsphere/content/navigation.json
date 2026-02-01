@@ -1464,6 +1464,14 @@
           "description": "娱乐网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "366cace6-a0a1-4f92-b995-edc1c6c334fe",
+          "title": "工具网站",
+          "icon": "Book",
+          "description": "工具网站",
+          "enabled": true,
+          "items": []
         }
       ]
     }
