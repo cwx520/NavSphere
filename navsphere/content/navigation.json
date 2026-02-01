@@ -2168,7 +2168,16 @@
       "icon": "LayoutGrid",
       "description": "招聘网站",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1769961444285_q0ectnzr6",
+          "title": "前程无忧",
+          "href": "https://www.51job.com/",
+          "description": "访问 www.51job.com",
+          "icon": "/assets/favicon_1769961423427.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
