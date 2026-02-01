@@ -1140,6 +1140,14 @@
               "description": "在线工具,开发人员工具,代码格式化、压缩、加密、解密,下载链接转换,json格式化,正则测试工具,favicon在线制作,字帖工具,中文简繁体转换,迅雷下载链接转换,进制转换,二维码,照片压缩,pdf合并",
               "icon": "/assets/favicon_1769930964921.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1769931029392_xntiz3j2m",
+              "title": "时间时钟",
+              "href": "http://www.24timemap.com/",
+              "description": "访问 www.24timemap.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.24timemap.com",
+              "enabled": true
             }
           ]
         },
