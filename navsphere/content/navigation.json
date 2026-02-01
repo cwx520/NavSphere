@@ -1639,6 +1639,14 @@
               "description": "了解 Gmail 作为全球规模最大的电子邮件服务，如何为您的帐号和邮件加密，确保您的数据私密、安全且完全由您掌控。",
               "icon": "/assets/favicon_1769930233042.png",
               "enabled": true
+            },
+            {
+              "id": "site_1769930322137_epp3omit2",
+              "title": "Outlook",
+              "href": "https://outlook.live.com/mail/0/",
+              "description": "",
+              "icon": "/assets/favicon_1769930314262.png",
+              "enabled": true
             }
           ]
         }
