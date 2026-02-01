@@ -356,6 +356,14 @@
               "href": "https://www.cnblogs.com/",
               "description": "访问 www.cnblogs.com",
               "icon": "/assets/favicon_1769870036756.png"
+            },
+            {
+              "id": "site_1769931853370_q6czbkg3i",
+              "title": "小新's Blog",
+              "href": "https://liuwqtech.github.io/",
+              "description": "小新's Blog - 要向一颗微不足道的小星学习，可以微弱，但要有光",
+              "icon": "https://qn.liuwqtech.top/008i3skNgy1gpw51zrippj305k05k74p.jpg",
+              "enabled": true
             }
           ]
         },
