@@ -1674,6 +1674,14 @@
           "description": "本站2015年初正式上线，它的宗旨就是要使大家只需花费极少的一点零花钱就能享受到贴心的学术文献查询和下载服务。有缘成为我站会员的朋友可以不再为写论文查文献的事发愁了。本站的服务定位“面向科研人员，提供最强文献下载服务，价格公道实在，坚持以质取胜。”",
           "icon": "/assets/favicon_1769930366224.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769930410944_u51qj0i3b",
+          "title": "免费论文查重",
+          "href": "https://jike777.com/duplicate/card/index/",
+          "description": "",
+          "icon": "/assets/favicon_1769930400755.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
