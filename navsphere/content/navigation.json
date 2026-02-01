@@ -1447,6 +1447,14 @@
           "description": "开发网站",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "1186925d-9a60-4015-9ce0-7ac487ca3a14",
+          "title": "娱乐网站",
+          "icon": "FileText",
+          "description": "娱乐网站",
+          "enabled": true,
+          "items": []
         }
       ]
     }
