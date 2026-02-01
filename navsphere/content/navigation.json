@@ -2176,6 +2176,14 @@
           "description": "访问 www.51job.com",
           "icon": "/assets/favicon_1769961423427.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769961466429_kqki0otu8",
+          "title": "BOSS直聘",
+          "href": "https://www.zhipin.com/?ka=header-home-logo",
+          "description": "BOSS直聘是权威领先的招聘网，开启人才网招聘求职新时代，招聘求职找工作，BOSS直聘，直接谈！",
+          "icon": "/assets/favicon_1769961459580.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
