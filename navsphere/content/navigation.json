@@ -868,9 +868,9 @@
         },
         {
           "id": "b98ee5a0-48f1-46e8-92b2-37dd54535113",
-          "title": "技术博客",
+          "title": "技术手册",
           "icon": "FileText",
-          "description": "技术博客",
+          "description": "技术手册",
           "enabled": true,
           "items": [
             {
