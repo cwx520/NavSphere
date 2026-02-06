@@ -30,6 +30,14 @@
           "description": "访问 dash.cloudflare.com",
           "icon": "/assets/favicon_1769821778120.png",
           "enabled": true
+        },
+        {
+          "id": "site_1769821731276_mttugwksa",
+          "title": "NavSphere后端",
+          "href": "https://navsphere-94m.pages.dev/admin",
+          "description": "A modern navigation platform",
+          "icon": "https://navsphere-94m.pages.dev/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -87,14 +95,6 @@
               "href": "https://blog.csdn.net/weixin_45035342?spm=1000.2115.3001.5343",
               "description": "访问 blog.csdn.net",
               "icon": "/assets/favicon_1769821679401.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1769821731276_mttugwksa",
-              "title": "NavSphere后端",
-              "href": "https://navsphere-94m.pages.dev/admin",
-              "description": "A modern navigation platform",
-              "icon": "https://navsphere-94m.pages.dev/favicon.ico",
               "enabled": true
             },
             {
