@@ -1961,14 +1961,6 @@
               "description": "",
               "icon": "/assets/favicon_1769825170152.ico",
               "enabled": true
-            },
-            {
-              "id": "site_1771926152767_1a3o66j0h",
-              "title": "See-tool",
-              "href": "https://see-tool.com",
-              "description": "访问 see-tool.com",
-              "icon": "/assets/favicon_1771926135234.png",
-              "enabled": true
             }
           ]
         },
@@ -2009,6 +2001,14 @@
               "href": "https://www.ajihuo.com/idea/5937.html",
               "description": "访问 www.ajihuo.com",
               "icon": "/assets/favicon_1769961732359.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1771926285400_a5ucbngi7",
+              "title": "PDFCraft - 专业 PDF 工具",
+              "href": "https://pdfcraft.devtoolcafe.com/zh/",
+              "description": "免费、私密、基于浏览器。在线合并、编辑 PDF 文件，无需上传到服务器。",
+              "icon": "/assets/favicon_1771926275879.svg",
               "enabled": true
             }
           ]
