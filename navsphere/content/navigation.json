@@ -1961,6 +1961,14 @@
               "description": "",
               "icon": "/assets/favicon_1769825170152.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1771926152767_1a3o66j0h",
+              "title": "See-tool",
+              "href": "https://see-tool.com",
+              "description": "访问 see-tool.com",
+              "icon": "/assets/favicon_1771926135234.png",
+              "enabled": true
             }
           ]
         },
@@ -2004,11 +2012,11 @@
               "enabled": true
             },
             {
-              "id": "site_1771926285400_a5ucbngi7",
-              "title": "PDFCraft - 专业 PDF 工具",
-              "href": "https://pdfcraft.devtoolcafe.com/zh/",
-              "description": "免费、私密、基于浏览器。在线合并、编辑 PDF 文件，无需上传到服务器。",
-              "icon": "/assets/favicon_1771926275879.svg",
+              "id": "site_1771926485148_519ncd1c9",
+              "title": "通用媒体下载器",
+              "href": "https://downloader.bhwa233.com/zh",
+              "description": "免费在线通用媒体下载工具。支持 哔哩哔哩、抖音、小红书等平台的视频音频下载。支持哔哩哔哩音频提取转MP3、哔哩哔哩视频下载、抖音无水印视频下载、小红书图文笔记下载。一键粘贴链接，自动识别平台，高清无损下载。",
+              "icon": "/assets/favicon_1771926473898.ico",
               "enabled": true
             }
           ]
