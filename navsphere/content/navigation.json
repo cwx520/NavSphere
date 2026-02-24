@@ -1961,6 +1961,14 @@
               "description": "",
               "icon": "/assets/favicon_1769825170152.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1771926152767_1a3o66j0h",
+              "title": "See-tool",
+              "href": "https://see-tool.com",
+              "description": "访问 see-tool.com",
+              "icon": "/assets/favicon_1771926135234.png",
+              "enabled": true
             }
           ]
         },
