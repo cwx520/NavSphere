@@ -1969,6 +1969,14 @@
               "description": "访问 see-tool.com",
               "icon": "/assets/favicon_1771926135234.png",
               "enabled": true
+            },
+            {
+              "id": "site_1773383351889_fzexhz3fh",
+              "title": "优优工具箱",
+              "href": "https://uutool.cn/",
+              "description": "访问 uutool.cn",
+              "icon": "/assets/favicon_1773383330489.png",
+              "enabled": true
             }
           ]
         },
