@@ -1727,6 +1727,14 @@
               "description": "docsmall 提供免费的在线图片、GIF、PDF处理，包括图片压缩、裁剪、改尺寸，PDF合并、分割、压缩、页面调整等功能。",
               "icon": "/assets/favicon_1769931441352.png",
               "enabled": true
+            },
+            {
+              "id": "site_1773383374706_lsey3er1x",
+              "title": "EasyVoice",
+              "href": "https://easyvoice.ioplus.tech/",
+              "description": "EasyVoice: Convert your novels and large texts into natural, fluent speech with multi-role voice options and customizable settings.",
+              "icon": "/assets/favicon_1773383363317.ico",
+              "enabled": true
             }
           ]
         },
